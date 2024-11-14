@@ -1,0 +1,803 @@
+[
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 5,
+        "nutrient_name_id": 204,
+        "nutrient_web_name": "Total Fat",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 814,
+        "nutrient_web_name": "Retinol activity equivalents, RAE",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 1,
+        "nutrient_name_id": 269,
+        "nutrient_web_name": "Sugars, total",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 1,
+        "nutrient_name_id": 291,
+        "nutrient_web_name": "Fibre, total dietary",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 1,
+        "nutrient_name_id": 605,
+        "nutrient_web_name": "Fatty acids, trans, total",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 1,
+        "nutrient_name_id": 606,
+        "nutrient_web_name": "Fatty acids, saturated, total",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 319,
+        "nutrient_web_name": "Retinol",
+        "nutrient_source_id": 2
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 321,
+        "nutrient_web_name": "Beta carotene",
+        "nutrient_source_id": 2
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 431,
+        "nutrient_web_name": "Folic acid, synthetic form",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 601,
+        "nutrient_web_name": "Cholesterol",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 607,
+        "nutrient_web_name": "4:0",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 608,
+        "nutrient_web_name": "6:0",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 609,
+        "nutrient_web_name": "8:0",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 610,
+        "nutrient_web_name": "10:0",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 611,
+        "nutrient_web_name": "12:0",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 612,
+        "nutrient_web_name": "14:0",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 613,
+        "nutrient_web_name": "16:0",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 614,
+        "nutrient_web_name": "18:0",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 615,
+        "nutrient_web_name": "20:0",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 617,
+        "nutrient_web_name": "18:1",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 618,
+        "nutrient_web_name": "18:2",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 619,
+        "nutrient_web_name": "18:3",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 620,
+        "nutrient_web_name": "20:4",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 621,
+        "nutrient_web_name": "22:6n-3 (DHA)",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 624,
+        "nutrient_web_name": "22:0",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 625,
+        "nutrient_web_name": "14:1",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 626,
+        "nutrient_web_name": "16:1",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 627,
+        "nutrient_web_name": "18:4",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 628,
+        "nutrient_web_name": "20:1",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 629,
+        "nutrient_web_name": "20:5n-3 (EPA)",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 630,
+        "nutrient_web_name": "22:1",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 631,
+        "nutrient_web_name": "22:5n-3 (DPA)",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 636,
+        "nutrient_web_name": "Total plant sterol",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 638,
+        "nutrient_web_name": "Stigmasterol",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 645,
+        "nutrient_web_name": "Fatty acids, monounsaturated, total",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 646,
+        "nutrient_web_name": "Fatty acids, polyunsaturated, total",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 652,
+        "nutrient_web_name": "15:0",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 653,
+        "nutrient_web_name": "17:0",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 654,
+        "nutrient_web_name": "24:0",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 816,
+        "nutrient_web_name": "Beta-sitosterol",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 817,
+        "nutrient_web_name": "16:1t",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 818,
+        "nutrient_web_name": "18:1t",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 819,
+        "nutrient_web_name": "18:2i",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 820,
+        "nutrient_web_name": "24:1c",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 821,
+        "nutrient_web_name": "16:1c",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 823,
+        "nutrient_web_name": "20:2cc",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 824,
+        "nutrient_web_name": "18:1c",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 825,
+        "nutrient_web_name": "18:2n6cc",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 826,
+        "nutrient_web_name": "17:1",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 827,
+        "nutrient_web_name": "20:3",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 829,
+        "nutrient_web_name": "Fatty acids, trans, total, monoenoic",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 830,
+        "nutrient_web_name": "13:0",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 831,
+        "nutrient_web_name": "18:3n3cccn-3",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 832,
+        "nutrient_web_name": "18:3n6cccn-6",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 833,
+        "nutrient_web_name": "15:1",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 838,
+        "nutrient_web_name": "18:2cla",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 840,
+        "nutrient_web_name": "22:1c",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 841,
+        "nutrient_web_name": "18:3i",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 843,
+        "nutrient_web_name": "21:5",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 845,
+        "nutrient_web_name": "22:4n-6",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 846,
+        "nutrient_web_name": "24:1",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 847,
+        "nutrient_web_name": "12:1",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 848,
+        "nutrient_web_name": "22:3",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 849,
+        "nutrient_web_name": "22:2",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 852,
+        "nutrient_web_name": "22:1t",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 853,
+        "nutrient_web_name": "18:2t,t",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 854,
+        "nutrient_web_name": "20:3n-6",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 855,
+        "nutrient_web_name": "20:4n-6",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 859,
+        "nutrient_web_name": "Fatty acids, trans, total, polyenoic",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 861,
+        "nutrient_web_name": "20:3n-3",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 866,
+        "nutrient_web_name": "Campesterol",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 868,
+        "nutrient_web_name": "Fatty acids, polyunsaturated, total omega n-3",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 869,
+        "nutrient_web_name": "Fatty acids, polyunsaturated, total omega n-6",
+        "nutrient_source_id": 12
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.01,
+        "standard_error": 0,
+        "number_observation": 3,
+        "nutrient_name_id": 312,
+        "nutrient_web_name": "Copper, Cu",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.03,
+        "standard_error": 0,
+        "number_observation": 3,
+        "nutrient_name_id": 309,
+        "nutrient_web_name": "Zinc, Zn",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.04,
+        "standard_error": 0,
+        "number_observation": 5,
+        "nutrient_name_id": 203,
+        "nutrient_web_name": "Protein",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.046,
+        "standard_error": 0,
+        "number_observation": 4,
+        "nutrient_name_id": 315,
+        "nutrient_web_name": "Manganese, Mn",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.17,
+        "standard_error": 0,
+        "number_observation": 6,
+        "nutrient_name_id": 207,
+        "nutrient_web_name": "Ash",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.27,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 205,
+        "nutrient_web_name": "Carbohydrate",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.45,
+        "standard_error": 0,
+        "number_observation": 6,
+        "nutrient_name_id": 303,
+        "nutrient_web_name": "Iron, Fe",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 0.5,
+        "standard_error": 0,
+        "number_observation": 1,
+        "nutrient_name_id": 401,
+        "nutrient_web_name": "Vitamin C",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 4.0,
+        "standard_error": 1,
+        "number_observation": 4,
+        "nutrient_name_id": 304,
+        "nutrient_web_name": "Magnesium, Mg",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 6.0,
+        "standard_error": 1,
+        "number_observation": 6,
+        "nutrient_name_id": 301,
+        "nutrient_web_name": "Calcium, Ca",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 8.0,
+        "standard_error": 1,
+        "number_observation": 6,
+        "nutrient_name_id": 307,
+        "nutrient_web_name": "Sodium, Na",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 8.0,
+        "standard_error": 1,
+        "number_observation": 4,
+        "nutrient_name_id": 305,
+        "nutrient_web_name": "Phosphorus, P",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 19.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 208,
+        "nutrient_web_name": "Energy (kcal)",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 39.0,
+        "standard_error": 12,
+        "number_observation": 5,
+        "nutrient_name_id": 306,
+        "nutrient_web_name": "Potassium, K",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 79.0,
+        "standard_error": 0,
+        "number_observation": 0,
+        "nutrient_name_id": 268,
+        "nutrient_web_name": "Energy (kJ)",
+        "nutrient_source_id": 0
+    },
+    {
+        "food_code": 6195,
+        "nutrient_value": 94.47,
+        "standard_error": 0,
+        "number_observation": 3,
+        "nutrient_name_id": 255,
+        "nutrient_web_name": "Moisture",
+        "nutrient_source_id": 0
+    }
+]
