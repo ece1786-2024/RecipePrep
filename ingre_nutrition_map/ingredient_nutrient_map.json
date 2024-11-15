@@ -78,7 +78,7 @@
                 "food_code": 177,
                 "nutrient_value": 2867.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -137,7 +137,7 @@
                 "food_code": 2465,
                 "nutrient_value": 474.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -214,7 +214,7 @@
                 "food_code": 6062,
                 "nutrient_value": 55.84,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -261,7 +261,7 @@
                 "food_code": 17,
                 "nutrient_value": 2.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 17,
@@ -362,7 +362,7 @@
                 "food_code": 550,
                 "nutrient_value": 115.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -421,7 +421,7 @@
                 "food_code": 2312,
                 "nutrient_value": 66.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -510,7 +510,7 @@
                 "food_code": 5,
                 "nutrient_value": 311.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -563,7 +563,7 @@
                 "food_code": 4661,
                 "nutrient_value": 60.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -628,7 +628,7 @@
                 "food_code": 3990,
                 "nutrient_value": 304.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -699,7 +699,7 @@
                 "food_code": 28,
                 "nutrient_value": 365.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -752,7 +752,7 @@
                 "food_code": 192,
                 "nutrient_value": 13.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 192,
@@ -817,7 +817,7 @@
                 "food_code": 1600,
                 "nutrient_value": 48.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 1600,
@@ -876,7 +876,7 @@
                 "food_code": 192,
                 "nutrient_value": 13.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 192,
@@ -953,7 +953,7 @@
                 "food_code": 4724,
                 "nutrient_value": 31.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -1024,7 +1024,7 @@
                 "food_code": 188,
                 "nutrient_value": 60.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 188,
@@ -1089,7 +1089,7 @@
                 "food_code": 180,
                 "nutrient_value": 211.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -1142,7 +1142,7 @@
                 "food_code": 169,
                 "nutrient_value": 77.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -1231,7 +1231,7 @@
                 "food_code": 1256,
                 "nutrient_value": 568.2,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -1290,7 +1290,7 @@
                 "food_code": 4891,
                 "nutrient_value": 420.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -1349,7 +1349,7 @@
                 "food_code": 2494,
                 "nutrient_value": 907.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -1408,7 +1408,7 @@
                 "food_code": 2495,
                 "nutrient_value": 809.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -1479,7 +1479,7 @@
                 "food_code": 43,
                 "nutrient_value": 84.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -1538,7 +1538,7 @@
                 "food_code": 4299,
                 "nutrient_value": 37.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 4299,
@@ -1639,7 +1639,7 @@
                 "food_code": 7155,
                 "nutrient_value": 803.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -1728,7 +1728,7 @@
                 "food_code": 7470,
                 "nutrient_value": 629.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -1793,7 +1793,7 @@
                 "food_code": 2380,
                 "nutrient_value": 69.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -1846,7 +1846,7 @@
                 "food_code": 1029,
                 "nutrient_value": 2643.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 1029,
@@ -1905,7 +1905,7 @@
                 "food_code": 8,
                 "nutrient_value": 344.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -1964,7 +1964,7 @@
                 "food_code": 1874,
                 "nutrient_value": 2684.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -2023,7 +2023,7 @@
                 "food_code": 4060,
                 "nutrient_value": 1336.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -2082,7 +2082,7 @@
                 "food_code": 4377,
                 "nutrient_value": 204.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -2123,7 +2123,7 @@
                 "food_code": 3026,
                 "nutrient_value": 59.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 3026,
@@ -2212,7 +2212,7 @@
                 "food_code": 6551,
                 "nutrient_value": 227.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -2295,7 +2295,7 @@
                 "food_code": 196,
                 "nutrient_value": 68.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -2372,7 +2372,7 @@
                 "food_code": 3633,
                 "nutrient_value": 67.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -2449,7 +2449,7 @@
                 "food_code": 4607,
                 "nutrient_value": 348.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -2496,7 +2496,7 @@
                 "food_code": 2401,
                 "nutrient_value": 4.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 2401,
@@ -2561,7 +2561,7 @@
                 "food_code": 8,
                 "nutrient_value": 344.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -2620,7 +2620,7 @@
                 "food_code": 2931,
                 "nutrient_value": 49.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -2679,7 +2679,7 @@
                 "food_code": 6188,
                 "nutrient_value": 29.04,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 6188,
@@ -2726,7 +2726,7 @@
                 "food_code": 1979,
                 "nutrient_value": 2560.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -2809,7 +2809,7 @@
                 "food_code": 177,
                 "nutrient_value": 2867.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -2898,7 +2898,7 @@
                 "food_code": 4005,
                 "nutrient_value": 27360.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -2933,7 +2933,7 @@
                 "food_code": 6323,
                 "nutrient_value": 178.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 6323,
@@ -3046,7 +3046,7 @@
                 "food_code": 2038,
                 "nutrient_value": 65.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -3093,7 +3093,7 @@
                 "food_code": 17,
                 "nutrient_value": 2.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 17,
@@ -3176,7 +3176,7 @@
                 "food_code": 4446,
                 "nutrient_value": 0.494,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 4446,
@@ -3271,7 +3271,7 @@
                 "food_code": 199,
                 "nutrient_value": 30.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 199,
@@ -3336,7 +3336,7 @@
                 "food_code": 175,
                 "nutrient_value": 160.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -3383,7 +3383,7 @@
                 "food_code": 13,
                 "nutrient_value": 5.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 13,
@@ -3484,7 +3484,7 @@
                 "food_code": 2063,
                 "nutrient_value": 17.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -3561,7 +3561,7 @@
                 "food_code": 3849,
                 "nutrient_value": 385.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -3614,7 +3614,7 @@
                 "food_code": 192,
                 "nutrient_value": 13.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 192,
@@ -3667,7 +3667,7 @@
                 "food_code": 5749,
                 "nutrient_value": 0.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 5749,
@@ -3762,7 +3762,7 @@
                 "food_code": 200,
                 "nutrient_value": 5.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 200,
@@ -3833,7 +3833,7 @@
                 "food_code": 4942,
                 "nutrient_value": 436.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -3892,7 +3892,7 @@
                 "food_code": 212,
                 "nutrient_value": 4.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -3951,7 +3951,7 @@
                 "food_code": 4905,
                 "nutrient_value": 2590.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -4004,7 +4004,7 @@
                 "food_code": 4724,
                 "nutrient_value": 31.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -4075,7 +4075,7 @@
                 "food_code": 188,
                 "nutrient_value": 60.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 188,
@@ -4170,7 +4170,7 @@
                 "food_code": 6818,
                 "nutrient_value": 572.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -4223,7 +4223,7 @@
                 "food_code": 169,
                 "nutrient_value": 77.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -4276,7 +4276,7 @@
                 "food_code": 178,
                 "nutrient_value": 10.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 178,
@@ -4377,7 +4377,7 @@
                 "food_code": 179,
                 "nutrient_value": 277.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -4442,7 +4442,7 @@
                 "food_code": 189,
                 "nutrient_value": 27.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 189,
@@ -4531,7 +4531,7 @@
                 "food_code": 211,
                 "nutrient_value": 27.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 211,
@@ -4596,7 +4596,7 @@
                 "food_code": 2495,
                 "nutrient_value": 809.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -4673,7 +4673,7 @@
                 "food_code": 1589,
                 "nutrient_value": 1.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 1589,
@@ -4732,7 +4732,7 @@
                 "food_code": 3995,
                 "nutrient_value": 361.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -4821,7 +4821,7 @@
                 "food_code": 6853,
                 "nutrient_value": 70.769,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -4892,7 +4892,7 @@
                 "food_code": 3106,
                 "nutrient_value": 177.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -4981,7 +4981,7 @@
                 "food_code": 7087,
                 "nutrient_value": 544.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -5034,7 +5034,7 @@
                 "food_code": 2091,
                 "nutrient_value": 13.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 2091,
@@ -5093,7 +5093,7 @@
                 "food_code": 192,
                 "nutrient_value": 13.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 192,
@@ -5170,7 +5170,7 @@
                 "food_code": 194,
                 "nutrient_value": 73.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 194,
@@ -5235,7 +5235,7 @@
                 "food_code": 2497,
                 "nutrient_value": 18.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -5288,7 +5288,7 @@
                 "food_code": 2440,
                 "nutrient_value": 55.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 2440,
@@ -5347,7 +5347,7 @@
                 "food_code": 1748,
                 "nutrient_value": 4.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 1748,
@@ -5388,7 +5388,7 @@
                 "food_code": 6323,
                 "nutrient_value": 178.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 6323,
@@ -5531,7 +5531,7 @@
                 "food_code": 6195,
                 "nutrient_value": 8.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -5590,7 +5590,7 @@
                 "food_code": 1874,
                 "nutrient_value": 2684.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -5631,7 +5631,7 @@
                 "food_code": 2538,
                 "nutrient_value": 12.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 2538,
@@ -5684,7 +5684,7 @@
                 "food_code": 5937,
                 "nutrient_value": 18.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -5773,7 +5773,7 @@
                 "food_code": 1270,
                 "nutrient_value": 90.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -5814,7 +5814,7 @@
                 "food_code": 6642,
                 "nutrient_value": 0.377,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 6642,
@@ -5933,7 +5933,7 @@
                 "food_code": 92,
                 "nutrient_value": 11.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 92,
@@ -5998,7 +5998,7 @@
                 "food_code": 216,
                 "nutrient_value": 9.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 216,
@@ -6099,7 +6099,7 @@
                 "food_code": 6195,
                 "nutrient_value": 8.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -6134,7 +6134,7 @@
                 "food_code": 200,
                 "nutrient_value": 5.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             },
             {
                 "food_code": 200,
@@ -6223,7 +6223,7 @@
                 "food_code": 43,
                 "nutrient_value": 84.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -6282,7 +6282,7 @@
                 "food_code": 5960,
                 "nutrient_value": 12.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     },
@@ -6359,7 +6359,7 @@
                 "food_code": 2225,
                 "nutrient_value": 8.0,
                 "nutrient_web_name": "Sodium, Na",
-                "unit": "g"
+                "unit": "mg"
             }
         ]
     }
