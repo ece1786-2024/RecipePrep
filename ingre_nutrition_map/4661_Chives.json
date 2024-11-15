@@ -1,0 +1,79 @@
+{
+    "food_code": 4661,
+    "ingredient_name": "Chives",
+    "description": "fast foods, side dish, potato, baked, topped with sour cream and chives",
+    "nutrients": [
+        {
+            "food_code": 4661,
+            "nutrient_value": 1.098,
+            "standard_error": 0,
+            "number_observation": 1,
+            "nutrient_name_id": 646,
+            "nutrient_web_name": "Fatty acids, polyunsaturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4661,
+            "nutrient_value": 1.5,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 291,
+            "nutrient_web_name": "Fibre, total dietary",
+            "nutrient_source_id": 102
+        },
+        {
+            "food_code": 4661,
+            "nutrient_value": 2.21,
+            "standard_error": 0,
+            "number_observation": 2,
+            "nutrient_name_id": 203,
+            "nutrient_web_name": "Protein",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4661,
+            "nutrient_value": 2.607,
+            "standard_error": 0,
+            "number_observation": 1,
+            "nutrient_name_id": 645,
+            "nutrient_web_name": "Fatty acids, monounsaturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4661,
+            "nutrient_value": 3.315,
+            "standard_error": 0,
+            "number_observation": 1,
+            "nutrient_name_id": 606,
+            "nutrient_web_name": "Fatty acids, saturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4661,
+            "nutrient_value": 7.39,
+            "standard_error": 0,
+            "number_observation": 2,
+            "nutrient_name_id": 204,
+            "nutrient_web_name": "Total Fat",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4661,
+            "nutrient_value": 19.53,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 205,
+            "nutrient_web_name": "Carbohydrate",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4661,
+            "nutrient_value": 60.0,
+            "standard_error": 0,
+            "number_observation": 2,
+            "nutrient_name_id": 307,
+            "nutrient_web_name": "Sodium, Na",
+            "nutrient_source_id": 0
+        }
+    ]
+}

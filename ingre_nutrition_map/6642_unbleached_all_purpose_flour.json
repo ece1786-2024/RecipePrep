@@ -1,0 +1,133 @@
+{
+    "food_code": 6642,
+    "ingredient_name": "unbleached all-purpose flour",
+    "description": "grains, wheat flour, white, all purpose, unbleached",
+    "nutrients": [
+        {
+            "food_code": 6642,
+            "nutrient_value": 0.001,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 829,
+            "nutrient_web_name": "Fatty acids, trans, total, monoenoic",
+            "nutrient_source_id": 107
+        },
+        {
+            "food_code": 6642,
+            "nutrient_value": 0.003,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 859,
+            "nutrient_web_name": "Fatty acids, trans, total, polyenoic",
+            "nutrient_source_id": 107
+        },
+        {
+            "food_code": 6642,
+            "nutrient_value": 0.005,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 605,
+            "nutrient_web_name": "Fatty acids, trans, total",
+            "nutrient_source_id": 107
+        },
+        {
+            "food_code": 6642,
+            "nutrient_value": 0.038,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 868,
+            "nutrient_web_name": "Fatty acids, polyunsaturated, total omega n-3",
+            "nutrient_source_id": 107
+        },
+        {
+            "food_code": 6642,
+            "nutrient_value": 0.145,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 645,
+            "nutrient_web_name": "Fatty acids, monounsaturated, total",
+            "nutrient_source_id": 107
+        },
+        {
+            "food_code": 6642,
+            "nutrient_value": 0.377,
+            "standard_error": 0,
+            "number_observation": 16,
+            "nutrient_name_id": 307,
+            "nutrient_web_name": "Sodium, Na",
+            "nutrient_source_id": 3
+        },
+        {
+            "food_code": 6642,
+            "nutrient_value": 0.378,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 606,
+            "nutrient_web_name": "Fatty acids, saturated, total",
+            "nutrient_source_id": 107
+        },
+        {
+            "food_code": 6642,
+            "nutrient_value": 0.544,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 269,
+            "nutrient_web_name": "Sugars, total",
+            "nutrient_source_id": 107
+        },
+        {
+            "food_code": 6642,
+            "nutrient_value": 0.74,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 869,
+            "nutrient_web_name": "Fatty acids, polyunsaturated, total omega n-6",
+            "nutrient_source_id": 107
+        },
+        {
+            "food_code": 6642,
+            "nutrient_value": 0.783,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 646,
+            "nutrient_web_name": "Fatty acids, polyunsaturated, total",
+            "nutrient_source_id": 107
+        },
+        {
+            "food_code": 6642,
+            "nutrient_value": 2.241,
+            "standard_error": 0,
+            "number_observation": 18,
+            "nutrient_name_id": 204,
+            "nutrient_web_name": "Total Fat",
+            "nutrient_source_id": 3
+        },
+        {
+            "food_code": 6642,
+            "nutrient_value": 2.733,
+            "standard_error": 0,
+            "number_observation": 18,
+            "nutrient_name_id": 291,
+            "nutrient_web_name": "Fibre, total dietary",
+            "nutrient_source_id": 3
+        },
+        {
+            "food_code": 6642,
+            "nutrient_value": 12.171,
+            "standard_error": 0,
+            "number_observation": 18,
+            "nutrient_name_id": 203,
+            "nutrient_web_name": "Protein",
+            "nutrient_source_id": 3
+        },
+        {
+            "food_code": 6642,
+            "nutrient_value": 72.349,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 205,
+            "nutrient_web_name": "Carbohydrate",
+            "nutrient_source_id": 107
+        }
+    ]
+}

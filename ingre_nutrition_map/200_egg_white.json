@@ -1,0 +1,79 @@
+{
+    "food_code": 200,
+    "ingredient_name": "egg white",
+    "description": "spices, pepper, white",
+    "nutrients": [
+        {
+            "food_code": 200,
+            "nutrient_value": 0.616,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 646,
+            "nutrient_web_name": "Fatty acids, polyunsaturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 200,
+            "nutrient_value": 0.626,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 606,
+            "nutrient_web_name": "Fatty acids, saturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 200,
+            "nutrient_value": 0.789,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 645,
+            "nutrient_web_name": "Fatty acids, monounsaturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 200,
+            "nutrient_value": 2.12,
+            "standard_error": 0,
+            "number_observation": 75,
+            "nutrient_name_id": 204,
+            "nutrient_web_name": "Total Fat",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 200,
+            "nutrient_value": 5.0,
+            "standard_error": 1,
+            "number_observation": 7,
+            "nutrient_name_id": 307,
+            "nutrient_web_name": "Sodium, Na",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 200,
+            "nutrient_value": 10.4,
+            "standard_error": 0,
+            "number_observation": 78,
+            "nutrient_name_id": 203,
+            "nutrient_web_name": "Protein",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 200,
+            "nutrient_value": 26.2,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 291,
+            "nutrient_web_name": "Fibre, total dietary",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 200,
+            "nutrient_value": 68.61,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 205,
+            "nutrient_web_name": "Carbohydrate",
+            "nutrient_source_id": 0
+        }
+    ]
+}

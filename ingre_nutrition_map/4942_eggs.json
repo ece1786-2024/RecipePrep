@@ -1,0 +1,79 @@
+{
+    "food_code": 4942,
+    "ingredient_name": "eggs",
+    "description": "breakfast, scrambled eggs & sausage with hashed brown potatoes, frozen",
+    "nutrients": [
+        {
+            "food_code": 4942,
+            "nutrient_value": 0.8,
+            "standard_error": 0,
+            "number_observation": 1,
+            "nutrient_name_id": 291,
+            "nutrient_web_name": "Fibre, total dietary",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4942,
+            "nutrient_value": 2.05,
+            "standard_error": 0,
+            "number_observation": 1,
+            "nutrient_name_id": 646,
+            "nutrient_web_name": "Fatty acids, polyunsaturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4942,
+            "nutrient_value": 4.15,
+            "standard_error": 0,
+            "number_observation": 1,
+            "nutrient_name_id": 606,
+            "nutrient_web_name": "Fatty acids, saturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4942,
+            "nutrient_value": 7.1,
+            "standard_error": 0,
+            "number_observation": 1,
+            "nutrient_name_id": 203,
+            "nutrient_web_name": "Protein",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4942,
+            "nutrient_value": 7.16,
+            "standard_error": 0,
+            "number_observation": 1,
+            "nutrient_name_id": 645,
+            "nutrient_web_name": "Fatty acids, monounsaturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4942,
+            "nutrient_value": 9.7,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 205,
+            "nutrient_web_name": "Carbohydrate",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4942,
+            "nutrient_value": 15.2,
+            "standard_error": 0,
+            "number_observation": 1,
+            "nutrient_name_id": 204,
+            "nutrient_web_name": "Total Fat",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4942,
+            "nutrient_value": 436.0,
+            "standard_error": 0,
+            "number_observation": 1,
+            "nutrient_name_id": 307,
+            "nutrient_web_name": "Sodium, Na",
+            "nutrient_source_id": 0
+        }
+    ]
+}

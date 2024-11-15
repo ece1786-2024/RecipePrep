@@ -1,0 +1,115 @@
+{
+    "food_code": 4607,
+    "ingredient_name": "Tomatoes",
+    "description": "fast foods, mexican, nachos with cheese, beans, ground beef and tomatoes",
+    "nutrients": [
+        {
+            "food_code": 4607,
+            "nutrient_value": 0.027,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 859,
+            "nutrient_web_name": "Fatty acids, trans, total, polyenoic",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4607,
+            "nutrient_value": 0.14,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 829,
+            "nutrient_web_name": "Fatty acids, trans, total, monoenoic",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4607,
+            "nutrient_value": 0.167,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 605,
+            "nutrient_web_name": "Fatty acids, trans, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4607,
+            "nutrient_value": 1.63,
+            "standard_error": 0,
+            "number_observation": 3,
+            "nutrient_name_id": 269,
+            "nutrient_web_name": "Sugars, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4607,
+            "nutrient_value": 2.496,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 646,
+            "nutrient_web_name": "Fatty acids, polyunsaturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4607,
+            "nutrient_value": 2.549,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 606,
+            "nutrient_web_name": "Fatty acids, saturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4607,
+            "nutrient_value": 3.7,
+            "standard_error": 0,
+            "number_observation": 2,
+            "nutrient_name_id": 291,
+            "nutrient_web_name": "Fibre, total dietary",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4607,
+            "nutrient_value": 6.21,
+            "standard_error": 0,
+            "number_observation": 6,
+            "nutrient_name_id": 203,
+            "nutrient_web_name": "Protein",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4607,
+            "nutrient_value": 6.661,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 645,
+            "nutrient_web_name": "Fatty acids, monounsaturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4607,
+            "nutrient_value": 12.48,
+            "standard_error": 0,
+            "number_observation": 6,
+            "nutrient_name_id": 204,
+            "nutrient_web_name": "Total Fat",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4607,
+            "nutrient_value": 21.39,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 205,
+            "nutrient_web_name": "Carbohydrate",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 4607,
+            "nutrient_value": 348.0,
+            "standard_error": 6,
+            "number_observation": 6,
+            "nutrient_name_id": 307,
+            "nutrient_web_name": "Sodium, Na",
+            "nutrient_source_id": 0
+        }
+    ]
+}

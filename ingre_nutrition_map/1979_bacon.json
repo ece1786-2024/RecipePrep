@@ -1,0 +1,61 @@
+{
+    "food_code": 1979,
+    "ingredient_name": "bacon",
+    "description": "pork, cured, bacon bits, cooked",
+    "nutrients": [
+        {
+            "food_code": 1979,
+            "nutrient_value": 0.0,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 269,
+            "nutrient_web_name": "Sugars, total",
+            "nutrient_source_id": 12
+        },
+        {
+            "food_code": 1979,
+            "nutrient_value": 0.0,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 291,
+            "nutrient_web_name": "Fibre, total dietary",
+            "nutrient_source_id": 12
+        },
+        {
+            "food_code": 1979,
+            "nutrient_value": 0.6,
+            "standard_error": 0,
+            "number_observation": 1,
+            "nutrient_name_id": 205,
+            "nutrient_web_name": "Carbohydrate",
+            "nutrient_source_id": 7
+        },
+        {
+            "food_code": 1979,
+            "nutrient_value": 33.6,
+            "standard_error": 0,
+            "number_observation": 1,
+            "nutrient_name_id": 203,
+            "nutrient_web_name": "Protein",
+            "nutrient_source_id": 7
+        },
+        {
+            "food_code": 1979,
+            "nutrient_value": 39.0,
+            "standard_error": 0,
+            "number_observation": 1,
+            "nutrient_name_id": 204,
+            "nutrient_web_name": "Total Fat",
+            "nutrient_source_id": 7
+        },
+        {
+            "food_code": 1979,
+            "nutrient_value": 2560.0,
+            "standard_error": 0,
+            "number_observation": 1,
+            "nutrient_name_id": 307,
+            "nutrient_web_name": "Sodium, Na",
+            "nutrient_source_id": 7
+        }
+    ]
+}

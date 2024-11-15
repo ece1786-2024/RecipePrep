@@ -1,0 +1,115 @@
+{
+    "food_code": 3849,
+    "ingredient_name": "confectioners' sugar",
+    "description": "cookie, sugar, commercial",
+    "nutrients": [
+        {
+            "food_code": 3849,
+            "nutrient_value": 0.101,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 859,
+            "nutrient_web_name": "Fatty acids, trans, total, polyenoic",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 3849,
+            "nutrient_value": 0.388,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 829,
+            "nutrient_web_name": "Fatty acids, trans, total, monoenoic",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 3849,
+            "nutrient_value": 0.49,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 605,
+            "nutrient_web_name": "Fatty acids, trans, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 3849,
+            "nutrient_value": 1.3,
+            "standard_error": 0,
+            "number_observation": 6,
+            "nutrient_name_id": 291,
+            "nutrient_web_name": "Fibre, total dietary",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 3849,
+            "nutrient_value": 3.746,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 646,
+            "nutrient_web_name": "Fatty acids, polyunsaturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 3849,
+            "nutrient_value": 5.35,
+            "standard_error": 0,
+            "number_observation": 9,
+            "nutrient_name_id": 203,
+            "nutrient_web_name": "Protein",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 3849,
+            "nutrient_value": 6.971,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 645,
+            "nutrient_web_name": "Fatty acids, monounsaturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 3849,
+            "nutrient_value": 7.666,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 606,
+            "nutrient_web_name": "Fatty acids, saturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 3849,
+            "nutrient_value": 19.55,
+            "standard_error": 1,
+            "number_observation": 9,
+            "nutrient_name_id": 204,
+            "nutrient_web_name": "Total Fat",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 3849,
+            "nutrient_value": 27.31,
+            "standard_error": 1,
+            "number_observation": 6,
+            "nutrient_name_id": 269,
+            "nutrient_web_name": "Sugars, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 3849,
+            "nutrient_value": 67.34,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 205,
+            "nutrient_web_name": "Carbohydrate",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 3849,
+            "nutrient_value": 385.0,
+            "standard_error": 28,
+            "number_observation": 9,
+            "nutrient_name_id": 307,
+            "nutrient_web_name": "Sodium, Na",
+            "nutrient_source_id": 0
+        }
+    ]
+}

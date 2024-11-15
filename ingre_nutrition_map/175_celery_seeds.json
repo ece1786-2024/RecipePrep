@@ -1,0 +1,88 @@
+{
+    "food_code": 175,
+    "ingredient_name": "celery seeds",
+    "description": "spices, celery seed",
+    "nutrients": [
+        {
+            "food_code": 175,
+            "nutrient_value": 0.67,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 269,
+            "nutrient_web_name": "Sugars, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 175,
+            "nutrient_value": 2.19,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 606,
+            "nutrient_web_name": "Fatty acids, saturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 175,
+            "nutrient_value": 3.72,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 646,
+            "nutrient_web_name": "Fatty acids, polyunsaturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 175,
+            "nutrient_value": 11.8,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 291,
+            "nutrient_web_name": "Fibre, total dietary",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 175,
+            "nutrient_value": 15.93,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 645,
+            "nutrient_web_name": "Fatty acids, monounsaturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 175,
+            "nutrient_value": 18.07,
+            "standard_error": 1,
+            "number_observation": 6,
+            "nutrient_name_id": 203,
+            "nutrient_web_name": "Protein",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 175,
+            "nutrient_value": 25.27,
+            "standard_error": 1,
+            "number_observation": 9,
+            "nutrient_name_id": 204,
+            "nutrient_web_name": "Total Fat",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 175,
+            "nutrient_value": 41.35,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 205,
+            "nutrient_web_name": "Carbohydrate",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 175,
+            "nutrient_value": 160.0,
+            "standard_error": 18,
+            "number_observation": 5,
+            "nutrient_name_id": 307,
+            "nutrient_web_name": "Sodium, Na",
+            "nutrient_source_id": 0
+        }
+    ]
+}

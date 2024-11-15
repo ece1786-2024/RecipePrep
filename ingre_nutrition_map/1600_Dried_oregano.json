@@ -1,0 +1,70 @@
+{
+    "food_code": 1600,
+    "ingredient_name": "Dried oregano",
+    "description": "longan, dried",
+    "nutrients": [
+        {
+            "food_code": 1600,
+            "nutrient_value": 0.0,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 606,
+            "nutrient_web_name": "Fatty acids, saturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 1600,
+            "nutrient_value": 0.0,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 645,
+            "nutrient_web_name": "Fatty acids, monounsaturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 1600,
+            "nutrient_value": 0.0,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 646,
+            "nutrient_web_name": "Fatty acids, polyunsaturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 1600,
+            "nutrient_value": 0.4,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 204,
+            "nutrient_web_name": "Total Fat",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 1600,
+            "nutrient_value": 4.9,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 203,
+            "nutrient_web_name": "Protein",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 1600,
+            "nutrient_value": 48.0,
+            "standard_error": 0,
+            "number_observation": 1,
+            "nutrient_name_id": 307,
+            "nutrient_web_name": "Sodium, Na",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 1600,
+            "nutrient_value": 74.0,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 205,
+            "nutrient_web_name": "Carbohydrate",
+            "nutrient_source_id": 0
+        }
+    ]
+}

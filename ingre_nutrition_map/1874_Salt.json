@@ -1,0 +1,88 @@
+{
+    "food_code": 1874,
+    "ingredient_name": "salt",
+    "description": "pork, cured, salt pork, raw",
+    "nutrients": [
+        {
+            "food_code": 1874,
+            "nutrient_value": 0.0,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 205,
+            "nutrient_web_name": "Carbohydrate",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 1874,
+            "nutrient_value": 0.0,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 269,
+            "nutrient_web_name": "Sugars, total",
+            "nutrient_source_id": 12
+        },
+        {
+            "food_code": 1874,
+            "nutrient_value": 0.0,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 291,
+            "nutrient_web_name": "Fibre, total dietary",
+            "nutrient_source_id": 12
+        },
+        {
+            "food_code": 1874,
+            "nutrient_value": 5.05,
+            "standard_error": 0,
+            "number_observation": 2,
+            "nutrient_name_id": 203,
+            "nutrient_web_name": "Protein",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 1874,
+            "nutrient_value": 9.4,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 646,
+            "nutrient_web_name": "Fatty acids, polyunsaturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 1874,
+            "nutrient_value": 29.38,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 606,
+            "nutrient_web_name": "Fatty acids, saturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 1874,
+            "nutrient_value": 37.94,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 645,
+            "nutrient_web_name": "Fatty acids, monounsaturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 1874,
+            "nutrient_value": 80.5,
+            "standard_error": 0,
+            "number_observation": 2,
+            "nutrient_name_id": 204,
+            "nutrient_web_name": "Total Fat",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 1874,
+            "nutrient_value": 2684.0,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 307,
+            "nutrient_web_name": "Sodium, Na",
+            "nutrient_source_id": 0
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "food_code": 2465,
+    "ingredient_name": "Basic tomato sauce",
+    "description": "tomato products, canned, sauce",
+    "nutrients": [
+        {
+            "food_code": 2465,
+            "nutrient_value": 0.041,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 606,
+            "nutrient_web_name": "Fatty acids, saturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 2465,
+            "nutrient_value": 0.045,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 645,
+            "nutrient_web_name": "Fatty acids, monounsaturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 2465,
+            "nutrient_value": 0.121,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 646,
+            "nutrient_web_name": "Fatty acids, polyunsaturated, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 2465,
+            "nutrient_value": 0.3,
+            "standard_error": 0,
+            "number_observation": 13,
+            "nutrient_name_id": 204,
+            "nutrient_web_name": "Total Fat",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 2465,
+            "nutrient_value": 1.2,
+            "standard_error": 0,
+            "number_observation": 18,
+            "nutrient_name_id": 203,
+            "nutrient_web_name": "Protein",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 2465,
+            "nutrient_value": 1.43,
+            "standard_error": 0,
+            "number_observation": 20,
+            "nutrient_name_id": 291,
+            "nutrient_web_name": "Fibre, total dietary",
+            "nutrient_source_id": 3
+        },
+        {
+            "food_code": 2465,
+            "nutrient_value": 3.56,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 269,
+            "nutrient_web_name": "Sugars, total",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 2465,
+            "nutrient_value": 5.31,
+            "standard_error": 0,
+            "number_observation": 0,
+            "nutrient_name_id": 205,
+            "nutrient_web_name": "Carbohydrate",
+            "nutrient_source_id": 0
+        },
+        {
+            "food_code": 2465,
+            "nutrient_value": 474.0,
+            "standard_error": 5,
+            "number_observation": 12,
+            "nutrient_name_id": 307,
+            "nutrient_web_name": "Sodium, Na",
+            "nutrient_source_id": 0
+        }
+    ]
+}
