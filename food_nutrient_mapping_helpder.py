@@ -34,19 +34,24 @@ def get_save_nutrient_to_file(ingre_match,ingre_name):
     if map_data:
         output_file_name = f"{MAP_BASE_PATH}/{food_code}_{ingre_name.replace(" ","_").replace('-', '_')}.json"
         aggregated_data = {
-            "food_code": map_data[0]["food_code"],
             "ingredient_name": ingre_name,
-            "description": ingre_match['description'],
             "nutrients": [
-                eachNutri for eachNutri in map_data
-                if any(eval_nutri.lower() in eachNutri["nutrient_web_name"].lower() for eval_nutri in EVAL_NUTRIENTS)
-                ]
+                {
+                    "food_code": eachNutri["food_code"],
+                    "nutrient_value": eachNutri["nutrient_value"],
+                    #"nutrient_name_id": eachNutri["nutrient_name_id"], #TBD
+                    "nutrient_web_name": eachNutri["nutrient_web_name"],
+                    "unit": "g"  #TBD
+                }
+            for eachNutri in map_data
+            if any(eval_nutri.lower() in eachNutri["nutrient_web_name"].lower() for eval_nutri in EVAL_NUTRIENTS)
+            ],
         }  
       
-        with open(output_file_name, 'w') as f:
-            json.dump(aggregated_data, f, indent=4)
-        
-        #print(f"Map data for {food_code} saved to {output_file_name}")
+        # #Uncomment below to save result to a file
+        # with open(output_file_name, 'w') as f:
+        #     json.dump(aggregated_data, f, indent=4)
+        # #print(f"Map data for {food_code} saved to {output_file_name}")
         return aggregated_data
 
     return False
@@ -59,6 +64,6 @@ def test_map_create():
     get_save_nutrient_to_file(test_ingre,"Boneless rib-eye")
 
 
-# test_map_create()
+test_map_create()
 
     
