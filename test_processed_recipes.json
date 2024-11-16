@@ -1,0 +1,658 @@
+[
+    {
+        "recipe_id": "aG6zhr3x0Fm32clfiMUAhfEpJYzMFqu",
+        "recipe_title": "Double Baked Horseradish Potatoes",
+        "original_instructions": "Preheat oven to 375 degrees F. Prick the surface of the potatoes a few times with a fork then rub potatoes with oil, place on a baking sheet and bake in the oven for about 1 1/2 hours, or until you can poke a thin bladed knife into them. Remove them from the oven and let rest 10 minutes, or until cool enough to handle.\nSlice the potatoes in half vertically and carefully scrape the flesh into a medium bowl, reserving the best 4 skins. Add the butter, milk, cream and horseradish and mash until smooth, if the mixture is too dry add more milk. Season well with salt and pepper to taste. Fill each of the 4 skins with the mashed potato mixture. Place the filled potatoes on a baking sheet and return to the oven, bake until lightly golden brown, about 8 to 10 minutes. Remove from the oven and top with a dollop of sour cream, a tablespoon of caviar and sprinkle with chives.",
+        "ingredients": [
+            "4 large Russet potatoes, scrubbed",
+            "2 tablespoons olive oil",
+            "1 stick unsalted butter",
+            "1/2 cup milk",
+            "1/2 cup cream",
+            "1/4 cup grated fresh horseradish",
+            "Salt and pepper",
+            "Sour cream",
+            "Chives",
+            "4 tablespoons osetra caviar"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "Preheat oven to 375 degrees F.",
+                "Prick the surface of the potatoes with a fork and rub with oil.",
+                "Place potatoes on a baking sheet and bake for about 1 1/2 hours.",
+                "Remove from oven and let rest for 10 minutes.",
+                "Slice potatoes in half vertically and scrape the flesh into a bowl.",
+                "Reserve the best 4 skins.",
+                "Add butter, milk, cream, and horseradish to the flesh and mash.",
+                "Season with salt and pepper.",
+                "Fill each skin with the mashed mixture.",
+                "Place filled potatoes on a baking sheet and bake for 8 to 10 minutes.",
+                "Remove from oven and top with sour cream, caviar, and chives."
+            ],
+            "main_ingredients": [
+                "Russet potatoes",
+                "Butter",
+                "Milk",
+                "Cream",
+                "Horseradish"
+            ],
+            "less_important_ingredients": [
+                "Olive oil",
+                "Salt",
+                "Pepper",
+                "Sour cream",
+                "Chives",
+                "Osetra caviar"
+            ],
+            "cooking_methods": [
+                "Baking",
+                "Mashing"
+            ],
+            "cooking_time": "1 hour 50 minutes",
+            "required_tools": [
+                "Fork",
+                "Baking sheet",
+                "Oven",
+                "Knife",
+                "Medium bowl"
+            ],
+            "dietary_labels": [
+                "Gluten-free"
+            ],
+            "nutrition_value": 1600,
+            "meet_daily_nutrition_need": "false"
+        }
+    },
+    {
+        "recipe_id": "/D5aJomVjgi85bUpLlV9.4Cw22yczeK",
+        "recipe_title": "Bok Choy Fondue with Lobster",
+        "original_instructions": "In a hot saute pan, saute garlic and ginger in butter. Add bok choy, stock and lobster meat. Season and cook until soft. Check for seasoning.",
+        "ingredients": [
+            "1 teaspoon minced ginger",
+            "1 teaspoon minced garlic",
+            "1 tablespoon butter",
+            "4 cups chopped bok choy",
+            "1/2 cup lobster stock",
+            "Lobster knuckle meat from 4 lobsters",
+            "Salt and black pepper to taste"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "Heat a saute pan.",
+                "Add butter and let it melt.",
+                "Saute minced garlic and minced ginger in the butter.",
+                "Add chopped bok choy, lobster stock, and lobster knuckle meat to the pan.",
+                "Season the mixture with salt and black pepper.",
+                "Cook until the bok choy is soft.",
+                "Check and adjust seasoning if necessary."
+            ],
+            "main_ingredients": [
+                "bok choy",
+                "lobster stock",
+                "lobster knuckle meat"
+            ],
+            "less_important_ingredients": [
+                "minced ginger",
+                "minced garlic",
+                "butter",
+                "salt",
+                "black pepper"
+            ],
+            "cooking_methods": [
+                "saute"
+            ],
+            "cooking_time": "15-20 minutes",
+            "required_tools": [
+                "saute pan",
+                "stove"
+            ],
+            "dietary_labels": [
+                "gluten-free"
+            ],
+            "nutrition_value": "Approximately 450 calories",
+            "meet_daily_nutrition_need": "false"
+        }
+    },
+    {
+        "recipe_id": "7PweeN2JqK3rsZIlEljVJAUHrD5Zv0e",
+        "recipe_title": "Gremolata",
+        "original_instructions": "In a small bowl stir together gremolata ingredients and season with salt.",
+        "ingredients": [
+            "2 tablespoons finely chopped fresh flat-leafed parsley leaves (wash and dry before chopping)",
+            "1 teaspoon minced garlic (about 1 large clove)",
+            "1 teaspoon freshly grated lemon zest",
+            "Freshly ground black pepper to taste"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "Wash and dry the fresh flat-leafed parsley leaves.",
+                "Finely chop the parsley leaves.",
+                "Mince the garlic clove.",
+                "Grate the lemon zest.",
+                "In a small bowl, stir together the chopped parsley, minced garlic, and lemon zest.",
+                "Season with salt and freshly ground black pepper to taste."
+            ],
+            "main_ingredients": [
+                "fresh flat-leafed parsley leaves",
+                "garlic",
+                "lemon zest"
+            ],
+            "less_important_ingredients": [
+                "salt",
+                "black pepper"
+            ],
+            "cooking_methods": [
+                "chopping",
+                "mincing",
+                "grating"
+            ],
+            "cooking_time": "10 minutes",
+            "required_tools": [
+                "mixing bowl",
+                "knife",
+                "grater"
+            ],
+            "dietary_labels": [
+                "vegan",
+                "gluten-free"
+            ],
+            "nutrition_value": "Approximately 10 calories",
+            "meet_daily_nutrition_need": "false"
+        }
+    },
+    {
+        "recipe_id": "94VrB9uWNlIgH61r6MH60xj394yloR2",
+        "recipe_title": "Pantry Pickles",
+        "original_instructions": "Cut cucumbers across width into 1/16-inch slices, diagonally. Combine all ingredients in a medium saucepan. Bring to a boil, reduce to a simmer, and cook, uncovered., 10 to 15 minutes. Store in pickling liquid, in refrigerator.",
+        "ingredients": [
+            "6 pickling cucumbers or Kirbies, with skins",
+            "1 onion, thinly sliced across the width",
+            "1 red bell pepper, cored, seeded, and julienned",
+            "2 cups rice wine vinegar",
+            "1/2 cup granulated sugar",
+            "1 tablespoon coarse salt"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "Cut cucumbers across width into 1/16-inch slices, diagonally.",
+                "Combine all ingredients in a medium saucepan.",
+                "Bring to a boil, reduce to a simmer, and cook uncovered for 10 to 15 minutes.",
+                "Store in pickling liquid in refrigerator."
+            ],
+            "main_ingredients": [
+                "pickling cucumbers or Kirbies",
+                "onion",
+                "red bell pepper"
+            ],
+            "less_important_ingredients": [
+                "rice wine vinegar",
+                "granulated sugar",
+                "coarse salt"
+            ],
+            "cooking_methods": [
+                "cutting",
+                "simmering",
+                "boiling"
+            ],
+            "cooking_time": "10 to 15 minutes",
+            "required_tools": [
+                "medium saucepan",
+                "knife"
+            ],
+            "dietary_labels": [
+                "vegan",
+                "gluten-free"
+            ],
+            "nutrition_value": "Approximately 534 calories total for the entire recipe (assuming negligible caloric contribution from the cucumbers, onion, and bell pepper, with the majority from the sugar and vinegar).",
+            "meet_daily_nutrition_need": "false"
+        }
+    },
+    {
+        "recipe_id": "R5XcRe47cXOhjYlzKJxcTvm2O6AA40i",
+        "recipe_title": "Summer Squash Relish",
+        "original_instructions": "Drain the vegetables: Layer the squash and onions, salting each layer with kosher salt, in a large nonreactive bowl. Let stand in sink for 3 hours. Drain the squash and onions, transfer to a large colander and rinse well under cold water. Place a bowl over the vegetables, and add a couple cans of tomatoes or whatever you have on hand to weigh the bowl down to squeeze out as much of the water as possible.\nPrepare the jars and lids: Wash all jars and lids thoroughly with soap and water and rinse well. Fill your canner with enough water to cover the jars by at least 1-inch and bring to a simmer. Using a pair of canning tongs, lower the jars in gently, tilting them to fill with the hot water. In a small saucepan, keep some water warm but not boiling; place the lids in the water. Have an additional kettle of water on to boil.\nMake the brine: Bring the sugar, vinegars, mustard and celery seeds and turmeric to a rolling boil in a large nonreactive stockpot or Dutch oven. Add the squash and onions. Bring back to the boil, stirring gently. Remove from heat and allow to cool.\nMake the relish: Transfer the pickles in batches to a food processor, and pulse until broken down to a fine, even consistency. Return the processed relish to a pan and bring back to a boil. Add the pectin, stir until completely dissolved and bring back to the boil for 1 minute.\nFill and close the jars: Using canning tongs, remove the jars from the canner, carefully pouring the water back into the canner. Set next to the relish in the saucepan. Turn the heat under the canner to high. Use a ladle to pour the relish into the jars through a canning funnel, leaving 1/2-inch headspace at the top. Run a clean chopstick around the inside of the jar to dislodge any trapped air. Wipe the rims of the jars with a damp paper towel. Place the lids on, and screw on the rings until just finger-tight.\nSeal the jars: Using canning tongs, gently transfer the jars to the canner, taking care to keep them vertical. When all the jars are in the canner, there should be at least 1 inch of water covering them; if you need more, add water from the kettle until the jars are sufficiently covered. Bring the water to a full rolling boil, and process for 10 minutes.\nRemove and cool: Using canning tongs, gently remove the jars from the canner and transfer them to a kitchen towel or cooling rack, again keeping them vertical. Do not set hot jars directly on to cool counter surfaces. Leave to cool, undisturbed, for at least 12 hours. If any of the jars do not seal when cool, reprocess using the method above, or refrigerate and use immediately.\nLabel and store: Add a label to the lid or side of your jar, noting the date it was canned. Remove the rings and store jars in a cool, dark place for up to one year. Refrigerate after opening.",
+        "ingredients": [
+            "3 to 3.5 lbs zucchini or yellow squash, sliced to 1/4-inch discs",
+            "4 to 4.5 lbs yellow onions, thinly sliced",
+            "1/2 c. kosher salt",
+            "1/2 c. sugar",
+            "2 c. white distilled vinegar",
+            "2 c. cider vinegar",
+            "2 tsp mustard seeds",
+            "1 3/4 tsp celery seeds",
+            "1 3/4 tsp ground turmeric",
+            "1 packet dry pectin"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "Layer the squash and onions, salting each layer with kosher salt, in a large nonreactive bowl. Let stand in sink for 3 hours.",
+                "Drain the squash and onions, transfer to a large colander and rinse well under cold water.",
+                "Place a bowl over the vegetables, and add weight to squeeze out as much water as possible.",
+                "Wash all jars and lids thoroughly with soap and water and rinse well.",
+                "Fill the canner with enough water to cover the jars by at least 1-inch and bring to a simmer.",
+                "Lower the jars in gently with canning tongs, tilting them to fill with hot water.",
+                "Keep some water warm but not boiling in a small saucepan; place the lids in the water.",
+                "Make the brine: Bring the sugar, vinegars, mustard and celery seeds, and turmeric to a rolling boil in a large nonreactive stockpot or Dutch oven.",
+                "Add the squash and onions. Bring back to the boil, stirring gently. Remove from heat and allow to cool.",
+                "Transfer the pickles in batches to a food processor, and pulse until broken down to a fine, even consistency.",
+                "Return the processed relish to a pan and bring back to a boil.",
+                "Add the pectin, stir until completely dissolved and bring back to the boil for 1 minute.",
+                "Using canning tongs, remove the jars from the canner, pouring the water back into the canner.",
+                "Use a ladle to pour the relish into the jars through a canning funnel, leaving 1/2-inch headspace.",
+                "Run a clean chopstick around the inside of the jar to dislodge any trapped air.",
+                "Wipe the rims of the jars with a damp paper towel.",
+                "Place the lids on, and screw on the rings until just finger-tight.",
+                "Using canning tongs, transfer the jars to the canner, ensuring they remain vertical.",
+                "Bring the water to a full rolling boil, and process for 10 minutes.",
+                "Using canning tongs, remove the jars from the canner and transfer them to a kitchen towel or cooling rack.",
+                "Leave to cool, undisturbed, for at least 12 hours.",
+                "Add a label with the date to the lid or side of your jar.",
+                "Remove the rings and store jars in a cool, dark place for up to one year. Refrigerate after opening."
+            ],
+            "main_ingredients": [
+                "zucchini or yellow squash",
+                "yellow onions"
+            ],
+            "less_important_ingredients": [
+                "kosher salt",
+                "sugar",
+                "white distilled vinegar",
+                "cider vinegar",
+                "mustard seeds",
+                "celery seeds",
+                "ground turmeric",
+                "dry pectin"
+            ],
+            "cooking_methods": [
+                "draining",
+                "rinsing",
+                "boiling",
+                "processing",
+                "canning"
+            ],
+            "cooking_time": "Approximately 5 hours, including a 3-hour stand time for the vegetables",
+            "required_tools": [
+                "large nonreactive bowl",
+                "large colander",
+                "bowl for weighting",
+                "canning tongs",
+                "small saucepan",
+                "kettle",
+                "large nonreactive stockpot or Dutch oven",
+                "food processor",
+                "ladle",
+                "canning funnel",
+                "clean chopstick",
+                "damp paper towel",
+                "kitchen towel or cooling rack"
+            ],
+            "dietary_labels": [
+                "vegetarian",
+                "vegan",
+                "gluten-free"
+            ],
+            "nutrition_value": "Approximately 250-300 calories for the entire recipe.",
+            "meet_daily_nutrition_need": "false"
+        }
+    },
+    {
+        "recipe_id": "mVgWGseSJxm7xlFkXxjJAJ2xJQ1uBXa",
+        "recipe_title": "Venison Scallope with Speck, Sweet Onions and Potatoes",
+        "original_instructions": "In a 12 to 14-inch saute pan, heat 4 tablespoons olive oil until smoking. Add onions and cook until golden brown, about 8 to 10 minutes. Add Cinzano and cook until liquor is evaporated. Place onions in separate bowl and set aside. Season venison with salt and pepper and dredge in seasoned flour.\nIn a clean 12 to 14-inch saute pan, heat oil until smoking. Place venison pieces and cook until dark golden brown on one side. Turn and cook 1 minute on other side and remove to warm plate. Add potatoes and cook until light brown, about 4 to 6 minutes. Add speck, remaining Cinzano, chicken stock, tomato sauce and onions and reduce by half. Add venison and cook 1 minute. Remove meat to platter and spoon sauce around.\nSaute the onion and garlic in the olive oil over medium heat until translucent, but not brown (about 10 minutes). Add the thyme and carrot and cook 5 minutes more. Add the tomatoes. Bring to a boil, lower the heat to just bubbling, stirring occasionally for 30 minutes. Season with salt to taste. Serve immediately, or set aside for further use. The sauce may be refrigerated for up to one week or frozen for up to 6 months.",
+        "ingredients": [
+            "4 tablespoons virgin olive oil plus 4 tablespoons",
+            "2 Spanish onions, cut into 1/8inch ribbons",
+            "1 cup Cinzano Rosso sweet vermouth plus 1/2 cup",
+            "8 pieces venison, Denver leg, 1/2inch thick",
+            "1/2 cup seasoned flour",
+            "2 waxy potatoes, peeled and cut into 1/2inch cubes, soaking in water",
+            "4 ounces speck (smoked prosciutto), cut into 1/8inch julienne",
+            "4 cups chicken stock",
+            "1/4 cup basic tomato sauce, recipe follows",
+            "1 Spanish onion, cut into 1/4-inch dice",
+            "4 cloves garlic, thinly sliced",
+            "3 ounces virgin olive oil",
+            "4 tablespoons fresh thyme (or 2 tablespoons dried)",
+            "1/2 medium carrot, finely shredded",
+            "2 (28-ounce) cans of tomatoes, crushed and mixed well with their juices",
+            "Salt, to taste"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "In a 12 to 14-inch saute pan, heat 4 tablespoons olive oil until smoking.",
+                "Add onions and cook until golden brown, about 8 to 10 minutes.",
+                "Add Cinzano and cook until liquor is evaporated.",
+                "Place onions in separate bowl and set aside.",
+                "Season venison with salt and pepper and dredge in seasoned flour.",
+                "In a clean 12 to 14-inch saute pan, heat oil until smoking.",
+                "Place venison pieces and cook until dark golden brown on one side.",
+                "Turn and cook 1 minute on other side and remove to warm plate.",
+                "Add potatoes to the pan and cook until light brown, about 4 to 6 minutes.",
+                "Add speck, remaining Cinzano, chicken stock, tomato sauce and onions and reduce by half.",
+                "Add venison back and cook 1 minute.",
+                "Remove meat to platter and spoon sauce around.",
+                "For the sauce, saute the onion and garlic in the olive oil over medium heat until translucent, but not brown (about 10 minutes).",
+                "Add the thyme and carrot and cook 5 minutes more.",
+                "Add the tomatoes.",
+                "Bring to a boil, lower the heat to just bubbling, stirring occasionally for 30 minutes.",
+                "Season with salt to taste.",
+                "Serve immediately, or set aside for further use."
+            ],
+            "main_ingredients": [
+                "Venison",
+                "Spanish onions",
+                "Cinzano Rosso sweet vermouth",
+                "Waxy potatoes",
+                "Speck",
+                "Chicken stock",
+                "Basic tomato sauce",
+                "Tomatoes"
+            ],
+            "less_important_ingredients": [
+                "Olive oil",
+                "Seasoned flour",
+                "Salt",
+                "Pepper",
+                "Garlic",
+                "Thyme",
+                "Carrot"
+            ],
+            "cooking_methods": [
+                "Sauteing",
+                "Dredging",
+                "Simmering",
+                "Boiling"
+            ],
+            "cooking_time": "Approximately 70 minutes",
+            "required_tools": [
+                "12 to 14-inch saute pan",
+                "Bowl",
+                "Plate"
+            ],
+            "dietary_labels": [
+                "Gluten-containing",
+                "Contains meat"
+            ],
+            "nutrition_value": "Estimated to be around 650-700 calories per serving based on typical portion sizes for the given ingredients",
+            "meet_daily_nutrition_need": "false"
+        }
+    },
+    {
+        "recipe_id": "WKSMuvjNyJkoEpixq.17.4cQ3ZshNau",
+        "recipe_title": "Bistro Steak",
+        "original_instructions": "Brush four 12-ounce boneless rib-eyes with canola oil, season with salt and rub with Chili Spice Rub (recipe below) on one side. Grill rub-side down over high heat, 3 to 4 minutes. Flip, cover and grill 5 to 6 more minutes (for medium-rare). Serve with Bar Americain Steak Sauce (recipe below).\nWhisk all of the ingredients in a bowl.\nWhisk all of the ingredients in a bowl. Cover and refrigerate at least 30 minutes or up to 1 day. Bring to room temperature before serving.\nPhotographs by Steve Giralt",
+        "ingredients": [
+            "1/4 cup ancho chile powder",
+            "1 1/2 tablespoons sweet paprika",
+            "2 teaspoons dried oregano",
+            "2 teaspoons ground coriander",
+            "2 teaspoons dry mustard",
+            "2 teaspoons kosher salt",
+            "2 teaspoons freshly ground pepper",
+            "1 teaspoon ground cumin",
+            "1/4 cup dijon mustard",
+            "1/4 cup whole-grain mustard",
+            "1/4 cup molasses",
+            "2 tablespoons ketchup",
+            "2 tablespoons honey",
+            "1 tablespoon horseradish, drained",
+            "1/2 teaspoon kosher salt",
+            "1/4 teaspoon freshly ground pepper"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "Brush four 12-ounce boneless rib-eyes with canola oil.",
+                "Season with salt.",
+                "Rub with Chili Spice Rub on one side.",
+                "Grill rub-side down over high heat for 3 to 4 minutes.",
+                "Flip the steaks, cover, and grill for 5 to 6 more minutes for medium-rare.",
+                "Serve with Bar Americain Steak Sauce."
+            ],
+            "main_ingredients": [
+                "Boneless rib-eyes",
+                "Canola oil",
+                "Kosher salt",
+                "Ancho chile powder",
+                "Sweet paprika",
+                "Dijon mustard",
+                "Whole-grain mustard",
+                "Molasses"
+            ],
+            "less_important_ingredients": [
+                "Dried oregano",
+                "Ground coriander",
+                "Dry mustard",
+                "Freshly ground pepper",
+                "Ground cumin",
+                "Ketchup",
+                "Honey",
+                "Horseradish"
+            ],
+            "cooking_methods": [
+                "Brushing",
+                "Grilling",
+                "Whisking"
+            ],
+            "cooking_time": "11 to 13 minutes",
+            "required_tools": [
+                "Grill",
+                "Whisk",
+                "Bowl",
+                "Brush",
+                "Refrigerator"
+            ],
+            "dietary_labels": [
+                "Gluten-free"
+            ],
+            "nutrition_value": 2400,
+            "meet_daily_nutrition_need": "true"
+        }
+    },
+    {
+        "recipe_id": "HHcS/mFYGulT8ExXsvMbnU8.WE638au",
+        "recipe_title": "Dutch Spice Cookies",
+        "original_instructions": "Sift the flour, cinnamon, baking soda, nutmeg, anise, cloves, ginger, salt and pepper into a medium bowl, then whisk to combine.\nBeat the butter and brown sugar in a large bowl with a mixer on medium-high speed until light and fluffy, 3 to 5 minutes. Reduce the mixer speed to low; add half of the flour mixture and beat until combined, scraping down the bowl as needed. Add 3 tablespoons water and the remaining flour mixture and beat until just combined. Turn out onto a piece of plastic wrap, pat into a disk, wrap and refrigerate until firm, about 1 hour.\nDust the dough with confectioners' sugar, then transfer to a piece of parchment paper and roll out until 1/4 inch thick. Cut into shapes using 2-to-3-inch cookie cutters. Transfer the cutouts to 2 ungreased baking sheets and press sliced almonds decoratively on top. Freeze until firm, about 1 hour.\nPosition racks in the upper and lower thirds of the oven and preheat to 325 degrees F. Transfer the cookies to the oven and reduce the temperature to 275 degrees F; bake, switching the position of the pans halfway through, until crisp and golden, 45 to 50 minutes. Let cool 3 minutes on the baking sheets, then transfer to racks to cool completely.\nPhotograph by Johnny Miller",
+        "ingredients": [
+            "1 1/2 cups all-purpose flour",
+            "1 1/2 teaspoons ground cinnamon",
+            "1/2 teaspoon baking soda",
+            "1/2 teaspoon freshly grated nutmeg",
+            "1/4 teaspoon ground anise",
+            "1/4 teaspoon ground cloves",
+            "1/4 teaspoon ground ginger",
+            "1/4 teaspoon salt",
+            "1/4 teaspoon freshly ground pepper",
+            "1 stick unsalted butter, at room temperature",
+            "3/4 cup packed light brown sugar",
+            "Confectioners' sugar, for dusting",
+            "Sliced blanched almonds, for decorating"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "Sift the flour, cinnamon, baking soda, nutmeg, anise, cloves, ginger, salt and pepper into a medium bowl, then whisk to combine.",
+                "Beat the butter and brown sugar in a large bowl with a mixer on medium-high speed until light and fluffy, 3 to 5 minutes.",
+                "Reduce the mixer speed to low; add half of the flour mixture and beat until combined, scraping down the bowl as needed.",
+                "Add 3 tablespoons water and the remaining flour mixture and beat until just combined.",
+                "Turn out onto a piece of plastic wrap, pat into a disk, wrap and refrigerate until firm, about 1 hour.",
+                "Dust the dough with confectioners' sugar, then transfer to a piece of parchment paper and roll out until 1/4 inch thick.",
+                "Cut into shapes using 2-to-3-inch cookie cutters.",
+                "Transfer the cutouts to 2 ungreased baking sheets and press sliced almonds decoratively on top.",
+                "Freeze until firm, about 1 hour.",
+                "Position racks in the upper and lower thirds of the oven and preheat to 325 degrees F.",
+                "Transfer the cookies to the oven and reduce the temperature to 275 degrees F; bake, switching the position of the pans halfway through, until crisp and golden, 45 to 50 minutes.",
+                "Let cool 3 minutes on the baking sheets, then transfer to racks to cool completely."
+            ],
+            "main_ingredients": [
+                "all-purpose flour",
+                "unsalted butter",
+                "light brown sugar"
+            ],
+            "less_important_ingredients": [
+                "ground cinnamon",
+                "baking soda",
+                "freshly grated nutmeg",
+                "ground anise",
+                "ground cloves",
+                "ground ginger",
+                "salt",
+                "freshly ground pepper",
+                "confectioners' sugar",
+                "sliced blanched almonds"
+            ],
+            "cooking_methods": [
+                "sifting",
+                "beating",
+                "refrigerating",
+                "rolling",
+                "cutting",
+                "freezing",
+                "baking"
+            ],
+            "cooking_time": "Approximately 2 hours and 55 minutes",
+            "required_tools": [
+                "mixer",
+                "sifter",
+                "baking sheets",
+                "parchment paper",
+                "plastic wrap",
+                "cookie cutters",
+                "oven"
+            ],
+            "dietary_labels": [],
+            "nutrition_value": "Approximately 1,440 calories for the entire batch of cookies.",
+            "meet_daily_nutrition_need": "false"
+        }
+    },
+    {
+        "recipe_id": "8pELcRUxcnlO3aJuBxCzFzxRUG3Isi2",
+        "recipe_title": "Rabbit Isabel",
+        "original_instructions": "Make seasoned flour with salt, pepper, dry mustard and cayenne pepper.\nIn a food processor finely mince the leg meat, add the egg white and seasoning and blend to a paste. Flatten the fillets and flour lightly. Lay a piece of bacon cut to fit on one fillet, spread a layer of the mousseline of rabbit and egg white onto the bacon and lay your sorrel of sage leaves on top of this. Place the other rabbit fillet on top to make a parcel.\nIn a heavy-lidded frying pan melt the butter and gently fry the onion, add the rabbit parcel and brown, turning carefully. Season, pour on white wine, cover and cook gently for 10 minutes turning the parcel halfway through.\nCheck that the rabbit is tender and cooked through, and serve with garlic-pureed potatoes and a green vegetable.",
+        "ingredients": [
+            "1-ounce plain (all-purpose) flour",
+            "Salt and freshly ground black pepper",
+            "1/4 teaspoon dry mustard",
+            "1/4 teaspoon cayenne pepper",
+            "1 young rabbit per person, fillets and leg meat removed",
+            "1 egg white",
+            "1 slice good bacon per two rabbit fillets",
+            "Sorrel or sage leaves",
+            "4 ounces (1 stick) butter",
+            "1 onion, finely chopped",
+            "Glass white wine"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "Create seasoned flour by mixing flour with salt, pepper, dry mustard, and cayenne pepper.",
+                "Finely mince the rabbit leg meat in a food processor. Add egg white and seasonings and blend to a paste.",
+                "Flatten the rabbit fillets and lightly flour them.",
+                "Place a piece of bacon on one rabbit fillet. Spread a layer of the rabbit and egg white paste (mousseline) onto the bacon.",
+                "Place sorrel or sage leaves on top of the mousseline.",
+                "Top with the other rabbit fillet to create a parcel.",
+                "In a heavy-lidded frying pan, melt butter and gently fry the chopped onion.",
+                "Add the rabbit parcel to the pan and brown it on all sides while turning carefully.",
+                "Season the dish, pour in the white wine, cover, and cook gently for 10 minutes, turning the parcel halfway through.",
+                "Check if the rabbit is tender and cooked through before serving.",
+                "Serve with garlic-pureed potatoes and a green vegetable."
+            ],
+            "main_ingredients": [
+                "rabbit",
+                "egg white",
+                "bacon",
+                "sorrel or sage leaves"
+            ],
+            "less_important_ingredients": [
+                "plain flour",
+                "salt",
+                "black pepper",
+                "dry mustard",
+                "cayenne pepper",
+                "butter",
+                "onion",
+                "white wine"
+            ],
+            "cooking_methods": [
+                "frying",
+                "browning"
+            ],
+            "cooking_time": "Approximately 20 minutes (10 minutes preparation, 10 minutes cooking)",
+            "required_tools": [
+                "food processor",
+                "frying pan",
+                "lid for frying pan"
+            ],
+            "dietary_labels": [
+                "gluten",
+                "dairy"
+            ],
+            "nutrition_value": "The recipe contains approximately 900-1000 calories per serving due to rabbit meat, bacon, butter, and other ingredients.",
+            "meet_daily_nutrition_need": "false"
+        }
+    },
+    {
+        "recipe_id": "3Le9bul2sBdA8qPteRqaTQQQXzl7tIm",
+        "recipe_title": "Old-Fashioned Cupcakes",
+        "original_instructions": "Watch how to make this recipe.\nPreheat oven to 325 degrees F. Line cupcake pans with paper liners; set aside.\nCombine in a bowl both flours, sugar, baking powder and salt. Mix on low speed until combined for about 3 minutes. Add in cubed butter, mixing until just coated with flour.\nAdd eggs 1 at a time until combined. Slowly add milk and vanilla to batter until completely mixed scraping down the bowl as you mix.\nScoop batter into baking cups filling about 2/3 full. Bake until a cake tester inserted in the center comes out clean, 17 to 20 minutes.\nCool and decorate with Old Fashioned Frosting.\nCream softened butter and add 4 cups sugar, milk and vanilla. Beat with paddle attachment until smooth gradually add the rest of sugar to reach frosting consistency*. (See Cook's Note)",
+        "ingredients": [
+            "1 3/4 cups cake flour (not self-rising)",
+            "1 1/4 cups unbleached all-purpose flour",
+            "2 cups sugar",
+            "1 tablespoon baking powder",
+            "3/4 teaspoon salt",
+            "2 sticks unsalted butter, cut into cubes",
+            "4 large eggs",
+            "1 cup whole milk",
+            "1 teaspoon pure vanilla extract",
+            "Old Fashioned Frosting, recipe follows",
+            "2 sticks butter, room temperature",
+            "8 cups confectioners' sugar",
+            "1/2 cup milk",
+            "2 teaspoons vanilla extract or other flavoring"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "Preheat oven to 325 degrees F.",
+                "Line cupcake pans with paper liners; set aside.",
+                "Combine both flours, sugar, baking powder, and salt in a bowl.",
+                "Mix on low speed until combined for about 3 minutes.",
+                "Add in cubed butter, mixing until just coated with flour.",
+                "Add eggs 1 at a time until combined.",
+                "Slowly add milk and vanilla to batter until completely mixed, scraping down the bowl as you mix.",
+                "Scoop batter into baking cups filling about 2/3 full.",
+                "Bake until a cake tester inserted in the center comes out clean, 17 to 20 minutes.",
+                "Cool and decorate with Old Fashioned Frosting.",
+                "Cream softened butter and add 4 cups sugar, milk, and vanilla.",
+                "Beat with paddle attachment until smooth, gradually add the rest of the sugar to reach frosting consistency."
+            ],
+            "main_ingredients": [
+                "cake flour",
+                "unbleached all-purpose flour",
+                "sugar",
+                "baking powder",
+                "unsalted butter",
+                "eggs",
+                "whole milk",
+                "vanilla extract"
+            ],
+            "less_important_ingredients": [
+                "Old Fashioned Frosting",
+                "confectioners' sugar"
+            ],
+            "cooking_methods": [
+                "baking"
+            ],
+            "cooking_time": "20 minutes",
+            "required_tools": [
+                "oven",
+                "cupcake pans",
+                "paper liners",
+                "mixing bowl",
+                "mixer",
+                "paddle attachment",
+                "cake tester"
+            ],
+            "dietary_labels": [],
+            "nutrition_value": "5800 calories",
+            "meet_daily_nutrition_need": "true"
+        }
+    }
+]

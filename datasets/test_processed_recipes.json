@@ -1,0 +1,616 @@
+[
+    {
+        "recipe_id": "WKSMuvjNyJkoEpixq.17.4cQ3ZshNau",
+        "recipe_title": "Bistro Steak",
+        "original_instructions": "Brush four 12-ounce boneless rib-eyes with canola oil, season with salt and rub with Chili Spice Rub (recipe below) on one side. Grill rub-side down over high heat, 3 to 4 minutes. Flip, cover and grill 5 to 6 more minutes (for medium-rare). Serve with Bar Americain Steak Sauce (recipe below).\nWhisk all of the ingredients in a bowl.\nWhisk all of the ingredients in a bowl. Cover and refrigerate at least 30 minutes or up to 1 day. Bring to room temperature before serving.\nPhotographs by Steve Giralt",
+        "ingredients": [
+            "1/4 cup ancho chile powder",
+            "1 1/2 tablespoons sweet paprika",
+            "2 teaspoons dried oregano",
+            "2 teaspoons ground coriander",
+            "2 teaspoons dry mustard",
+            "2 teaspoons kosher salt",
+            "2 teaspoons freshly ground pepper",
+            "1 teaspoon ground cumin",
+            "1/4 cup dijon mustard",
+            "1/4 cup whole-grain mustard",
+            "1/4 cup molasses",
+            "2 tablespoons ketchup",
+            "2 tablespoons honey",
+            "1 tablespoon horseradish, drained",
+            "1/2 teaspoon kosher salt",
+            "1/4 teaspoon freshly ground pepper"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "Brush four 12-ounce boneless rib-eyes with canola oil.",
+                "Season the steaks with salt.",
+                "Rub with Chili Spice Rub on one side.",
+                "Grill rub-side down over high heat for 3 to 4 minutes.",
+                "Flip the steaks, cover, and grill for 5 to 6 more minutes for medium-rare.",
+                "Serve with Bar Americain Steak Sauce."
+            ],
+            "pure_ingredients": [
+                "ancho chile",
+                "sweet paprika",
+                "dried oregano",
+                "coriander",
+                "dry mustard",
+                "salt",
+                "pepper",
+                "cumin",
+                "dijon mustard",
+                "whole-grain mustard",
+                "molasses",
+                "ketchup",
+                "honey",
+                "horseradish",
+                "rib-eye steak",
+                "canola oil"
+            ],
+            "cooking_methods": [
+                "brushing",
+                "seasoning",
+                "rubbing",
+                "grilling",
+                "whisking",
+                "refrigerating"
+            ],
+            "cooking_time": "30 to 40 minutes",
+            "required_tools": [
+                "grill",
+                "bowl",
+                "whisk",
+                "brush",
+                "refrigerator"
+            ],
+            "dietary_labels": [
+                "gluten-free"
+            ],
+            "nutrition_value": "Approximately 2300 calories for the entire dish (considering 4 steaks and sauces)",
+            "meet_daily_nutrition_need": "true"
+        }
+    },
+    {
+        "recipe_id": "WrrS65vv0nWYAe7xv2DGl1AIbIvjoP6",
+        "recipe_title": "Bacon-Wrapped Onion Rings",
+        "original_instructions": "Preheat the oven to 375 degrees F.\nWrap 2 slices of bacon through the middle of each onion ring and fully around to cover, leaving the center of the ring open. Transfer to a baking rack on a baking sheet. Bake until the bacon is fully cooked, about 25 minutes.",
+        "ingredients": [
+            "Two 16-ounce packages thinly sliced bacon",
+            "One 16-ounce package frozen onion rings"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "Preheat the oven to 375 degrees F.",
+                "Wrap 2 slices of bacon through the middle of each onion ring and fully around to cover, leaving the center of the ring open.",
+                "Transfer to a baking rack on a baking sheet.",
+                "Bake until the bacon is fully cooked, about 25 minutes."
+            ],
+            "pure_ingredients": [
+                "bacon",
+                "onion"
+            ],
+            "cooking_methods": [
+                "preheat",
+                "bake"
+            ],
+            "cooking_time": "25 minutes",
+            "required_tools": [
+                "oven",
+                "baking sheet",
+                "baking rack"
+            ],
+            "dietary_labels": [],
+            "nutrition_value": 3840,
+            "meet_daily_nutrition_need": "true"
+        }
+    },
+    {
+        "recipe_id": "zNa8GqaTRnXNYiXf1gFwXnP3QDhGezS",
+        "recipe_title": "Coffee S'More Pie",
+        "original_instructions": "Preheat oven to 350 degrees F.\nIn a mixing bowl, whisk together eggs and sugar thoroughly combined and pale yellow. Whisk in melted butter, cocoa powder, evaporated milk, and coffee liqueur. Set aside.\nPlace pie shell on baking sheet and place on an oven rack. Carefully pour in filling. Bake in preheated oven for 45 minutes. About 5 minutes before pie is finished, mound marshmallows in the center of the pie (they will spread as they melt). Continue baking until marshmallows are golden brown.\nLet cool slightly. Serve warm.",
+        "ingredients": [
+            "4 eggs",
+            "1 1/2 cups sugar",
+            "1/2 stick butter, melted",
+            "3 tablespoons unsweetened cocoa powder",
+            "1 (5-ounce) can evaporated milk",
+            "1/4 cup coffee liqueur",
+            "1 (9-inch) graham cracker pie crust",
+            "2 cups miniature marshmallows"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "Preheat oven to 350 degrees F.",
+                "In a mixing bowl, whisk together eggs and sugar until thoroughly combined and pale yellow.",
+                "Whisk in melted butter, cocoa powder, evaporated milk, and coffee liqueur.",
+                "Set aside the mixture.",
+                "Place pie shell on baking sheet and place on an oven rack.",
+                "Carefully pour in the filling.",
+                "Bake in preheated oven for 45 minutes.",
+                "About 5 minutes before pie is finished, mound marshmallows in the center of the pie.",
+                "Continue baking until marshmallows are golden brown.",
+                "Let cool slightly.",
+                "Serve warm."
+            ],
+            "pure_ingredients": [
+                "eggs",
+                "sugar",
+                "butter",
+                "cocoa powder",
+                "evaporated milk",
+                "coffee liqueur",
+                "graham cracker",
+                "marshmallows"
+            ],
+            "cooking_methods": [
+                "preheat",
+                "whisk",
+                "bake"
+            ],
+            "cooking_time": "50 minutes",
+            "required_tools": [
+                "oven",
+                "mixing bowl",
+                "whisk",
+                "baking sheet"
+            ],
+            "dietary_labels": [],
+            "nutrition_value": "Approximately 2990 calories",
+            "meet_daily_nutrition_need": "true"
+        }
+    },
+    {
+        "recipe_id": "9/vWMMqeZxqev7MMJXGVlpB7.dlCVOy",
+        "recipe_title": "Grandma's Watercress Salad All Dressed Up",
+        "original_instructions": "In a medium mixing bowl, toss watercress, gorgonzola, onion, nuts and vinaigrette. Season and decoratively place in the center of a chilled plate (be sure to divide all ingredients evenly amongst 4 plates). Garnish salad with slices of prosciutto, figs and a drizzle of fig balsamic vinegar.\nPreheat oven to 350 degrees F.\nIn a medium saute pan over medium heat, melt butter and then add nuts. Toss nuts in pan until well coated with butter, then add honey and toss some more until nuts are well coated. Season with salt, pepper and a touch of cayenne pepper. Put nuts in oven for about 5 to 7 minutes, tossing regularly so they toast evenly. Cool. Store in airtight container until needed.\nPlace all ingredients in blender except oil. Process until smooth and then slowly drizzle in oil. Adjust seasoning, as desired.",
+        "ingredients": [
+            "2 bunches washed and clipped watercress",
+            "4 ounces crumbled Gorgonzola",
+            "4 ounces red onion, julienned",
+            "4 ounces spiced walnuts, recipe follows",
+            "4 ounces red wine vinaigrette, recipe follows",
+            "Kosher salt and freshly ground white pepper",
+            "2 ounces duck prosciutto",
+            "4 mission figs, cut in 1/2 lengthwise",
+            "Fig balsamic vinegar",
+            "3 ounces butter",
+            "2 cups walnuts, chopped",
+            "3 ounces honey",
+            "Kosher salt and freshly ground white pepper",
+            "Pinch cayenne pepper",
+            "3 cloves",
+            "1 small shallot",
+            "1 tablespoon Dijon mustard",
+            "2 tablespoons fresh lemon juice",
+            "1 cup red wine vinegar",
+            "3 teaspoons sugar",
+            "2 1/2 cups blended oil",
+            "Kosher salt and freshly ground black pepper"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "In a medium mixing bowl, toss watercress, gorgonzola, onion, nuts and vinaigrette.",
+                "Season and place the salad decoratively in the center of a chilled plate, dividing evenly among 4 plates.",
+                "Garnish salad with slices of prosciutto, figs, and a drizzle of fig balsamic vinegar.",
+                "Preheat the oven to 350 degrees F.",
+                "In a medium saute pan over medium heat, melt the butter and then add the chopped walnuts.",
+                "Toss nuts in the pan until well coated with butter, then add honey and continue tossing until the nuts are well coated.",
+                "Season with salt, pepper, and a pinch of cayenne pepper.",
+                "Place nuts in the oven for about 5 to 7 minutes, tossing regularly so they toast evenly.",
+                "Cool the nuts and store in an airtight container until needed.",
+                "For the vinaigrette, place cloves, shallot, Dijon mustard, fresh lemon juice, red wine vinegar, and sugar in a blender.",
+                "Process until smooth and then slowly drizzle in the blended oil while processing.",
+                "Adjust seasoning as desired."
+            ],
+            "pure_ingredients": [
+                "watercress",
+                "Gorgonzola",
+                "red onion",
+                "walnuts",
+                "butter",
+                "honey",
+                "salt",
+                "white pepper",
+                "cayenne pepper",
+                "cloves",
+                "shallot",
+                "Dijon mustard",
+                "lemon juice",
+                "red wine vinegar",
+                "sugar",
+                "oil",
+                "black pepper",
+                "duck prosciutto",
+                "figs",
+                "fig balsamic vinegar"
+            ],
+            "cooking_methods": [
+                "tossing",
+                "coating",
+                "garnishing",
+                "preheating",
+                "melting",
+                "baking",
+                "cooling",
+                "blending"
+            ],
+            "cooking_time": "Approximately 20 minutes",
+            "required_tools": [
+                "medium mixing bowl",
+                "medium saute pan",
+                "oven",
+                "airtight container",
+                "blender"
+            ],
+            "dietary_labels": [
+                "gluten-free"
+            ],
+            "nutrition_value": "Approximately 1600 calories for the entire recipe",
+            "meet_daily_nutrition_need": "false"
+        }
+    },
+    {
+        "recipe_id": "rMDYedV0tLYVp5ND7awqlPKSkq4WAgW",
+        "recipe_title": "Base Cranberry Sauce",
+        "original_instructions": "Heat the canola oil in a large pot over medium heat. Add the ginger and shallots and cook, stirring, until soft and fragrant, about 3 minutes. Stir in the brown sugar, honey, orange juice, 1/4 cup granulated sugar, and salt. Cook, stirring, until sugar dissolves and mixture is nice and bubbly.\nAdd half the cranberries and cook, stirring occasionally, until the cranberries pop and the mixture thickens, about 5 minutes. Add the remaining cranberries and cook another 5 minutes or so.",
+        "ingredients": [
+            "2 tablespoons canola oil",
+            "1 tablespoon grated ginger",
+            "1 large shallot, finely diced",
+            "3/4 cup brown sugar",
+            "1/2 cup honey",
+            "1/4 cup orange juice",
+            "1/2 cup granulated sugar",
+            "Pinch kosher salt",
+            "1 pound fresh or frozen cranberries"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "Heat the canola oil in a large pot over medium heat.",
+                "Add the ginger and shallots and cook, stirring, until soft and fragrant, about 3 minutes.",
+                "Stir in the brown sugar, honey, orange juice, 1/4 cup granulated sugar, and salt.",
+                "Cook, stirring, until sugar dissolves and mixture is nice and bubbly.",
+                "Add half the cranberries and cook, stirring occasionally, until the cranberries pop and the mixture thickens, about 5 minutes.",
+                "Add the remaining cranberries and cook another 5 minutes or so."
+            ],
+            "pure_ingredients": [
+                "canola oil",
+                "ginger",
+                "shallot",
+                "brown sugar",
+                "honey",
+                "orange juice",
+                "granulated sugar",
+                "kosher salt",
+                "cranberries"
+            ],
+            "cooking_methods": [
+                "heating",
+                "stirring",
+                "cooking"
+            ],
+            "cooking_time": "Approximately 15 minutes",
+            "required_tools": [
+                "large pot",
+                "stove",
+                "stirring spoon"
+            ],
+            "dietary_labels": [
+                "vegetarian",
+                "gluten-free"
+            ],
+            "nutrition_value": "Approximately 1500 calories",
+            "meet_daily_nutrition_need": "false"
+        }
+    },
+    {
+        "recipe_id": "uPRLV/JlzLeDKWsJstTz.oKoqqWX0rm",
+        "recipe_title": "Gemelli with Kale Pesto and Olives",
+        "original_instructions": "Watch how to make this recipe.\nFor the pesto: Place the walnuts, garlic and kale in a food processor. Pulse until coarsely chopped. With the motor running, drizzle in the olive oil to form a smooth sauce. Add the salt, pepper flakes, orange zest, orange juice and Parmesan. Pulse until well blended. Pour the pesto into a large bowl and set aside.\nFor the pasta: Bring a large pot of salted water to a boil. Add the gemelli and cook until al dente, 8 to 10 minutes. Drain the pasta, reserving 1 cup of the pasta water. Add the hot pasta to the bowl with the pesto, and toss well with a rubber spatula to coat. Add the chicken, the Cerignola and Kalamata olives, and the salt and Parmesan. Toss again. Loosen with pasta water as needed. Finish with a drizzle of olive oil if desired.",
+        "ingredients": [
+            "1/2 cup walnut halves",
+            "1 clove garlic",
+            "3 cups baby kale",
+            "2/3 cup extra-virgin olive oil",
+            "1/2 teaspoon kosher salt",
+            "1/8 teaspoon red pepper flakes",
+            "1 teaspoon orange zest (1 large orange)",
+            "1/4 cup orange juice (1/2 orange)",
+            "1 cup freshly grated Parmigiano Reggiano",
+            "1 pound gemelli pasta",
+            "One 2 1/2-pound rotisserie chicken, meat picked and shredded (about 3 cups)",
+            "1 cup red or green Cerignola olives, pitted and roughly chopped",
+            "1/2 cup pitted Kalamata olives, roughly chopped",
+            "1/2 teaspoon kosher salt",
+            "1 cup freshly grated Parmigiano Reggiano",
+            "Extra-virgin olive oil, for drizzling"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "Place the walnuts, garlic, and kale in a food processor. Pulse until coarsely chopped.",
+                "With the motor running, drizzle in the olive oil to form a smooth sauce.",
+                "Add the salt, pepper flakes, orange zest, orange juice, and Parmesan to the food processor. Pulse until well blended.",
+                "Pour the pesto into a large bowl and set aside.",
+                "Bring a large pot of salted water to a boil.",
+                "Add the gemelli pasta and cook until al dente, about 8 to 10 minutes.",
+                "Drain the pasta, reserving 1 cup of the pasta water.",
+                "Add the hot pasta to the bowl with the pesto and toss well to coat.",
+                "Add the shredded chicken, Cerignola olives, Kalamata olives, salt, and Parmesan to the pasta and toss again.",
+                "Loosen the sauce with reserved pasta water as needed.",
+                "Finish with a drizzle of olive oil if desired."
+            ],
+            "pure_ingredients": [
+                "walnuts",
+                "garlic",
+                "kale",
+                "olive oil",
+                "kosher salt",
+                "red pepper flakes",
+                "orange zest",
+                "orange juice",
+                "Parmigiano Reggiano",
+                "gemelli pasta",
+                "chicken",
+                "Cerignola olives",
+                "Kalamata olives"
+            ],
+            "cooking_methods": [
+                "blending",
+                "boiling",
+                "tossing"
+            ],
+            "cooking_time": "Approximately 30 minutes",
+            "required_tools": [
+                "food processor",
+                "large pot",
+                "rubber spatula"
+            ],
+            "dietary_labels": [
+                "contains nuts",
+                "contains dairy",
+                "contains gluten"
+            ],
+            "nutrition_value": "Approximately 2200 calories",
+            "meet_daily_nutrition_need": "true"
+        }
+    },
+    {
+        "recipe_id": "/rdmdWR17xyyGbkcpYzmc/PlzY83LLu",
+        "recipe_title": "Gingerbread Roulade Cake",
+        "original_instructions": "Special equipment: a 10 1/2-by-15 1/2-inch rimmed baking sheet a large clean kitchen towel (preferably not terrycloth or microfiber)\nFor the cake: Position an oven rack in the middle of the oven and preheat to 350 degrees F. Line a 10 1/2-by-15 1/2-inch baking sheet with parchment paper so it fits the bottom snuggly. Butter and flour the parchment and the sides of the baking sheet.\nWhisk together the flour, baking powder, cinnamon, ginger, pepper, allspice and 1/2 teaspoon salt in a large bowl and set aside.\nBeat the egg yolks and 3/4 cup granulated sugar with an electric mixer on medium-high speed in a large bowl until the mixture is thick and falls into heavy ribbons when the beaters are lifted, about 5 minutes. Beat in the melted butter, molasses and vanilla. Sift the spiced flour mixture into the egg yolk mixture and use a rubber spatula to gently fold together until just incorporated.\nRinse the egg beaters and beat the egg whites and remaining pinch salt with an electric mixer on medium-high speed in a large bowl until frothy. Add the remaining 1 tablespoon granulated sugar and continue to beat until soft peaks form.\nFold one-third of the whipped egg whites into the cake batter to loosen it up a bit. Then gently fold in the remaining whipped egg whites until just combined. Pour the cake batter into the prepared baking sheet and spread it out in an even layer. Bake until the middle of the cake springs back when pressed, 12 to 15 minutes.\nTo roll up or train the cake: While the cake is still hot, use a knife to cut around the sides of the baking sheet to release the cake. Dust the cake with confectioners' sugar. Spread a large clean kitchen towel (preferably not terrycloth or microfiber) over the top of the cake. Quickly invert the baking sheet onto the towel. Tap the bottom of the baking sheet and slowly lift up; the cake should release and be positioned squarely on the towel. Carefully peel away the parchment paper, making sure not to tear the cake. Trim away any rough edges if desired. Then, while the cake is still warm and starting at the long side of the cake, roll it up into a tight log, taking the towel with it. Let the cake cool completely, rolled up just like this, about 30 minutes.\nFor the filling: Beat the cream cheese and butter with an electric mixer on medium-high speed in a medium bowl until smooth. Add the confectioners' sugar, lemon juice, vanilla and salt and beat until thick and smooth. Set aside 2 tablespoons of the filling.\nTo fill and roll the cake: Unroll the cooled cake and spread the filling over the top in an even layer. Then roll the cake back up (without the towel this time) and put it seam-side down on a serving platter. Dip each gum drop in some of the reserved filling and evenly space them down the center of the roulade. Dust the cake with more confectioners' sugar. Slice and serve.",
+        "ingredients": [
+            "4 tablespoons unsalted butter, melted, plus more for buttering the baking sheet",
+            "3/4 cup all-purpose flour, plus more for flouring the baking sheet",
+            "1 teaspoon baking powder",
+            "1 teaspoon ground cinnamon",
+            "1 teaspoon ground ginger",
+            "1/4 teaspoon finely ground black pepper",
+            "1/4 teaspoon ground allspice",
+            "1/2 teaspoon plus a pinch fine salt",
+            "6 large eggs, separated",
+            "3/4 cup plus 1 tablespoon granulated sugar",
+            "2 tablespoons unsulfured molasses",
+            "1 teaspoon pure vanilla extract",
+            "Confectioners' sugar, for dusting",
+            "6 ounces cream cheese, at room temperature",
+            "3 tablespoons unsalted butter, at room temperature",
+            "3/4 cup confectioners' sugar",
+            "2 teaspoons fresh lemon juice",
+            "1/2 teaspoon pure vanilla extract",
+            "Pinch fine salt",
+            "8 gumdrops, for decorating"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "Position an oven rack in the middle of the oven and preheat to 350 degrees F.",
+                "Line a 10 1/2-by-15 1/2-inch baking sheet with parchment paper, butter, and flour it.",
+                "Whisk together the flour, baking powder, cinnamon, ginger, pepper, allspice, and 1/2 teaspoon salt in a large bowl.",
+                "Beat the egg yolks and 3/4 cup granulated sugar on medium-high speed until thick. Beat in melted butter, molasses, and vanilla.",
+                "Sift the spiced flour mixture into the egg yolk mixture and fold gently.",
+                "Beat the egg whites and pinch of salt until frothy. Add remaining granulated sugar and beat until soft peaks form.",
+                "Fold one-third of the egg whites into cake batter, then fold in the rest.",
+                "Pour batter into baking sheet, spread evenly, bake 12 to 15 minutes.",
+                "Cut around edges of cake, dust with confectioners' sugar, and invert onto towel.",
+                "Peel parchment paper, trim edges if desired, roll cake with towel, let cool for 30 minutes.",
+                "Beat cream cheese and butter until smooth, add confectioners' sugar, lemon juice, vanilla, and salt. Set aside 2 tablespoons.",
+                "Unroll cooled cake, spread filling, roll up again without towel.",
+                "Decorate with gumdrops, dust with confectioners' sugar, slice, and serve."
+            ],
+            "pure_ingredients": [
+                "butter",
+                "flour",
+                "baking powder",
+                "ground cinnamon",
+                "ground ginger",
+                "black pepper",
+                "ground allspice",
+                "salt",
+                "eggs",
+                "granulated sugar",
+                "unsulfured molasses",
+                "vanilla extract",
+                "confectioners' sugar",
+                "cream cheese",
+                "lemon juice",
+                "gumdrops"
+            ],
+            "cooking_methods": [
+                "baking",
+                "whisking",
+                "beating",
+                "folding"
+            ],
+            "cooking_time": "45-55 minutes",
+            "required_tools": [
+                "10 1/2-by-15 1/2-inch rimmed baking sheet",
+                "parchment paper",
+                "large bowl",
+                "electric mixer",
+                "rubber spatula",
+                "clean kitchen towel",
+                "knife"
+            ],
+            "dietary_labels": [],
+            "nutrition_value": "Approx. 3,200 calories total",
+            "meet_daily_nutrition_need": "true"
+        }
+    },
+    {
+        "recipe_id": "/D5aJomVjgi85bUpLlV9.4Cw22yczeK",
+        "recipe_title": "Bok Choy Fondue with Lobster",
+        "original_instructions": "In a hot saute pan, saute garlic and ginger in butter. Add bok choy, stock and lobster meat. Season and cook until soft. Check for seasoning.",
+        "ingredients": [
+            "1 teaspoon minced ginger",
+            "1 teaspoon minced garlic",
+            "1 tablespoon butter",
+            "4 cups chopped bok choy",
+            "1/2 cup lobster stock",
+            "Lobster knuckle meat from 4 lobsters",
+            "Salt and black pepper to taste"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "In a hot saute pan, saute garlic and ginger in butter.",
+                "Add bok choy, stock, and lobster meat to the pan.",
+                "Season with salt and black pepper.",
+                "Cook until the bok choy is soft.",
+                "Check for seasoning and adjust if necessary."
+            ],
+            "pure_ingredients": [
+                "ginger",
+                "garlic",
+                "butter",
+                "bok choy",
+                "lobster stock",
+                "lobster",
+                "salt",
+                "black pepper"
+            ],
+            "cooking_methods": [
+                "sauteing"
+            ],
+            "cooking_time": "15 minutes",
+            "required_tools": [
+                "saute pan"
+            ],
+            "dietary_labels": [
+                "gluten-free"
+            ],
+            "nutrition_value": "Approximately 300 calories",
+            "meet_daily_nutrition_need": "false"
+        }
+    },
+    {
+        "recipe_id": "QhBG8FQFYpdlGKkU0Q5u1BgA/RezFpK",
+        "recipe_title": "Bison Chili",
+        "original_instructions": "Saute onions, poblanos, celery, bell peppers, and garlic until translucent. Add meat and saute together. Mix together chili powder, cumin, and cayenne pepper and add to meat and vegetable mixture. Add diced tomatoes, kidney beans, and black beans. Add tomato-vegetable juice. Let simmer for 40 minutes, stirring occasionally.",
+        "ingredients": [
+            "4 cups diced onions",
+            "1 roasted poblano, seeded and diced",
+            "1/2 cup diced celery",
+            "2 cups diced bell peppers",
+            "1/2 cup minced garlic",
+            "2 1/2 pounds ground Bison",
+            "9 ounces dark chili powder",
+            "1 tablespoon cumin",
+            "1 tablespoon cayenne pepper",
+            "1 (10-pound) can diced tomatoes",
+            "1 (5-pound) can kidney beans",
+            "1 (5-pound) can black beans",
+            "24 ounces tomato-vegetable juice"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "Saute onions, poblanos, celery, bell peppers, and garlic until translucent.",
+                "Add the ground Bison and saute together with the vegetables.",
+                "Mix together chili powder, cumin, and cayenne pepper, then add them to the meat and vegetable mixture.",
+                "Add diced tomatoes, kidney beans, and black beans.",
+                "Pour in the tomato-vegetable juice.",
+                "Let the mixture simmer for 40 minutes, stirring occasionally."
+            ],
+            "pure_ingredients": [
+                "onions",
+                "poblano",
+                "celery",
+                "bell peppers",
+                "garlic",
+                "bison",
+                "chili powder",
+                "cumin",
+                "cayenne pepper",
+                "tomatoes",
+                "kidney beans",
+                "black beans",
+                "tomato",
+                "vegetable"
+            ],
+            "cooking_methods": [
+                "saute",
+                "simmer"
+            ],
+            "cooking_time": "50 minutes",
+            "required_tools": [
+                "cutting board",
+                "knife",
+                "large pot",
+                "stirring spoon"
+            ],
+            "dietary_labels": [
+                "gluten-free",
+                "high-protein"
+            ],
+            "nutrition_value": 4820,
+            "meet_daily_nutrition_need": "true"
+        }
+    },
+    {
+        "recipe_id": "94VrB9uWNlIgH61r6MH60xj394yloR2",
+        "recipe_title": "Pantry Pickles",
+        "original_instructions": "Cut cucumbers across width into 1/16-inch slices, diagonally. Combine all ingredients in a medium saucepan. Bring to a boil, reduce to a simmer, and cook, uncovered., 10 to 15 minutes. Store in pickling liquid, in refrigerator.",
+        "ingredients": [
+            "6 pickling cucumbers or Kirbies, with skins",
+            "1 onion, thinly sliced across the width",
+            "1 red bell pepper, cored, seeded, and julienned",
+            "2 cups rice wine vinegar",
+            "1/2 cup granulated sugar",
+            "1 tablespoon coarse salt"
+        ],
+        "processed_output": {
+            "step_by_step_instructions": [
+                "Cut cucumbers across width into 1/16-inch slices, diagonally.",
+                "Thinly slice the onion across the width.",
+                "Core, seed, and julienne the red bell pepper.",
+                "Combine all ingredients in a medium saucepan.",
+                "Bring to a boil.",
+                "Reduce heat to a simmer and cook, uncovered, for 10 to 15 minutes.",
+                "Store the pickles in pickling liquid, in the refrigerator."
+            ],
+            "pure_ingredients": [
+                "cucumbers",
+                "onion",
+                "red bell pepper",
+                "rice wine vinegar",
+                "granulated sugar",
+                "coarse salt"
+            ],
+            "cooking_methods": [
+                "boiling",
+                "simmering",
+                "pickling"
+            ],
+            "cooking_time": "10 to 15 minutes",
+            "required_tools": [
+                "knife",
+                "saucepan",
+                "refrigerator"
+            ],
+            "dietary_labels": [
+                "vegan",
+                "gluten-free"
+            ],
+            "nutrition_value": 412,
+            "meet_daily_nutrition_need": "false"
+        }
+    }
+]
