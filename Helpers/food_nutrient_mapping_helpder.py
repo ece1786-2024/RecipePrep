@@ -12,14 +12,17 @@ REQ_NUT_NAME = '/api/canadian-nutrient-file/nutrientname'
 #For output
 MAP_BASE_PATH  = './ingre_nutrition_map'
 NUT_UNIT_MAP_NAME = 'nutrient_unit_map.json'
+INGRE_NUT_MAP_NAME = 'ingredient_nutrient_map.json'
 os.makedirs(MAP_BASE_PATH, exist_ok=True)
 
-EVAL_NUTRIENTS = {"Protein", "Carbohydrate", "Sugar", "Sodium", "Fat", "Saturated Fat", "Fiber","Fibre"}
+EVAL_NUTRIENTS = {"Protein", "Carbohydrate", "Sugar", "Sodium", "Fat", "Saturated Fat", "Fiber","Fibre","Calories","Energy"}
 
 
 def get_nutrientamount_foodcode(food_code):
     query_param = f'{REQ_NUT_AMOUNT}/?REQ_LANG={REQ_LANG}&id={food_code}'
+
     request_url = NUTRITION_BASE_URL + query_param
+    #print(request_url)
     response = requests.get(request_url)
     if response.status_code == 200:
         nutrient_data = response.json()
@@ -40,11 +43,9 @@ def get_nutrientname_foodcode(nut_name_id):
         print(f"Failed to retrieve data for nutrient_nameId {nut_name_id}: Status Code {response.status_code}")
         return None
 
-def get_save_nutrient_to_file(ingre_match,ingre_name,nutri_id_map):
-    
-    food_code = ingre_match['food_code']
-    map_data = get_nutrientamount_foodcode(food_code)
-    
+#Return processed/fitlered nutrient-ingredient map for the input food code
+def get_nut_map(in_foodCode, ingre_name, nutri_id_map):
+    map_data = get_nutrientamount_foodcode(in_foodCode)
 
     if map_data:
         nutrients = []
@@ -52,10 +53,11 @@ def get_save_nutrient_to_file(ingre_match,ingre_name,nutri_id_map):
             # Check if the nutrient should be included
             if any(eval_nutri.lower() in eachNutri["nutrient_web_name"].lower() for eval_nutri in EVAL_NUTRIENTS):
                 nut_id = str(eachNutri["nutrient_name_id"])
-                
-                if nut_id in nutri_id_map:
+                if nutri_id_map and nut_id in nutri_id_map:
                     nutri_unit = nutri_id_map[nut_id]
                 else:
+                    if not nutri_id_map:
+                        nutri_id_map={}
                     nutri_unit = get_nutrientname_foodcode(nut_id)
                     nutri_unit  = 'g' if nutri_unit==None else nutri_unit["unit"]                   
                     nutri_id_map[nut_id] =  nutri_unit
@@ -73,14 +75,25 @@ def get_save_nutrient_to_file(ingre_match,ingre_name,nutri_id_map):
             "nutrients": nutrients
         }
       
-        # #Uncomment below to save result to a file
-        # output_file_name = f"{MAP_BASE_PATH}/{food_code}_{ingre_name.replace(" ","_").replace('-', '_')}.json"
-        # with open(output_file_name, 'w') as f:
-        #     json.dump(aggregated_data, f, indent=4)
-        # #print(f"Map data for {food_code} saved to {output_file_name}")
         return aggregated_data,nutri_id_map
 
-    return False
+    return None,None
+
+
+def save_nut_map(nuntri_unit_map,all_mapping):
+    
+    #save the unit map
+    nut_unit_map_name = get_unitMap_name()
+    save_nut_id_map(nuntri_unit_map,nut_unit_map_name)
+
+    #save the ingredient-nutrient map
+    output_file_name =  os.path.join(MAP_BASE_PATH,INGRE_NUT_MAP_NAME)
+    with open(output_file_name, "w") as file:
+        json.dump(all_mapping, file, indent=4)
+
+    print(f"Ingredient-Nutrient mapping has been saved to {output_file_name}")
+        
+'''Small Helpers'''
 
 def load_nut_id_map(unit_map_name):
     if os.path.exists(unit_map_name):
@@ -95,7 +108,7 @@ def save_nut_id_map(nut_id_map,unit_map_name):
     
     print(f"Unit map {unit_map_name} updated!")
     
-'''Small Helpers'''
+    
 def count_items_in_dataset(file_path):
     with open(file_path, "r") as file:
         dataset = json.load(file)
@@ -129,14 +142,11 @@ def get_unitMap_name():
     return  f"{MAP_BASE_PATH}/{NUT_UNIT_MAP_NAME}"
     
 def test_map_create():
-    test_ingre = {
-        "food_code": 6061,
-        "description": "Test description"
-    }
+
     unit_map_name =get_unitMap_name()
     untri_unit_map = load_nut_id_map(unit_map_name)
     
-    aggregated_data,nutri_unit_map_ret= get_save_nutrient_to_file(test_ingre,"Boneless rib-eye",untri_unit_map)
+    aggregated_data,nutri_unit_map_ret= get_nut_map(4905," alfredo sauce",untri_unit_map)
    
     save_nut_id_map(nutri_unit_map_ret,unit_map_name)
 
@@ -153,6 +163,7 @@ def get_smaller_map():
     N=1000
     save_N_random_items(file_path,out_file,N)
 
-# get_smaller_map()
+
+#test_map_create()
 
     
