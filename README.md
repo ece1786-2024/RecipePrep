@@ -13,6 +13,7 @@
     - **processed_recipes_init_{}**: Initially **processed** recipe datasets. The number means number of items. 
     - CNF_API_food_code.json: Ingredient food code dataset from CNF
     - emb folder: the processed embedding and faiss index for descriptions in the CNF_API_food_code.json
+5. **ingre_nutrition_map**: Where the map and the unit map is stored
 
 ### Main Code Walkthrough
 
