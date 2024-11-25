@@ -1,5 +1,6 @@
 import json
 import random
+from collections import Counter
 
 
 MIN_LONG_RECIPE_LEN = 900 #call the get_average_instruction_length() to get a sense
@@ -42,6 +43,31 @@ def get_testing_dataset(in_filename,samp_size,long_percnt=0):
     else:
         sampled_items = random.sample(list(recipe_data.items()), samp_size)
         return sampled_items,None
+
+def filter_recipe_ingre_frequency(recipes_list, min_freq=3):
+ 
+    # Get frequency for each ingredient
+    ingredient_counts = Counter()
+    for eachRecipe in recipes_list:
+        ingredients = eachRecipe.get("processed_output", {}).get("pure_ingredients", [])
+        ingredient_counts.update(ingredients)
+    
+    # filter out low frequency recipes
+    valid_ingredients = set()
+    for eachIngre,count in ingredient_counts.items():
+        if count >= min_freq:
+            valid_ingredients.add(eachIngre)
+        else:
+            print(f"{eachIngre} Filtered out")
+    
+    #Filter recipes
+    filtered_recipes = []
+    for recipe in recipes_list:
+        ingredients = recipe.get("processed_output", {}).get("pure_ingredients", [])
+        if all(ingredient in valid_ingredients for ingredient in ingredients):
+            filtered_recipes.append(recipe)
+    
+    return filtered_recipes
 
     
     
@@ -103,7 +129,7 @@ def test_get_average_instruction_length():
     print(f"The average instruction length in the {recipe_filename} dataset is: {avg_len:.4f} characters.")
 
 def test_get_testing_dataset(long_recipe_percnt):
-    sample_size = 10
+    sample_size = 300
     recipe_filename = './recipes_raw/recipes_raw_nosource_fn.json'
     output_file_name = f'./datasets/recipe_dataset_init_{sample_size}.json'
     
@@ -113,6 +139,18 @@ def test_get_testing_dataset(long_recipe_percnt):
     else:
         #output recipes are randomly selected between long and short 
         get_rand_recipe_dataset(recipe_filename,sample_size,output_file_name,long_recipe_percnt=0)
+
+def test_filter_recipe_ingre_frequency():
+    recipe_filename = f'./datasets/processed_recipes_init_300.json'
+  
+    with open(recipe_filename, "r") as f:
+        recipe_data = json.load(f)
+    
+    min_freq=2
+    filtered_recipes = filter_recipe_ingre_frequency(recipe_data, min_freq=2)
+    filtered_filename = f'./datasets/processed_freq{min_freq}_recipes_init_{len(filtered_recipes)}.json'
+    save_json_file(filtered_recipes,filtered_filename)
+    
         
    
-# test_get_testing_dataset(long_recipe_percnt=0.2)
+#test_filter_recipe_ingre_frequency()
