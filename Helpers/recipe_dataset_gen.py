@@ -58,7 +58,7 @@ def filter_recipe_ingre_frequency(recipes_list, min_freq=3):
         if count >= min_freq:
             valid_ingredients.add(eachIngre)
         else:
-            print(f"{eachIngre} Filtered out")
+            print(f"[{eachIngre}] Filtered out")
     
     #Filter recipes
     filtered_recipes = []

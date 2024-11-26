@@ -17,7 +17,6 @@ os.makedirs(MAP_BASE_PATH, exist_ok=True)
 
 EVAL_NUTRIENTS = {"Protein", "Carbohydrate", "Sugar", "Sodium", "Fat", "Saturated Fat", "Fiber","Fibre","Calories","Energy"}
 
-
 def get_nutrientamount_foodcode(food_code):
     query_param = f'{REQ_NUT_AMOUNT}/?REQ_LANG={REQ_LANG}&id={food_code}'
 
