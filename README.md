@@ -7,7 +7,10 @@
 ### Code Folders
 1. **DataPrcoessing_1.ipynb**: The main notebook
 2. Helpers folder: All helper functions
-3. recipes_raw folder: All raw recipe datasets
+3. recipes_raw folder: 
+    - All raw recipe datasets
+    - the **Good_ingredient_List.csv**: the ingredient list we extract from [Food Basic](https://www.foodbasics.ca/aisles/fruits-vegetables?sortOrder=popularity) webiste based on popularity 
+    - **recipes_raw_processed.json**: Processed recipe that only contains ingredients in the Good ingredient list
 4. datasets folder: 
     - **recipe_dataset_init_{}.json**: Randomly selected small testing dataset from the raw recipe dataset. The number means number of items. 
     - **processed_recipes_init_{}**: Initially **processed** recipe datasets. The number means number of items. 
