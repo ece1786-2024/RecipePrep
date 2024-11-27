@@ -15,8 +15,7 @@ NUT_UNIT_MAP_NAME = 'nutrient_unit_map.json'
 INGRE_NUT_MAP_NAME = 'ingredient_nutrient_map.json'
 os.makedirs(MAP_BASE_PATH, exist_ok=True)
 
-EVAL_NUTRIENTS = {"Protein", "Carbohydrate", "Sugar", "Sodium", "Fat", "Saturated Fat", "Fiber","Fibre","Calories","Energy"}
-
+EVAL_NUTRIENTS = {"Protein", "Carbohydrate", "Sugars, total", "Sodium, Na", "Total Fat", "Fatty acids, saturated, total", "Fiber","Fibre","Calories","Energy"}
 
 def get_nutrientamount_foodcode(food_code):
     query_param = f'{REQ_NUT_AMOUNT}/?REQ_LANG={REQ_LANG}&id={food_code}'
@@ -63,10 +62,10 @@ def get_nut_map(in_foodCode, ingre_name, nutri_id_map):
                     nutri_id_map[nut_id] =  nutri_unit
                
                 nutrient_info = {
-                    "food_code": eachNutri["food_code"],
-                    "nutrient_value": eachNutri["nutrient_value"],
+                    #"food_code": eachNutri["food_code"],
+                    "value": eachNutri["nutrient_value"],
                     #"nutrient_name_id": eachNutri["nutrient_name_id"],
-                    "nutrient_web_name": eachNutri["nutrient_web_name"],
+                    "nutrient_name": eachNutri["nutrient_web_name"],
                     "unit": nutri_unit  # Get the unit from function
                 }
                 nutrients.append(nutrient_info)
