@@ -1,7 +1,9 @@
 import json
 import random
 from collections import Counter
-
+import pandas as pd
+from nltk.stem import WordNetLemmatizer
+lemmatizer = WordNetLemmatizer()
 
 MIN_LONG_RECIPE_LEN = 900 #call the get_average_instruction_length() to get a sense
 
@@ -69,7 +71,46 @@ def filter_recipe_ingre_frequency(recipes_list, min_freq=3):
     
     return filtered_recipes
 
+
+def filter_raw_recipe_on_ingredient_list(raw_file_name,key_word_filename,output_filename):
     
+    key_word_df = pd.read_csv(key_word_filename)
+    keywords = key_word_df['Food'].dropna().tolist() 
+    keywords = [normalize_word(keyword) for keyword in keywords]
+    
+    with open(raw_file_name, "r") as f:
+        recipe_data = json.load(f)
+    
+    filtered_recipes = {}
+    print(f"Before filter, recipe number = {len(recipe_data)}")
+    
+    for recipe_id, recipe in recipe_data.items():
+            ingredients = recipe.get("ingredients", [])
+            instruc = recipe.get("instructions")
+            if len(ingredients)>0 and (instruc and len(instruc)>0):
+                # Check if all ingredients in the recipe match at least one keyword
+                all_ingredients_match = all(
+                    any(keyword in normalize_word(ingredient) for keyword in keywords)
+                    for ingredient in ingredients
+                )
+                
+                if all_ingredients_match:
+                    filtered_recipes[recipe_id] = recipe
+                    
+    print(f"After filter, recipe number = {len(filtered_recipes)}")
+    
+    save_json_file(filtered_recipes,output_filename)
+
+#Used to generate the pure testing dataset
+def get_pure_testing_ingre_list(data, category_col, frac=0.2, random_state=42):
+    # Randomly sample from each category
+    sampled_testing_data = data.groupby(category_col, group_keys=False).apply(
+        lambda x: x.sample(frac=frac, random_state=random_state)
+    )
+    
+    remaining_data = data.loc[~data.index.isin(sampled_testing_data.index)]
+     
+    return sampled_testing_data,remaining_data
     
 '''
 Small Helpers
@@ -120,6 +161,32 @@ def get_ingre_list_from_dataset(file_path):
     
     return all_ingredients_list
 
+def normalize_word(word):
+    word = word.lower().strip()  # Convert to lowercase and remove extra spaces
+    if word.endswith('es'):
+        return word[:-2]
+    elif word.endswith('s'):
+        return word[:-1]
+    return word
+
+
+def combine_two_json(file_1, file_2,out_filename):
+    with open(file_1, 'r') as f1:
+        data1 = json.load(f1)
+
+    # Load the contents of the second JSON file
+    with open(file_2, 'r') as f2:
+        data2 = json.load(f2)
+
+    # Merge the two JSON objects
+    # Assuming both files contain dictionaries
+    combined_data = {**data1, **data2}
+
+    # Save the combined data to a new file
+    with open(out_filename, 'w') as out:
+        json.dump(combined_data, out, indent=4)
+        print(f"Combined JSON saved to {out_filename}")
+
 '''
 Testing helpers 
 '''
@@ -129,8 +196,8 @@ def test_get_average_instruction_length():
     print(f"The average instruction length in the {recipe_filename} dataset is: {avg_len:.4f} characters.")
 
 def test_get_testing_dataset(long_recipe_percnt):
-    sample_size = 300
-    recipe_filename = './recipes_raw/recipes_raw_nosource_fn.json'
+    sample_size = 100
+    recipe_filename = './recipes_raw/recipes_raw_processed.json'
     output_file_name = f'./datasets/recipe_dataset_init_{sample_size}.json'
     
     if long_recipe_percnt>0:
@@ -151,6 +218,30 @@ def test_filter_recipe_ingre_frequency():
     filtered_filename = f'./datasets/processed_freq{min_freq}_recipes_init_{len(filtered_recipes)}.json'
     save_json_file(filtered_recipes,filtered_filename)
     
-        
-   
-#test_filter_recipe_ingre_frequency()
+def test_filter_raw_recipe_on_ingredient_list():
+    raw_file_name = './recipes_raw/recipes_raw_nosource_epi.json'
+    key_word_filename = './recipes_raw/Good_ingredient_List.csv'
+    output_filename_1 = './recipes_raw/recipes_raw_nosource_epi_filtered.json'
+    filter_raw_recipe_on_ingredient_list(raw_file_name,key_word_filename,output_filename_1)
+    
+    raw_file_name = './recipes_raw/recipes_raw_nosource_fn.json'
+    key_word_filename = './recipes_raw/Good_ingredient_List.csv'
+    output_filename_2 = './recipes_raw/recipes_raw_nosource_fn_filtered.json'
+    filter_raw_recipe_on_ingredient_list(raw_file_name,key_word_filename,output_filename_2)
+    
+    combined_filename = './recipes_raw/recipes_raw_processed.json'
+    combine_two_json(output_filename_1, output_filename_2,combined_filename)
+
+
+
+def test_get_pure_testing_ingre_list():
+    key_word_filename = './recipes_raw/Good_ingredient_List.csv'
+    data = pd.read_csv(key_word_filename)
+    
+    sampled_testing_data,remaining_data = get_pure_testing_ingre_list(data,  category_col="Category", frac=0.2,random_state=123)
+    out_pure_ingre_list =  './datasets/testing/test_ingre_list.csv'
+    tune_ingre_list =  './datasets/testing/tuning_ingre_list.csv'
+    sampled_testing_data.to_csv(out_pure_ingre_list, index=False)
+    remaining_data.to_csv(tune_ingre_list, index=False)
+
+#test_get_testing_dataset(0.2)
