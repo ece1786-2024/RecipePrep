@@ -66,13 +66,13 @@ Meat,Chicken
 Meat,Duck
 Meat,Ham
 Meat,Lamb
-Meat,Meatballs
+Meat,Meat
+Meat,Meatball
 Meat,Pork
 Meat,Poultry
 Meat,Rib
-Meat,Sausages
-Meat,Steaks
-Meat,Turkey
+Meat,Sausage
+Meat,Steak
 Pantry,Brown Rice
 Pantry,Cereal
 Pantry,Chickpeas
@@ -114,36 +114,35 @@ Seafood,Shrimp
 Seafood,Sole
 Seafood,Tilapia
 Seafood,Tuna
-seasonings,Allspice
+Vegetables,Arugula
+Vegetables,Asparagus
 seasonings,Barbecue
+Vegetables,Basil
 seasonings,bay leaf
-seasonings,Bay Leaves
+Vegetables,Beets
+Vegetables,Bell Peppers
 seasonings,Black Pepper
+Vegetables,Bok Choy
+Vegetables,Broccoli
+Vegetables,Brussels Sprouts
+Vegetables,Cabbage
+Vegetables,Carrots
+Vegetables,Cauliflower
 seasonings,Cayenne Pepper
+Vegetables,Celery
 seasonings,Chia Seeds
 seasonings,Chili Powder
+Vegetables,Chives
+Vegetables,Cilantro
 seasonings,cinnamon
+Vegetables,Coriander
+Vegetables,Corn
+Vegetables,Cucumber
 seasonings,Cumin
+Vegetables,Dates
 seasonings,Dill
 seasonings,Dressing
-seasonings,Garlic Powder
-seasonings,Ground Ginger
-seasonings,Honey
-seasonings,Hot
-seasonings,Maple
-seasonings,Mustard
-seasonings,Nutmeg
-seasonings,oil
-seasonings,Olive Oil
-seasonings,Onion Powder
-seasonings,Oregano
-seasonings,Paprika
-seasonings,rosemary
-seasonings,Salt
-seasonings,sauce
-seasonings,scallion
-seasonings,sugar
-seasonings,Thyme
+Vegetables,Eggplant
 Snacks,Almonds
 Snacks,Cashews
 Snacks,Chips
@@ -175,34 +174,27 @@ Vegan & Vegetarian Food,Sparkling Water
 Vegan & Vegetarian Food,Spring Rolls
 Vegan & Vegetarian Food,Tofu
 Vegan & Vegetarian Food,Vegetable
-Vegetables,Arugula
-Vegetables,Asparagus
-Vegetables,Basil
-Vegetables,Beets
-Vegetables,Bell Peppers
-Vegetables,Bok Choy
-Vegetables,Broccoli
-Vegetables,Brussels Sprouts
-Vegetables,Cabbage
-Vegetables,Carrots
-Vegetables,Cauliflower
-Vegetables,Celery
-Vegetables,Chives
-Vegetables,Cilantro
-Vegetables,Coriander
-Vegetables,Corn
-Vegetables,Cucumber
-Vegetables,Dates
-Vegetables,Eggplant
 Vegetables,Endive
 Vegetables,Garlic
+seasonings,Garlic Powder
 Vegetables,Ginger
 Vegetables,Green Beans
+seasonings,Ground Ginger
+seasonings,Honey
+seasonings,Hot
 Vegetables,Kale
 Vegetables,Leek
 Vegetables,Lettuce
+seasonings,Maple
 Vegetables,Mushrooms
+seasonings,Mustard
+seasonings,Nutmeg
+seasonings,oil
+seasonings,Olive Oil
 Vegetables,onion
+seasonings,Onion Powder
+seasonings,Oregano
+seasonings,Paprika
 Vegetables,Parsley
 Vegetables,Peas
 Vegetables,pepper
@@ -210,10 +202,27 @@ Vegetables,Potato
 Vegetables,Pumpkin
 Vegetables,Radicchio
 Vegetables,Radishes
+seasonings,rosemary
 Vegetables,Rutabagas
 Vegetables,Sage
+seasonings,Salt
+seasonings,sauce
+seasonings,scallion
 Vegetables,Shallot
+seasonings,Spice
 Vegetables,Spinach
 Vegetables,Squash
+seasonings,sugar
 Vegetables,Swiss Chard
+seasonings,Thyme
 Vegetables,zucchini
+Dairy & Eggs,Mozzarella
+Dairy & Eggs,Parmesan
+Dairy & Eggs,Ricotta
+Dairy & Eggs,Cream
+Drinks,Beverage
+Drinks,Eggnog
+Dairy & Eggs,Dairy
+Dairy & Eggs,Cheddar
+Meat,Turkey
+Vegetables,artichoke
