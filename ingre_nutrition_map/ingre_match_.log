@@ -1,129 +1,850 @@
-Ingredient: Asiago cheese
-Matched Description: [cracker cheese asiago], Food Code: 7077, Similarity: 0.83
+----------------------Local Timestamp: 2024-11-28 22:17:34.948512--------------------------
+Ingredient: blood sausage
+Matched Description: [sausage blood sausage blood pudding raw], Food Code: 1178, Similarity: 0.81
 
 
-Ingredient: BBQ sauce
-Matched Description: [pulled pork in barbecue sauce], Food Code: 7093, Similarity: 0.83
+Ingredient: mushroom ravioli
+Matched Description: [ravioli cheesefilled with marinara sauce], Food Code: 7445, Similarity: 0.83
 
 
-Ingredient: Brussels sprouts
-Matched Description: [brussels sprout raw], Food Code: 2378, Similarity: 0.89
+Ingredient: jalapeño chili
+Matched Description: [pepper jalapeno raw], Food Code: 4860, Similarity: 0.76
 
 
-Ingredient: Champagne
-Matched Description: [sangria], Food Code: 6707, Similarity: 0.74
+Ingredient: mayonnaise
+Matched Description: [salad dressing mayonnaise imitation soybean], Food Code: 6533, Similarity: 0.75
 
 
-Ingredient: Colby cheese
-Matched Description: [cheese colby], Food Code: 24, Similarity: 0.87
+Ingredient: dried red pepper flakes
+Matched Description: [pepper pasilla dried], Food Code: 4863, Similarity: 0.81
 
 
-Ingredient: English peas
-Matched Description: [pea green boiled drained], Food Code: 2410, Similarity: 0.74
+Ingredient: red pepper flakes
+Matched Description: [spice pepper red or cayenne], Food Code: 199, Similarity: 0.78
 
 
-Ingredient: Grand Marnier
-Matched Description: [cheese gruyere], Food Code: 32, Similarity: 0.67
+Ingredient: beefsteak tomato
+Matched Description: [sauce steak tomato based readytoserve], Food Code: 1130, Similarity: 0.80
 
 
-Ingredient: Gruyere
-Matched Description: [cheese gruyere], Food Code: 32, Similarity: 0.94
+Ingredient: capers
+Matched Description: [caper canned], Food Code: 4890, Similarity: 0.80
 
 
-Ingredient: Parmesan
-Matched Description: [chicken parmesan], Food Code: 7447, Similarity: 0.85
+Ingredient: salmon
+Matched Description: [fish oil salmon], Food Code: 461, Similarity: 0.82
 
 
-Ingredient: Parmesan cheese
-Matched Description: [chicken parmesan], Food Code: 7447, Similarity: 0.85
+Ingredient: chives
+Matched Description: [chive raw], Food Code: 2059, Similarity: 0.85
 
 
-Ingredient: Parmigiano-Reggiano
-Matched Description: [delimeat capicollo cappocollo], Food Code: 7157, Similarity: 0.69
+Ingredient: chile
+Matched Description: [cheese cheddar], Food Code: 119, Similarity: 0.66
 
 
-Ingredient: Worcestershire sauce
-Matched Description: [sauce worcestershire readytoserve], Food Code: 1133, Similarity: 0.85
+Ingredient: chicken breast
+Matched Description: [chicken broiler breast meat roasted], Food Code: 842, Similarity: 0.80
 
 
-Ingredient: almond
-Matched Description: [candy sugarcoated almond], Food Code: 5748, Similarity: 0.81
-
-
-Ingredient: almond extract
-Matched Description: [vegetable oil almond], Food Code: 440, Similarity: 0.76
-
-
-Ingredient: american cheese
-Matched Description: [cheese cheddar], Food Code: 119, Similarity: 0.79
-
-
-Ingredient: anchovy
-Matched Description: [fish anchovy european canned with olive oil drained solid], Food Code: 2985, Similarity: 0.71
-
-
-Ingredient: apple cider
-Matched Description: [vinegar cider], Food Code: 13, Similarity: 0.84
-
-
-Ingredient: apples
-Matched Description: [sweet fruit butter apple], Food Code: 4293, Similarity: 0.73
-
-
-Ingredient: apricots
-Matched Description: [apricot raw], Food Code: 1498, Similarity: 0.86
-
-
-Ingredient: artichokes
-Matched Description: [artichoke marinated], Food Code: 6298, Similarity: 0.86
-
-
-Ingredient: arugula
-Matched Description: [arugula raw], Food Code: 2352, Similarity: 0.89
-
-
-Ingredient: asparagus
-Matched Description: [asparagus raw], Food Code: 1990, Similarity: 0.83
-
-
-Ingredient: avocado
-Matched Description: [vegetable oil avocado], Food Code: 450, Similarity: 0.79
-
-
-Ingredient: bacon
-Matched Description: [meatless bacon], Food Code: 3315, Similarity: 0.80
-
-
-Ingredient: baking powder
-Matched Description: [leavening agent baking soda], Food Code: 4005, Similarity: 0.80
+Ingredient: rice
+Matched Description: [rice spanish rice], Food Code: 7448, Similarity: 0.77
 
 
 Ingredient: baking soda
 Matched Description: [leavening agent baking soda], Food Code: 4005, Similarity: 0.85
 
 
-Ingredient: balsamic vinegar
-Matched Description: [vinegar balsamic], Food Code: 6196, Similarity: 0.92
+Ingredient: feta cheese
+Matched Description: [cheese feta], Food Code: 108, Similarity: 0.93
 
 
-Ingredient: banana
-Matched Description: [banana raw], Food Code: 1704, Similarity: 0.79
+Ingredient: penne pasta
+Matched Description: [pasta spaghetti enriched cooked], Food Code: 4464, Similarity: 0.79
 
 
-Ingredient: basil
-Matched Description: [basil fresh], Food Code: 212, Similarity: 0.87
+Ingredient: potatoes
+Matched Description: [bread potato], Food Code: 6785, Similarity: 0.86
+
+
+Ingredient: rice wine vinegar
+Matched Description: [vinegar red wine], Food Code: 6195, Similarity: 0.85
+
+
+Ingredient: egg
+Matched Description: [bagel egg], Food Code: 3673, Similarity: 0.75
+
+
+Ingredient: ketchup
+Matched Description: [tomato ketchup catsup], Food Code: 2494, Similarity: 0.85
+
+
+Ingredient: cornmeal
+Matched Description: [grain cornmeal yellow degermed], Food Code: 4470, Similarity: 0.78
+
+
+Ingredient: scallions
+Matched Description: [onion spring green or scallion includes top and bulb raw], Food Code: 2144, Similarity: 0.76
+
+
+Ingredient: beef stock
+Matched Description: [soup stock beef homemade], Food Code: 5336, Similarity: 0.83
+
+
+Ingredient: butter lettuce
+Matched Description: [lettuce butterhead boston bibb], Food Code: 2115, Similarity: 0.77
+
+
+Ingredient: orange latex milky mushrooms
+Matched Description: [mushroom white raw], Food Code: 2399, Similarity: 0.70
+
+
+Ingredient: red bell peppers
+Matched Description: [pepper sweet red raw], Food Code: 2484, Similarity: 0.79
+
+
+Ingredient: rib eye steak
+Matched Description: [beef rib rib eye steak boneless lean raw], Food Code: 6068, Similarity: 0.82
+
+
+Ingredient: cucumber
+Matched Description: [cucumber raw], Food Code: 2363, Similarity: 0.87
+
+
+Ingredient: olive oil
+Matched Description: [vegetable oil olive], Food Code: 422, Similarity: 0.86
+
+
+Ingredient: onion powder
+Matched Description: [spice onion powder], Food Code: 194, Similarity: 0.87
+
+
+Ingredient: buttermilk
+Matched Description: [milk fluid buttermilk cultured whole], Food Code: 7024, Similarity: 0.80
+
+
+Ingredient: sweet red onion
+Matched Description: [onion sweet raw], Food Code: 5414, Similarity: 0.82
+
+
+Ingredient: Parmesan cheese
+Matched Description: [chicken parmesan], Food Code: 7447, Similarity: 0.85
+
+
+Ingredient: sun-dried tomatoes
+Matched Description: [tomato sundried], Food Code: 2348, Similarity: 0.93
+
+
+Ingredient: green beans
+Matched Description: [winged bean goa bean green raw], Food Code: 2279, Similarity: 0.77
+
+
+Ingredient: sourdough bread
+Matched Description: [bread french or vienna also sourdough], Food Code: 4063, Similarity: 0.82
+
+
+Ingredient: Parmesan
+Matched Description: [chicken parmesan], Food Code: 7447, Similarity: 0.85
+
+
+Ingredient: garlic
+Matched Description: [bread garlic], Food Code: 7087, Similarity: 0.86
+
+
+Ingredient: white basmati rice
+Matched Description: [grain rice white mediumgrain cooked], Food Code: 4475, Similarity: 0.79
+
+
+Ingredient: chickpea flour
+Matched Description: [chickpea flour besan], Food Code: 4886, Similarity: 0.90
+
+
+Ingredient: palm oil
+Matched Description: [vegetable oil palm], Food Code: 423, Similarity: 0.85
+
+
+Ingredient: green peas
+Matched Description: [pea green raw], Food Code: 2409, Similarity: 0.80
+
+
+Ingredient: pork loin chop
+Matched Description: [pork loin sirloin chop bonein lean roasted], Food Code: 1804, Similarity: 0.85
+
+
+Ingredient: rosemary
+Matched Description: [spice rosemary fresh], Food Code: 4723, Similarity: 0.77
+
+
+Ingredient: butternut squash
+Matched Description: [squash winter butternut baked], Food Code: 2452, Similarity: 0.85
+
+
+Ingredient: oregano
+Matched Description: [spice oregano ground], Food Code: 195, Similarity: 0.77
+
+
+Ingredient: serrano chiles
+Matched Description: [pepper serrano raw], Food Code: 4858, Similarity: 0.77
+
+
+Ingredient: soy sauce
+Matched Description: [soy sauce made from soy tamari], Food Code: 3329, Similarity: 0.86
+
+
+Ingredient: yogurt
+Matched Description: [yogourt tofu], Food Code: 5610, Similarity: 0.81
+
+
+Ingredient: salsa
+Matched Description: [sauce salsa readytoserve], Food Code: 1025, Similarity: 0.79
+
+
+Ingredient: cilantro
+Matched Description: [spice coriander seed cilantro], Food Code: 181, Similarity: 0.81
+
+
+Ingredient: nutmeg
+Matched Description: [nut walnut glazed], Food Code: 7221, Similarity: 0.66
+
+
+Ingredient: green onion
+Matched Description: [onion young green top only], Food Code: 5413, Similarity: 0.80
+
+
+Ingredient: sour cream
+Matched Description: [icing frosting sour cream flavour ready to eat], Food Code: 4377, Similarity: 0.76
+
+
+Ingredient: cannellini beans
+Matched Description: [bean pinto canned drained and rinsed], Food Code: 7086, Similarity: 0.75
+
+
+Ingredient: panko breadcrumbs
+Matched Description: [bread crumb dry grated seasoned], Food Code: 4060, Similarity: 0.71
+
+
+Ingredient: peanut butter
+Matched Description: [cookie peanut butter sandwich], Food Code: 3843, Similarity: 0.86
+
+
+Ingredient: black beans
+Matched Description: [soup black bean readytoserve], Food Code: 6940, Similarity: 0.78
+
+
+Ingredient: carrot
+Matched Description: [carrot raw], Food Code: 2380, Similarity: 0.83
+
+
+Ingredient: turmeric
+Matched Description: [spice turmeric ground], Food Code: 211, Similarity: 0.79
+
+
+Ingredient: pancake
+Matched Description: [pancake plain homemade with butter and maple syrup], Food Code: 6782, Similarity: 0.81
 
 
 Ingredient: bay leaf
 Matched Description: [spice bay leaf], Food Code: 172, Similarity: 0.78
 
 
-Ingredient: bean
-Matched Description: [bean pinto boiled], Food Code: 3270, Similarity: 0.76
+Ingredient: curry powder
+Matched Description: [spice curry powder], Food Code: 183, Similarity: 0.90
 
 
-Ingredient: bean sprouts
-Matched Description: [bean mung mature seed sprouted bean sprout raw], Food Code: 2008, Similarity: 0.81
+Ingredient: beet
+Matched Description: [beet raw], Food Code: 2500, Similarity: 0.84
+
+
+Ingredient: chili
+Matched Description: [chili with bean canned], Food Code: 3391, Similarity: 0.79
+
+
+Ingredient: heavy cream
+Matched Description: [cheese cream], Food Code: 28, Similarity: 0.80
+
+
+Ingredient: potato
+Matched Description: [bread potato], Food Code: 6785, Similarity: 0.86
+
+
+Ingredient: radicchio
+Matched Description: [radicchio raw], Food Code: 2345, Similarity: 0.90
+
+
+Ingredient: pepper
+Matched Description: [pepper sweet red sauteed], Food Code: 5417, Similarity: 0.80
+
+
+Ingredient: chili paste
+Matched Description: [spice chili powder], Food Code: 177, Similarity: 0.80
+
+
+Ingredient: lamb's-quarters
+Matched Description: [lambsquarters raw], Food Code: 2111, Similarity: 0.85
+
+
+Ingredient: tomatoes
+Matched Description: [tomato powder], Food Code: 2260, Similarity: 0.78
+
+
+Ingredient: lettuce
+Matched Description: [lettuce looseleaf], Food Code: 2117, Similarity: 0.72
+
+
+Ingredient: leek
+Matched Description: [leek bulb and lowerleaf portion boiled drained], Food Code: 2397, Similarity: 0.74
+
+
+Ingredient: red bell pepper
+Matched Description: [pepper sweet red raw], Food Code: 2484, Similarity: 0.79
+
+
+Ingredient: thyme
+Matched Description: [spice thyme fresh], Food Code: 215, Similarity: 0.80
+
+
+Ingredient: American cheese
+Matched Description: [cheese cheddar], Food Code: 119, Similarity: 0.79
+
+
+Ingredient: Havarti cheese
+Matched Description: [cheese camembert], Food Code: 21, Similarity: 0.74
+
+
+Ingredient: chips
+Matched Description: [poi], Food Code: 2164, Similarity: 0.68
+
+
+Ingredient: coriander seeds
+Matched Description: [spice coriander seed cilantro], Food Code: 181, Similarity: 0.86
+
+
+Ingredient: broccoli
+Matched Description: [broccoli raw], Food Code: 2374, Similarity: 0.83
+
+
+Ingredient: ginger root
+Matched Description: [ginger root raw], Food Code: 2091, Similarity: 0.89
+
+
+Ingredient: lime
+Matched Description: [lime raw], Food Code: 1593, Similarity: 0.77
+
+
+Ingredient: maple syrup
+Matched Description: [sweet syrup maple prepackaged], Food Code: 6175, Similarity: 0.81
+
+
+Ingredient: popcorn
+Matched Description: [snack popcorn airpopped], Food Code: 4110, Similarity: 0.82
+
+
+Ingredient: red pepper
+Matched Description: [pepper sweet red raw], Food Code: 2484, Similarity: 0.81
+
+
+Ingredient: wood chips
+Matched Description: [snack vegetable chip], Food Code: 6810, Similarity: 0.69
+
+
+Ingredient: mozzarella
+Matched Description: [mozzarella stick fried], Food Code: 6813, Similarity: 0.81
+
+
+Ingredient: fettuccine
+Matched Description: [spaghetti with cream sauce], Food Code: 6766, Similarity: 0.75
+
+
+Ingredient: ground chuck
+Matched Description: [chicken ground lean cooked], Food Code: 919, Similarity: 0.71
+
+
+Ingredient: parsley leaves
+Matched Description: [parsley fresh], Food Code: 2405, Similarity: 0.85
+
+
+Ingredient: grapeseed oil
+Matched Description: [vegetable oil grapeseed], Food Code: 436, Similarity: 0.91
+
+
+Ingredient: rolls
+Matched Description: [roll pumpernickel], Food Code: 5607, Similarity: 0.70
+
+
+Ingredient: orange marmalade
+Matched Description: [sweet marmalade orange], Food Code: 4298, Similarity: 0.88
+
+
+Ingredient: shrimp
+Matched Description: [crustacean shrimp mixed specie breaded and fried], Food Code: 3104, Similarity: 0.80
+
+
+Ingredient: ruby port wine
+Matched Description: [vinegar red wine], Food Code: 6195, Similarity: 0.73
+
+
+Ingredient: pollock
+Matched Description: [poi], Food Code: 2164, Similarity: 0.65
+
+
+Ingredient: artichoke hearts
+Matched Description: [artichoke marinated], Food Code: 6298, Similarity: 0.83
+
+
+Ingredient: egg yolks
+Matched Description: [egg chicken yolk cooked], Food Code: 6718, Similarity: 0.84
+
+
+Ingredient: pecans
+Matched Description: [pie pecan homemade], Food Code: 3962, Similarity: 0.78
+
+
+Ingredient: cinnamon
+Matched Description: [spice cinnamon ground], Food Code: 178, Similarity: 0.76
+
+
+Ingredient: shallots
+Matched Description: [shallot raw], Food Code: 2326, Similarity: 0.87
+
+
+Ingredient: Scotch bonnet pepper
+Matched Description: [spice pepper red or cayenne], Food Code: 199, Similarity: 0.75
+
+
+Ingredient: parsley
+Matched Description: [parsley fresh], Food Code: 2405, Similarity: 0.88
+
+
+Ingredient: corn
+Matched Description: [corn fritter], Food Code: 6, Similarity: 0.75
+
+
+Ingredient: spinach
+Matched Description: [spinach raw], Food Code: 2213, Similarity: 0.86
+
+
+Ingredient: Monterey Jack cheese
+Matched Description: [cheese monterey], Food Code: 34, Similarity: 0.90
+
+
+Ingredient: bacon fat
+Matched Description: [animal fat bacon grease], Food Code: 5310, Similarity: 0.86
+
+
+Ingredient: Swiss chard
+Matched Description: [chard swiss raw], Food Code: 2052, Similarity: 0.81
+
+
+Ingredient: peanut
+Matched Description: [cookie peanut butter sandwich], Food Code: 3843, Similarity: 0.81
+
+
+Ingredient: cornbread
+Matched Description: [corn fritter], Food Code: 6, Similarity: 0.76
+
+
+Ingredient: red wine
+Matched Description: [vinegar red wine], Food Code: 6195, Similarity: 0.85
+
+
+Ingredient: salt
+Matched Description: [salt table], Food Code: 214, Similarity: 0.79
+
+
+Ingredient: onions
+Matched Description: [onion raw], Food Code: 2401, Similarity: 0.84
+
+
+Ingredient: pea tendrils
+Matched Description: [pea green raw], Food Code: 2409, Similarity: 0.74
+
+
+Ingredient: asparagus
+Matched Description: [asparagus raw], Food Code: 1990, Similarity: 0.83
+
+
+Ingredient: star anise
+Matched Description: [spice anise seed], Food Code: 170, Similarity: 0.83
+
+
+Ingredient: goat cheese
+Matched Description: [cheese gouda], Food Code: 109, Similarity: 0.80
+
+
+Ingredient: onion
+Matched Description: [onion raw], Food Code: 2401, Similarity: 0.84
+
+
+Ingredient: Cheddar cheese
+Matched Description: [cheese cheddar], Food Code: 119, Similarity: 0.91
+
+
+Ingredient: apple
+Matched Description: [sweet fruit butter apple], Food Code: 4293, Similarity: 0.73
+
+
+Ingredient: tomato
+Matched Description: [tomato powder], Food Code: 2260, Similarity: 0.78
+
+
+Ingredient: cream sherry
+Matched Description: [cheese cream], Food Code: 28, Similarity: 0.75
+
+
+Ingredient: green bell pepper
+Matched Description: [pepper sweet green sauteed], Food Code: 5415, Similarity: 0.78
+
+
+Ingredient: lime juice
+Matched Description: [lime juice raw], Food Code: 1594, Similarity: 0.91
+
+
+Ingredient: artichoke
+Matched Description: [artichoke marinated], Food Code: 6298, Similarity: 0.86
+
+
+Ingredient: Italian parsley
+Matched Description: [parsley fresh], Food Code: 2405, Similarity: 0.77
+
+
+Ingredient: raisins
+Matched Description: [raisin seeded], Food Code: 1746, Similarity: 0.86
+
+
+Ingredient: Lemon Beurre Blanc
+Matched Description: [butter whipped], Food Code: 16, Similarity: 0.73
+
+
+Ingredient: enchilada sauce
+Matched Description: [fast food mexican enchilada with cheese], Food Code: 4601, Similarity: 0.77
+
+
+Ingredient: sesame oil
+Matched Description: [vegetable oil sesame], Food Code: 424, Similarity: 0.86
+
+
+Ingredient: sugar snap peas
+Matched Description: [pea ediblepodded snow pea boiled drained], Food Code: 2146, Similarity: 0.75
+
+
+Ingredient: cheese
+Matched Description: [cheese cheddar], Food Code: 119, Similarity: 0.84
+
+
+Ingredient: lemon zest
+Matched Description: [lemon peel raw], Food Code: 1592, Similarity: 0.78
+
+
+Ingredient: hot pepper flakes
+Matched Description: [pepper hot chili red or green raw], Food Code: 2322, Similarity: 0.76
+
+
+Ingredient: roast drippings
+Matched Description: [chicken roasting giblet simmered], Food Code: 642, Similarity: 0.74
+
+
+Ingredient: walnuts
+Matched Description: [vegetable oil walnut], Food Code: 439, Similarity: 0.79
+
+
+Ingredient: orange zest
+Matched Description: [orange pineapple juice], Food Code: 7051, Similarity: 0.80
+
+
+Ingredient: bacon
+Matched Description: [meatless bacon], Food Code: 3315, Similarity: 0.80
+
+
+Ingredient: lemon
+Matched Description: [lemon juice raw], Food Code: 1589, Similarity: 0.77
+
+
+Ingredient: arugula
+Matched Description: [arugula raw], Food Code: 2352, Similarity: 0.89
+
+
+Ingredient: orange
+Matched Description: [orange pineapple juice], Food Code: 7051, Similarity: 0.74
+
+
+Ingredient: sage
+Matched Description: [spice sage ground], Food Code: 206, Similarity: 0.72
+
+
+Ingredient: cauliflower
+Matched Description: [cauliflower raw], Food Code: 2385, Similarity: 0.86
+
+
+Ingredient: chipotle
+Matched Description: [fast food mexican burrito with bean and chili pepper], Food Code: 4589, Similarity: 0.76
+
+
+Ingredient: snow peas
+Matched Description: [pea ediblepodded snow pea boiled drained], Food Code: 2146, Similarity: 0.76
+
+
+Ingredient: breadcrumbs
+Matched Description: [poi], Food Code: 2164, Similarity: 0.64
+
+
+Ingredient: marjoram
+Matched Description: [spice marjoram dried], Food Code: 191, Similarity: 0.77
+
+
+Ingredient: marinara sauce
+Matched Description: [sauce pasta spaghetti or marinara readytoserve], Food Code: 4735, Similarity: 0.81
+
+
+Ingredient: vegetable stock
+Matched Description: [vegetarian stew meatless], Food Code: 5545, Similarity: 0.76
+
+
+Ingredient: molasses
+Matched Description: [cookie molasses], Food Code: 3830, Similarity: 0.84
+
+
+Ingredient: chili sauce
+Matched Description: [sauce chili pepper hot chili mature red canned], Food Code: 5354, Similarity: 0.81
+
+
+Ingredient: pickle
+Matched Description: [pickle relish sweet], Food Code: 2340, Similarity: 0.75
+
+
+Ingredient: paprika
+Matched Description: [spice paprika], Food Code: 196, Similarity: 0.88
+
+
+Ingredient: mushrooms
+Matched Description: [mushroom white raw], Food Code: 2399, Similarity: 0.79
+
+
+Ingredient: ginger
+Matched Description: [ginger root raw], Food Code: 2091, Similarity: 0.81
+
+
+Ingredient: cumin
+Matched Description: [spice cumin seed], Food Code: 182, Similarity: 0.79
+
+
+Ingredient: hazelnuts
+Matched Description: [vegetable oil hazelnut], Food Code: 443, Similarity: 0.83
+
+
+Ingredient: potato hamburger bun
+Matched Description: [potato hashedbrown homemade], Food Code: 2168, Similarity: 0.77
+
+
+Ingredient: tomato paste
+Matched Description: [tomato powder], Food Code: 2260, Similarity: 0.86
+
+
+Ingredient: andouille sausage
+Matched Description: [meatless sausage], Food Code: 3316, Similarity: 0.75
+
+
+Ingredient: cream cheese
+Matched Description: [cheese cream], Food Code: 28, Similarity: 0.85
+
+
+Ingredient: trout
+Matched Description: [fish trout rainbow wild baked or broiled], Food Code: 3206, Similarity: 0.75
+
+
+Ingredient: peas
+Matched Description: [pea split boiled], Food Code: 3395, Similarity: 0.81
+
+
+Ingredient: pasta
+Matched Description: [pasta made with egg homemade cooked], Food Code: 4454, Similarity: 0.78
+
+
+Ingredient: shallot
+Matched Description: [shallot raw], Food Code: 2326, Similarity: 0.87
+
+
+Ingredient: bread crumbs
+Matched Description: [bread crumb dry grated seasoned], Food Code: 4060, Similarity: 0.84
+
+
+Ingredient: cabbage
+Matched Description: [cabbage raw], Food Code: 2361, Similarity: 0.84
+
+
+Ingredient: cayenne pepper
+Matched Description: [spice pepper red or cayenne], Food Code: 199, Similarity: 0.89
+
+
+Ingredient: jalapeno
+Matched Description: [pepper jalapeno raw], Food Code: 4860, Similarity: 0.78
+
+
+Ingredient: pine nuts
+Matched Description: [nut pistachio nut raw], Food Code: 2644, Similarity: 0.78
+
+
+Ingredient: ground cumin
+Matched Description: [spice cumin seed], Food Code: 182, Similarity: 0.77
+
+
+Ingredient: almond
+Matched Description: [candy sugarcoated almond], Food Code: 5748, Similarity: 0.81
+
+
+Ingredient: orzo
+Matched Description: [grain semolina], Food Code: 4478, Similarity: 0.69
+
+
+Ingredient: juniper berries
+Matched Description: [pokeberry shoot raw], Food Code: 2165, Similarity: 0.72
+
+
+Ingredient: wild leeks
+Matched Description: [leek bulb and lowerleaf portion raw], Food Code: 2396, Similarity: 0.75
+
+
+Ingredient: vegetable oil
+Matched Description: [vegetable oil canola], Food Code: 451, Similarity: 0.91
+
+
+Ingredient: pork
+Matched Description: [liver sausage liverwurst pork], Food Code: 1192, Similarity: 0.79
+
+
+Ingredient: flat-leaf parsley
+Matched Description: [parsley fresh], Food Code: 2405, Similarity: 0.79
+
+
+Ingredient: sweetened shredded coconut
+Matched Description: [nut coconut meat desiccated sweetened shredded], Food Code: 2603, Similarity: 0.85
+
+
+Ingredient: lemon peel
+Matched Description: [lemon peel raw], Food Code: 1592, Similarity: 0.89
+
+
+Ingredient: red wine vinegar
+Matched Description: [vinegar red wine], Food Code: 6195, Similarity: 0.89
+
+
+Ingredient: balsamic vinegar
+Matched Description: [vinegar balsamic], Food Code: 6196, Similarity: 0.92
+
+
+Ingredient: rice vinegar
+Matched Description: [vinegar red wine], Food Code: 6195, Similarity: 0.78
+
+
+Ingredient: boletus
+Matched Description: [moth bean boiled], Food Code: 3296, Similarity: 0.67
+
+
+Ingredient: oysters
+Matched Description: [ostrich oyster cooked], Food Code: 5661, Similarity: 0.78
+
+
+Ingredient: sesame seeds
+Matched Description: [seed sesame seed kernel toasted shelled with salt], Food Code: 6538, Similarity: 0.81
+
+
+Ingredient: fennel seeds
+Matched Description: [spice fennel seed], Food Code: 186, Similarity: 0.91
+
+
+Ingredient: almonds
+Matched Description: [candy sugarcoated almond], Food Code: 5748, Similarity: 0.81
+
+
+Ingredient: brown sugar
+Matched Description: [sweet sugar brown], Food Code: 4317, Similarity: 0.87
+
+
+Ingredient: Mozzarella
+Matched Description: [mozzarella stick fried], Food Code: 6813, Similarity: 0.81
+
+
+Ingredient: lobster
+Matched Description: [crustacean lobster american northern boiled or steamed], Food Code: 3210, Similarity: 0.77
+
+
+Ingredient: low-fat chicken stock
+Matched Description: [soup stock chicken homemade], Food Code: 5337, Similarity: 0.76
+
+
+Ingredient: red onion
+Matched Description: [onion raw], Food Code: 2401, Similarity: 0.81
+
+
+Ingredient: egg whites
+Matched Description: [egg chicken white dried], Food Code: 4721, Similarity: 0.81
+
+
+Ingredient: crackers
+Matched Description: [cracker cheese], Food Code: 3859, Similarity: 0.86
+
+
+Ingredient: pineapple
+Matched Description: [pineapple raw], Food Code: 1734, Similarity: 0.85
+
+
+Ingredient: potato chips
+Matched Description: [snack potato chip cheese], Food Code: 4369, Similarity: 0.87
+
+
+Ingredient: gruyere cheese
+Matched Description: [cheese gruyere], Food Code: 32, Similarity: 0.95
+
+
+Ingredient: rock shrimp
+Matched Description: [crustacean shrimp mixed specie boiled or steamed], Food Code: 3212, Similarity: 0.78
+
+
+Ingredient: pork fat
+Matched Description: [animal fat lard pork], Food Code: 464, Similarity: 0.87
+
+
+Ingredient: romaine lettuce
+Matched Description: [lettuce co or romaine], Food Code: 2116, Similarity: 0.84
+
+
+Ingredient: soy
+Matched Description: [vegetable oil soybean], Food Code: 419, Similarity: 0.74
+
+
+Ingredient: chicken
+Matched Description: [animal fat chicken], Food Code: 445, Similarity: 0.78
+
+
+Ingredient: sugar
+Matched Description: [sweet sugar brown], Food Code: 4317, Similarity: 0.79
+
+
+Ingredient: cherry tomatoes
+Matched Description: [tomato sundried], Food Code: 2348, Similarity: 0.78
+
+
+Ingredient: smoked sausage
+Matched Description: [sausage polish smoked precooked], Food Code: 5674, Similarity: 0.85
+
+
+Ingredient: coconut
+Matched Description: [vegetable oil coconut], Food Code: 420, Similarity: 0.79
+
+
+Ingredient: chili powder
+Matched Description: [spice chili powder], Food Code: 177, Similarity: 0.90
+
+
+Ingredient: ground beef
+Matched Description: [beef ground regular], Food Code: 2698, Similarity: 0.81
+
+
+Ingredient: bread
+Matched Description: [bread rye], Food Code: 4065, Similarity: 0.79
+
+
+Ingredient: vanilla
+Matched Description: [vanilla extract], Food Code: 216, Similarity: 0.81
 
 
 Ingredient: beans
@@ -134,1347 +855,363 @@ Ingredient: beef
 Matched Description: [stir fry with beef], Food Code: 6769, Similarity: 0.78
 
 
-Ingredient: beef broth
-Matched Description: [beef tripe simmered], Food Code: 6375, Similarity: 0.81
+Ingredient: eggplant
+Matched Description: [eggplant pickled], Food Code: 5550, Similarity: 0.83
 
 
-Ingredient: beef drippings
-Matched Description: [meat dripping lard beef tallow mutton tallow], Food Code: 5309, Similarity: 0.81
-
-
-Ingredient: beets
-Matched Description: [beet raw], Food Code: 2500, Similarity: 0.84
-
-
-Ingredient: bell pepper
-Matched Description: [pepper sweet red sauteed], Food Code: 5417, Similarity: 0.77
-
-
-Ingredient: berries
-Matched Description: [breadfruit raw], Food Code: 1522, Similarity: 0.71
-
-
-Ingredient: black pepper
-Matched Description: [spice pepper black], Food Code: 198, Similarity: 0.84
-
-
-Ingredient: black trumpet mushrooms
-Matched Description: [mushroom white raw], Food Code: 2399, Similarity: 0.69
-
-
-Ingredient: blackberries
-Matched Description: [blackberry raw], Food Code: 1515, Similarity: 0.79
-
-
-Ingredient: blue cheese
-Matched Description: [cheese blue], Food Code: 18, Similarity: 0.85
-
-
-Ingredient: blueberries
-Matched Description: [blueberry raw], Food Code: 1705, Similarity: 0.83
-
-
-Ingredient: bread
-Matched Description: [bread rye], Food Code: 4065, Similarity: 0.79
-
-
-Ingredient: bread crumbs
-Matched Description: [bread crumb dry grated seasoned], Food Code: 4060, Similarity: 0.84
-
-
-Ingredient: breadcrumbs
-Matched Description: [poi], Food Code: 2164, Similarity: 0.64
-
-
-Ingredient: broccoli
-Matched Description: [broccoli raw], Food Code: 2374, Similarity: 0.83
-
-
-Ingredient: broccoli rabe
-Matched Description: [broccoli raab rapini cooked], Food Code: 5411, Similarity: 0.83
-
-
-Ingredient: broth
-Matched Description: [soup broth fish], Food Code: 5356, Similarity: 0.76
-
-
-Ingredient: brown sugar
-Matched Description: [sweet sugar brown], Food Code: 4317, Similarity: 0.87
-
-
-Ingredient: bun
-Matched Description: [cinnamon bun with icing honey bun], Food Code: 7088, Similarity: 0.71
-
-
-Ingredient: buns
-Matched Description: [cinnamon bun with icing honey bun], Food Code: 7088, Similarity: 0.71
-
-
-Ingredient: butter
-Matched Description: [butter regular], Food Code: 118, Similarity: 0.81
-
-
-Ingredient: buttermilk
-Matched Description: [milk fluid buttermilk cultured whole], Food Code: 7024, Similarity: 0.80
-
-
-Ingredient: cabbage
-Matched Description: [cabbage raw], Food Code: 2361, Similarity: 0.84
-
-
-Ingredient: cake
-Matched Description: [cake snack cake creamfilled sponge], Food Code: 3785, Similarity: 0.76
-
-
-Ingredient: cake mix
-Matched Description: [cake yellow plus streusel puddingtype dry mix prepared with icing], Food Code: 6622, Similarity: 0.79
-
-
-Ingredient: canola oil
-Matched Description: [vegetable oil canola], Food Code: 451, Similarity: 0.90
-
-
-Ingredient: capers
-Matched Description: [caper canned], Food Code: 4890, Similarity: 0.80
-
-
-Ingredient: caraway seeds
-Matched Description: [spice caraway seed], Food Code: 173, Similarity: 0.87
-
-
-Ingredient: cardamom
-Matched Description: [spice cardamom ground], Food Code: 174, Similarity: 0.80
-
-
-Ingredient: carrot
-Matched Description: [carrot raw], Food Code: 2380, Similarity: 0.83
-
-
-Ingredient: carrots
-Matched Description: [carrot raw], Food Code: 2380, Similarity: 0.83
-
-
-Ingredient: cashews
-Matched Description: [nut cashew nut raw], Food Code: 5709, Similarity: 0.83
-
-
-Ingredient: cauliflower
-Matched Description: [cauliflower raw], Food Code: 2385, Similarity: 0.86
-
-
-Ingredient: caviar
-Matched Description: [fish caviar black and red granular], Food Code: 2995, Similarity: 0.79
-
-
-Ingredient: cayenne
-Matched Description: [spice pepper red or cayenne], Food Code: 199, Similarity: 0.83
-
-
-Ingredient: cayenne pepper
-Matched Description: [spice pepper red or cayenne], Food Code: 199, Similarity: 0.89
-
-
-Ingredient: celery
-Matched Description: [celery raw], Food Code: 2386, Similarity: 0.83
-
-
-Ingredient: celery root
-Matched Description: [celery raw], Food Code: 2386, Similarity: 0.83
-
-
-Ingredient: cereal
-Matched Description: [bar milk and cereal], Food Code: 6326, Similarity: 0.78
-
-
-Ingredient: champagne
-Matched Description: [sangria], Food Code: 6707, Similarity: 0.74
-
-
-Ingredient: chanterelle mushrooms
-Matched Description: [mushroom chanterelle raw], Food Code: 6928, Similarity: 0.82
-
-
-Ingredient: cheddar
-Matched Description: [cheese cheddar], Food Code: 119, Similarity: 0.88
-
-
-Ingredient: cheddar cheese
-Matched Description: [cheese cheddar], Food Code: 119, Similarity: 0.91
-
-
-Ingredient: cheese
-Matched Description: [cheese cheddar], Food Code: 119, Similarity: 0.84
-
-
-Ingredient: chicken
-Matched Description: [animal fat chicken], Food Code: 445, Similarity: 0.78
-
-
-Ingredient: chicken broth
-Matched Description: [chicken canned no broth], Food Code: 5333, Similarity: 0.82
-
-
-Ingredient: chicken stock
-Matched Description: [soup stock chicken homemade], Food Code: 5337, Similarity: 0.83
-
-
-Ingredient: chicory
-Matched Description: [chicory green cichorium intybus raw], Food Code: 2057, Similarity: 0.80
-
-
-Ingredient: chile
-Matched Description: [cheese cheddar], Food Code: 119, Similarity: 0.66
-
-
-Ingredient: chiles
-Matched Description: [cheese cheddar], Food Code: 119, Similarity: 0.66
-
-
-Ingredient: chili
-Matched Description: [chili with bean canned], Food Code: 3391, Similarity: 0.79
-
-
-Ingredient: chili powder
-Matched Description: [spice chili powder], Food Code: 177, Similarity: 0.90
-
-
-Ingredient: chili sauce
-Matched Description: [sauce chili pepper hot chili mature red canned], Food Code: 5354, Similarity: 0.81
-
-
-Ingredient: chipotle
-Matched Description: [fast food mexican burrito with bean and chili pepper], Food Code: 4589, Similarity: 0.76
-
-
-Ingredient: chives
-Matched Description: [chive raw], Food Code: 2059, Similarity: 0.85
-
-
-Ingredient: chocolate
-Matched Description: [cookie chocolate with icing or coating], Food Code: 7257, Similarity: 0.76
-
-
-Ingredient: chocolate chip ice cream
-Matched Description: [cookie chocolate chip refrigerated dough], Food Code: 3816, Similarity: 0.81
-
-
-Ingredient: chocolate chips
-Matched Description: [cookie chocolate chip homemade made with butter], Food Code: 4010, Similarity: 0.81
-
-
-Ingredient: chocolate ice cream
-Matched Description: [dessert frozen ice cream chocolate], Food Code: 4288, Similarity: 0.87
-
-
-Ingredient: chocolate sauce
-Matched Description: [cookie chocolate with icing or coating], Food Code: 7257, Similarity: 0.77
-
-
-Ingredient: chutney
-Matched Description: [tomato ketchup catsup], Food Code: 2494, Similarity: 0.69
-
-
-Ingredient: cider
-Matched Description: [vinegar cider], Food Code: 13, Similarity: 0.85
-
-
-Ingredient: cilantro
-Matched Description: [spice coriander seed cilantro], Food Code: 181, Similarity: 0.81
-
-
-Ingredient: cinnamon
-Matched Description: [spice cinnamon ground], Food Code: 178, Similarity: 0.76
-
-
-Ingredient: cinnamon stick
-Matched Description: [spice cinnamon ground], Food Code: 178, Similarity: 0.75
-
-
-Ingredient: cipollini onions
-Matched Description: [onion yellow sauteed], Food Code: 5960, Similarity: 0.70
-
-
-Ingredient: cloves
-Matched Description: [clam fritter], Food Code: 3240, Similarity: 0.66
-
-
-Ingredient: cocoa
-Matched Description: [sweet cocoa powder unsweetened], Food Code: 4223, Similarity: 0.74
-
-
-Ingredient: cocoa powder
-Matched Description: [sweet cocoa powder unsweetened], Food Code: 4223, Similarity: 0.83
-
-
-Ingredient: coconut
-Matched Description: [vegetable oil coconut], Food Code: 420, Similarity: 0.79
-
-
-Ingredient: coconut milk
-Matched Description: [nut coconut milk liquid from grated meat and water canned], Food Code: 2565, Similarity: 0.81
-
-
-Ingredient: coconut oil
-Matched Description: [vegetable oil coconut], Food Code: 420, Similarity: 0.85
+Ingredient: blue cheese dressing
+Matched Description: [salad dressing blue or roquefort cheese dressing fat free], Food Code: 5489, Similarity: 0.79
 
 
 Ingredient: coconut water
 Matched Description: [nut coconut water liquid from coconut], Food Code: 2566, Similarity: 0.86
 
 
-Ingredient: coffee
-Matched Description: [tea brewed], Food Code: 2909, Similarity: 0.79
+Ingredient: skewer
+Matched Description: [veal shoulder shank lean braised], Food Code: 3545, Similarity: 0.66
 
 
-Ingredient: condensed milk
-Matched Description: [milk condensed sweetened canned], Food Code: 68, Similarity: 0.87
-
-
-Ingredient: confectioners' sugar
-Matched Description: [sweet sugar icing powdered], Food Code: 4319, Similarity: 0.83
-
-
-Ingredient: cookie
-Matched Description: [cookie coconut macaroon], Food Code: 3822, Similarity: 0.77
-
-
-Ingredient: cooking spray
-Matched Description: [vegetable oil cooking spray], Food Code: 6465, Similarity: 0.85
-
-
-Ingredient: coriander
-Matched Description: [spice coriander seed cilantro], Food Code: 181, Similarity: 0.81
-
-
-Ingredient: corn
-Matched Description: [corn fritter], Food Code: 6, Similarity: 0.75
-
-
-Ingredient: corn husks
-Matched Description: [grain cornstarch], Food Code: 4419, Similarity: 0.76
-
-
-Ingredient: corn syrup
-Matched Description: [sweet syrup corn highfructose], Food Code: 4324, Similarity: 0.78
-
-
-Ingredient: cornflakes
-Matched Description: [cereal ready to eat corn flake frosted compliment], Food Code: 6915, Similarity: 0.81
-
-
-Ingredient: cornichons
-Matched Description: [corn fritter], Food Code: 6, Similarity: 0.72
-
-
-Ingredient: cornmeal
-Matched Description: [grain cornmeal yellow degermed], Food Code: 4470, Similarity: 0.78
-
-
-Ingredient: cornstarch
-Matched Description: [grain cornstarch], Food Code: 4419, Similarity: 0.88
-
-
-Ingredient: crab boil seasoning
-Matched Description: [crustacean crab dungeness boiled or steamed], Food Code: 3172, Similarity: 0.74
-
-
-Ingredient: crabmeat
-Matched Description: [crustacean crab blue raw], Food Code: 3096, Similarity: 0.79
-
-
-Ingredient: crackers
-Matched Description: [cracker cheese], Food Code: 3859, Similarity: 0.86
-
-
-Ingredient: cranberry juice
-Matched Description: [cranberry juice unsweetened], Food Code: 5593, Similarity: 0.87
-
-
-Ingredient: cream
-Matched Description: [cheese cream], Food Code: 28, Similarity: 0.76
-
-
-Ingredient: cream cheese
-Matched Description: [cheese cream], Food Code: 28, Similarity: 0.85
-
-
-Ingredient: creme fraiche
-Matched Description: [cheese cream], Food Code: 28, Similarity: 0.80
-
-
-Ingredient: cucumber
-Matched Description: [cucumber raw], Food Code: 2363, Similarity: 0.87
-
-
-Ingredient: cumin
-Matched Description: [spice cumin seed], Food Code: 182, Similarity: 0.79
-
-
-Ingredient: curly endive
-Matched Description: [escarole or endive cichorium endivia raw], Food Code: 2090, Similarity: 0.77
-
-
-Ingredient: dill
-Matched Description: [spice dill seed], Food Code: 184, Similarity: 0.75
-
-
-Ingredient: dill seeds
-Matched Description: [spice dill seed], Food Code: 184, Similarity: 0.86
-
-
-Ingredient: dough
-Matched Description: [phyllo dough], Food Code: 3974, Similarity: 0.79
-
-
-Ingredient: dry mustard
-Matched Description: [vegetable oil mustard], Food Code: 452, Similarity: 0.76
-
-
-Ingredient: duck
-Matched Description: [animal fat duck], Food Code: 447, Similarity: 0.72
-
-
-Ingredient: duck fat
-Matched Description: [animal fat duck], Food Code: 447, Similarity: 0.82
-
-
-Ingredient: egg
-Matched Description: [bagel egg], Food Code: 3673, Similarity: 0.75
-
-
-Ingredient: egg white
-Matched Description: [egg chicken white dried], Food Code: 4721, Similarity: 0.81
-
-
-Ingredient: egg whites
-Matched Description: [egg chicken white dried], Food Code: 4721, Similarity: 0.81
-
-
-Ingredient: egg yolks
-Matched Description: [egg chicken yolk cooked], Food Code: 6718, Similarity: 0.84
-
-
-Ingredient: eggs
-Matched Description: [bagel egg], Food Code: 3673, Similarity: 0.75
-
-
-Ingredient: enchilada sauce
-Matched Description: [fast food mexican enchilada with cheese], Food Code: 4601, Similarity: 0.77
-
-
-Ingredient: evaporated milk
-Matched Description: [milk evaporated partly skimmed canned undiluted 2 mf], Food Code: 153, Similarity: 0.80
-
-
-Ingredient: fenugreek
-Matched Description: [spice fenugreek seed], Food Code: 187, Similarity: 0.84
-
-
-Ingredient: feta cheese
-Matched Description: [cheese feta], Food Code: 108, Similarity: 0.93
-
-
-Ingredient: fettuccine
-Matched Description: [spaghetti with cream sauce], Food Code: 6766, Similarity: 0.75
-
-
-Ingredient: fish
-Matched Description: [fish oil salmon], Food Code: 461, Similarity: 0.75
-
-
-Ingredient: fish sauce
-Matched Description: [fish oil salmon], Food Code: 461, Similarity: 0.79
-
-
-Ingredient: five-spice powder
-Matched Description: [spice curry powder], Food Code: 183, Similarity: 0.83
-
-
-Ingredient: flank steak
-Matched Description: [beef flank flank steak boneless lean raw], Food Code: 6022, Similarity: 0.80
-
-
-Ingredient: flour
-Matched Description: [potato flour], Food Code: 2440, Similarity: 0.78
-
-
-Ingredient: food coloring
-Matched Description: [cake yellow commercial with vanilla white icing frosting], Food Code: 3794, Similarity: 0.67
-
-
-Ingredient: fries
-Matched Description: [frybread made with lard], Food Code: 6265, Similarity: 0.76
-
-
-Ingredient: fruit
-Matched Description: [breadfruit raw], Food Code: 1522, Similarity: 0.78
-
-
-Ingredient: fruit preserves
-Matched Description: [sweet jam and preserve apricot], Food Code: 4379, Similarity: 0.79
-
-
-Ingredient: garam masala
-Matched Description: [spice curry powder], Food Code: 183, Similarity: 0.77
-
-
-Ingredient: garlic
-Matched Description: [bread garlic], Food Code: 7087, Similarity: 0.86
-
-
-Ingredient: garlic powder
-Matched Description: [spice garlic powder], Food Code: 188, Similarity: 0.89
-
-
-Ingredient: ginger
-Matched Description: [ginger root raw], Food Code: 2091, Similarity: 0.81
-
-
-Ingredient: goat cheese
+Ingredient: gorgonzola
 Matched Description: [cheese gouda], Food Code: 109, Similarity: 0.80
-
-
-Ingredient: golden beets
-Matched Description: [beet raw], Food Code: 2500, Similarity: 0.76
-
-
-Ingredient: gorgonzola cheese
-Matched Description: [cheese gouda], Food Code: 109, Similarity: 0.82
-
-
-Ingredient: graham crackers
-Matched Description: [cracker wheat], Food Code: 3875, Similarity: 0.80
-
-
-Ingredient: grapes
-Matched Description: [grape leaf canned], Food Code: 4856, Similarity: 0.74
-
-
-Ingredient: green
-Matched Description: [pea green raw], Food Code: 2409, Similarity: 0.68
-
-
-Ingredient: green beans
-Matched Description: [winged bean goa bean green raw], Food Code: 2279, Similarity: 0.77
-
-
-Ingredient: green onion
-Matched Description: [onion young green top only], Food Code: 5413, Similarity: 0.80
-
-
-Ingredient: green onions
-Matched Description: [onion young green top only], Food Code: 5413, Similarity: 0.80
-
-
-Ingredient: green pepper
-Matched Description: [pepper sweet green sauteed], Food Code: 5415, Similarity: 0.79
-
-
-Ingredient: greens
-Matched Description: [pea green raw], Food Code: 2409, Similarity: 0.68
-
-
-Ingredient: habanero
-Matched Description: [pepper hot chili red sundried], Food Code: 2355, Similarity: 0.70
-
-
-Ingredient: ham
-Matched Description: [delimeat black forest ham], Food Code: 7151, Similarity: 0.64
-
-
-Ingredient: heavy cream
-Matched Description: [cheese cream], Food Code: 28, Similarity: 0.80
-
-
-Ingredient: herbes de Provenï¿½e
-Matched Description: [soup consomme dehydrated], Food Code: 979, Similarity: 0.66
-
-
-Ingredient: herbs
-Matched Description: [tea brewed herb], Food Code: 2916, Similarity: 0.74
-
-
-Ingredient: hoisin sauce
-Matched Description: [sauce hoisin readytoserve], Food Code: 4729, Similarity: 0.84
-
-
-Ingredient: honey
-Matched Description: [sweet honey strained or extracted], Food Code: 4294, Similarity: 0.74
 
 
 Ingredient: horseradish
 Matched Description: [horseradish prepared], Food Code: 4891, Similarity: 0.89
 
 
-Ingredient: hot pepper sauce
-Matched Description: [sauce pepper or hot readytoserve], Food Code: 1029, Similarity: 0.82
+Ingredient: cheddar
+Matched Description: [cheese cheddar], Food Code: 119, Similarity: 0.88
 
 
-Ingredient: hot sauce
-Matched Description: [sauce pepper or hot readytoserve], Food Code: 1029, Similarity: 0.76
+Ingredient: yellow bell pepper
+Matched Description: [pepper sweet yellow raw], Food Code: 2344, Similarity: 0.80
 
 
-Ingredient: ice cream
-Matched Description: [dessert frozen ice cream chocolate], Food Code: 4288, Similarity: 0.77
+Ingredient: adobo sauce
+Matched Description: [sauce adobo fresco], Food Code: 5371, Similarity: 0.84
 
 
-Ingredient: jalapeno
-Matched Description: [pepper jalapeno raw], Food Code: 4860, Similarity: 0.78
+Ingredient: dill
+Matched Description: [spice dill seed], Food Code: 184, Similarity: 0.75
 
 
-Ingredient: jalapeno peppers
-Matched Description: [pepper jalapeno raw], Food Code: 4860, Similarity: 0.83
+Ingredient: flour
+Matched Description: [potato flour], Food Code: 2440, Similarity: 0.78
 
 
-Ingredient: jalapenos
-Matched Description: [pepper jalapeno raw], Food Code: 4860, Similarity: 0.78
+Ingredient: baking powder
+Matched Description: [leavening agent baking soda], Food Code: 4005, Similarity: 0.80
 
 
-Ingredient: jalapeï¿½o
-Matched Description: [pepper jalapeno raw], Food Code: 4860, Similarity: 0.75
+Ingredient: celery
+Matched Description: [celery raw], Food Code: 2386, Similarity: 0.83
 
 
-Ingredient: jam
-Matched Description: [jam type spread double fruit apricot], Food Code: 6282, Similarity: 0.71
+Ingredient: eggs
+Matched Description: [bagel egg], Food Code: 3673, Similarity: 0.75
 
 
-Ingredient: kielbasa
-Matched Description: [sausage kielbasa kolbassa], Food Code: 7158, Similarity: 0.73
+Ingredient: endive
+Matched Description: [escarole or endive cichorium endivia raw], Food Code: 2090, Similarity: 0.73
 
 
-Ingredient: kiwi
-Matched Description: [kiwi fruit raw], Food Code: 1585, Similarity: 0.81
+Ingredient: Parmigiano-Reggiano
+Matched Description: [delimeat capicollo cappocollo], Food Code: 7157, Similarity: 0.69
 
 
-Ingredient: kohlrabi
-Matched Description: [kohlrabi raw], Food Code: 2109, Similarity: 0.90
+Ingredient: honey
+Matched Description: [sweet honey strained or extracted], Food Code: 4294, Similarity: 0.74
 
 
-Ingredient: leeks
-Matched Description: [leek bulb and lowerleaf portion boiled drained], Food Code: 2397, Similarity: 0.74
+Ingredient: provolone cheese
+Matched Description: [cheese provolone], Food Code: 42, Similarity: 0.94
 
 
-Ingredient: leg of lamb
-Matched Description: [lamb canadian leg whole lean cooked], Food Code: 3433, Similarity: 0.78
+Ingredient: rib-eye steak
+Matched Description: [beef rib rib eye steak boneless lean raw], Food Code: 6068, Similarity: 0.82
 
 
-Ingredient: lemon
-Matched Description: [lemon juice raw], Food Code: 1589, Similarity: 0.77
+Ingredient: Arborio rice
+Matched Description: [rice spanish rice], Food Code: 7448, Similarity: 0.70
 
 
-Ingredient: lemon juice
-Matched Description: [lemon juice raw], Food Code: 1589, Similarity: 0.86
+Ingredient: butter
+Matched Description: [butter regular], Food Code: 118, Similarity: 0.81
 
 
-Ingredient: lemon peel
-Matched Description: [lemon peel raw], Food Code: 1592, Similarity: 0.89
-
-
-Ingredient: lemon zest
-Matched Description: [lemon peel raw], Food Code: 1592, Similarity: 0.78
-
-
-Ingredient: lemons
-Matched Description: [lemon juice raw], Food Code: 1589, Similarity: 0.77
-
-
-Ingredient: lettuce
-Matched Description: [lettuce looseleaf], Food Code: 2117, Similarity: 0.72
-
-
-Ingredient: lime
-Matched Description: [lime raw], Food Code: 1593, Similarity: 0.77
-
-
-Ingredient: lime juice
-Matched Description: [lime juice raw], Food Code: 1594, Similarity: 0.91
-
-
-Ingredient: lime zest
-Matched Description: [lime raw], Food Code: 1593, Similarity: 0.77
-
-
-Ingredient: liqueur
-Matched Description: [cheese limburger], Food Code: 33, Similarity: 0.67
-
-
-Ingredient: lobster
-Matched Description: [crustacean lobster american northern boiled or steamed], Food Code: 3210, Similarity: 0.77
-
-
-Ingredient: mango
-Matched Description: [mango raw], Food Code: 1603, Similarity: 0.85
-
-
-Ingredient: marshmallow cream
-Matched Description: [sweet topping marshmallow cream], Food Code: 4332, Similarity: 0.82
-
-
-Ingredient: masa harina
-Matched Description: [grain corn flour masa yellow u enriched], Food Code: 4465, Similarity: 0.77
-
-
-Ingredient: mayonnaise
-Matched Description: [salad dressing mayonnaise imitation soybean], Food Code: 6533, Similarity: 0.75
-
-
-Ingredient: meat
-Matched Description: [meatless chicken], Food Code: 5537, Similarity: 0.75
-
-
-Ingredient: milk
-Matched Description: [cracker milk], Food Code: 3867, Similarity: 0.79
-
-
-Ingredient: mint
-Matched Description: [poi], Food Code: 2164, Similarity: 0.65
-
-
-Ingredient: molasses
-Matched Description: [cookie molasses], Food Code: 3830, Similarity: 0.84
-
-
-Ingredient: monkfish
-Matched Description: [fish monkfish goosefish anglerfish baked or broiled], Food Code: 3150, Similarity: 0.75
-
-
-Ingredient: mozzarella
-Matched Description: [mozzarella stick fried], Food Code: 6813, Similarity: 0.81
-
-
-Ingredient: mushrooms
-Matched Description: [mushroom white raw], Food Code: 2399, Similarity: 0.79
-
-
-Ingredient: mustard
-Matched Description: [vegetable oil mustard], Food Code: 452, Similarity: 0.79
+Ingredient: corn tortilla
+Matched Description: [tamale corn], Food Code: 6938, Similarity: 0.82
 
 
 Ingredient: mustard seeds
 Matched Description: [spice mustard seed yellow], Food Code: 192, Similarity: 0.79
 
 
-Ingredient: nutmeg
-Matched Description: [nut walnut glazed], Food Code: 7221, Similarity: 0.66
-
-
-Ingredient: nuts
-Matched Description: [poi], Food Code: 2164, Similarity: 0.71
-
-
-Ingredient: oats
-Matched Description: [grain oat], Food Code: 4421, Similarity: 0.79
-
-
-Ingredient: oil
-Matched Description: [vegetable oil olive], Food Code: 422, Similarity: 0.72
-
-
-Ingredient: olive
-Matched Description: [vegetable oil olive], Food Code: 422, Similarity: 0.81
-
-
-Ingredient: olive oil
-Matched Description: [vegetable oil olive], Food Code: 422, Similarity: 0.86
-
-
-Ingredient: olives
-Matched Description: [vegetable oil olive], Food Code: 422, Similarity: 0.81
-
-
-Ingredient: onion
-Matched Description: [onion raw], Food Code: 2401, Similarity: 0.84
-
-
-Ingredient: onion powder
-Matched Description: [spice onion powder], Food Code: 194, Similarity: 0.87
-
-
-Ingredient: onions
-Matched Description: [onion raw], Food Code: 2401, Similarity: 0.84
-
-
-Ingredient: orange
-Matched Description: [orange pineapple juice], Food Code: 7051, Similarity: 0.74
-
-
-Ingredient: orange juice
-Matched Description: [orange pineapple juice], Food Code: 7051, Similarity: 0.90
-
-
-Ingredient: orange liqueur
-Matched Description: [orange pineapple juice], Food Code: 7051, Similarity: 0.78
-
-
-Ingredient: orange zest
-Matched Description: [orange pineapple juice], Food Code: 7051, Similarity: 0.80
-
-
-Ingredient: oregano
-Matched Description: [spice oregano ground], Food Code: 195, Similarity: 0.77
-
-
-Ingredient: pancake batter
-Matched Description: [pancake plain homemade], Food Code: 3935, Similarity: 0.82
-
-
-Ingredient: pancetta
-Matched Description: [chicken parmesan], Food Code: 7447, Similarity: 0.73
-
-
-Ingredient: paprika
-Matched Description: [spice paprika], Food Code: 196, Similarity: 0.88
-
-
-Ingredient: parmesan
-Matched Description: [chicken parmesan], Food Code: 7447, Similarity: 0.85
-
-
-Ingredient: parmesan cheese
-Matched Description: [chicken parmesan], Food Code: 7447, Similarity: 0.85
-
-
-Ingredient: parsley
-Matched Description: [parsley fresh], Food Code: 2405, Similarity: 0.88
-
-
-Ingredient: passion fruit juice
-Matched Description: [passion fruit juice purple raw], Food Code: 1631, Similarity: 0.90
-
-
-Ingredient: pasta
-Matched Description: [pasta made with egg homemade cooked], Food Code: 4454, Similarity: 0.78
-
-
-Ingredient: pasta shells
-Matched Description: [pasta made with egg homemade cooked], Food Code: 4454, Similarity: 0.80
-
-
-Ingredient: peaches
-Matched Description: [peach raw], Food Code: 1728, Similarity: 0.85
-
-
-Ingredient: peanut butter
-Matched Description: [cookie peanut butter sandwich], Food Code: 3843, Similarity: 0.86
-
-
-Ingredient: peanut oil
-Matched Description: [vegetable oil peanut], Food Code: 418, Similarity: 0.88
-
-
-Ingredient: peanut sauce
-Matched Description: [sauce peanut made from peanut butter water soy sauce], Food Code: 7249, Similarity: 0.83
-
-
-Ingredient: peanuts
-Matched Description: [cookie peanut butter sandwich], Food Code: 3843, Similarity: 0.81
-
-
-Ingredient: pear
-Matched Description: [poi], Food Code: 2164, Similarity: 0.78
-
-
-Ingredient: pear juice
-Matched Description: [lime juice raw], Food Code: 1594, Similarity: 0.79
-
-
-Ingredient: pears
-Matched Description: [poi], Food Code: 2164, Similarity: 0.78
-
-
-Ingredient: peas
-Matched Description: [pea split boiled], Food Code: 3395, Similarity: 0.81
-
-
-Ingredient: pecans
-Matched Description: [pie pecan homemade], Food Code: 3962, Similarity: 0.78
-
-
-Ingredient: pepitas
-Matched Description: [bread pita white], Food Code: 3708, Similarity: 0.71
-
-
-Ingredient: pepper
-Matched Description: [pepper sweet red sauteed], Food Code: 5417, Similarity: 0.80
-
-
-Ingredient: pepper flakes
-Matched Description: [pepper pasilla dried], Food Code: 4863, Similarity: 0.76
-
-
-Ingredient: peppercorns
-Matched Description: [pepper sweet red sauteed], Food Code: 5417, Similarity: 0.72
-
-
-Ingredient: pepperoni
-Matched Description: [delimeat pepperoni], Food Code: 7164, Similarity: 0.81
-
-
-Ingredient: peppers
-Matched Description: [pepper sweet red sauteed], Food Code: 5417, Similarity: 0.80
-
-
-Ingredient: persimmons
-Matched Description: [persimmon native raw], Food Code: 1655, Similarity: 0.83
-
-
-Ingredient: pesto
-Matched Description: [chicken parmesan], Food Code: 7447, Similarity: 0.70
-
-
-Ingredient: pickles
-Matched Description: [pickle relish sweet], Food Code: 2340, Similarity: 0.75
-
-
-Ingredient: pie crust
-Matched Description: [pie crust standard type homemade baked], Food Code: 3972, Similarity: 0.88
-
-
-Ingredient: pie crusts
-Matched Description: [pie crust standard type homemade baked], Food Code: 3972, Similarity: 0.88
-
-
-Ingredient: pine nuts
-Matched Description: [nut pistachio nut raw], Food Code: 2644, Similarity: 0.78
-
-
-Ingredient: pineapple
-Matched Description: [pineapple raw], Food Code: 1734, Similarity: 0.85
-
-
-Ingredient: pistachios
-Matched Description: [nut pistachio nut raw], Food Code: 2644, Similarity: 0.80
-
-
-Ingredient: pita
-Matched Description: [bread pita white], Food Code: 3708, Similarity: 0.79
-
-
-Ingredient: pita bread
-Matched Description: [bread pita white], Food Code: 3708, Similarity: 0.85
-
-
-Ingredient: pita breads
-Matched Description: [bread pita white], Food Code: 3708, Similarity: 0.85
-
-
-Ingredient: plantain
-Matched Description: [plantain cooked], Food Code: 1662, Similarity: 0.87
-
-
-Ingredient: polenta
-Matched Description: [pasta corn cooked], Food Code: 4453, Similarity: 0.74
-
-
-Ingredient: pomegranate
-Matched Description: [pomegranate raw], Food Code: 1667, Similarity: 0.86
-
-
-Ingredient: pomegranate juice
-Matched Description: [pomegranate juice readytodrink], Food Code: 6661, Similarity: 0.89
-
-
-Ingredient: pork
-Matched Description: [liver sausage liverwurst pork], Food Code: 1192, Similarity: 0.79
-
-
-Ingredient: potato
-Matched Description: [bread potato], Food Code: 6785, Similarity: 0.86
-
-
-Ingredient: potatoes
-Matched Description: [bread potato], Food Code: 6785, Similarity: 0.86
-
-
-Ingredient: powdered sugar
-Matched Description: [sweet sugar icing powdered], Food Code: 4319, Similarity: 0.87
-
-
-Ingredient: prosciutto
-Matched Description: [delimeat prosciutto parma ham drycured], Food Code: 6306, Similarity: 0.80
-
-
-Ingredient: pumpkin seeds
-Matched Description: [seed pumpkin and squash seed kernel roasted], Food Code: 2517, Similarity: 0.83
-
-
-Ingredient: quinoa
-Matched Description: [grain quinoa cooked], Food Code: 5917, Similarity: 0.81
-
-
-Ingredient: radishes
-Matched Description: [radish raw], Food Code: 2443, Similarity: 0.86
-
-
-Ingredient: raisins
-Matched Description: [raisin seeded], Food Code: 1746, Similarity: 0.86
-
-
-Ingredient: raspberries
-Matched Description: [raspberry raw], Food Code: 1747, Similarity: 0.86
-
-
-Ingredient: red
-Matched Description: [lettuce red leaf], Food Code: 5412, Similarity: 0.71
-
-
-Ingredient: red beets
-Matched Description: [beet raw], Food Code: 2500, Similarity: 0.81
-
-
-Ingredient: red onion
-Matched Description: [onion raw], Food Code: 2401, Similarity: 0.81
-
-
-Ingredient: red pepper
-Matched Description: [pepper sweet red raw], Food Code: 2484, Similarity: 0.81
-
-
-Ingredient: red pepper flakes
-Matched Description: [spice pepper red or cayenne], Food Code: 199, Similarity: 0.78
-
-
-Ingredient: red peppers
-Matched Description: [pepper sweet red raw], Food Code: 2484, Similarity: 0.81
-
-
-Ingredient: red wine
-Matched Description: [vinegar red wine], Food Code: 6195, Similarity: 0.85
-
-
-Ingredient: red wine vinegar
-Matched Description: [vinegar red wine], Food Code: 6195, Similarity: 0.89
-
-
-Ingredient: rice
-Matched Description: [rice spanish rice], Food Code: 7448, Similarity: 0.77
-
-
-Ingredient: rice cereal
-Matched Description: [babyfood cereal rice dry], Food Code: 394, Similarity: 0.80
-
-
-Ingredient: rice noodles
-Matched Description: [pasta rice noodle cooked], Food Code: 4874, Similarity: 0.87
-
-
-Ingredient: rice vinegar
-Matched Description: [vinegar red wine], Food Code: 6195, Similarity: 0.78
-
-
-Ingredient: ricotta
-Matched Description: [cheese ricotta with whole milk], Food Code: 43, Similarity: 0.81
-
-
-Ingredient: romaine lettuce
-Matched Description: [lettuce co or romaine], Food Code: 2116, Similarity: 0.84
-
-
-Ingredient: rosemary
-Matched Description: [spice rosemary fresh], Food Code: 4723, Similarity: 0.77
-
-
-Ingredient: royal trumpet mushrooms
-Matched Description: [mushroom white raw], Food Code: 2399, Similarity: 0.68
-
-
-Ingredient: rum
-Matched Description: [poi], Food Code: 2164, Similarity: 0.70
-
-
-Ingredient: rye bread
-Matched Description: [bread rye], Food Code: 4065, Similarity: 0.89
-
-
-Ingredient: sage
-Matched Description: [spice sage ground], Food Code: 206, Similarity: 0.72
-
-
-Ingredient: salmon
-Matched Description: [fish oil salmon], Food Code: 461, Similarity: 0.82
-
-
-Ingredient: salsa
-Matched Description: [sauce salsa readytoserve], Food Code: 1025, Similarity: 0.79
-
-
-Ingredient: salt
-Matched Description: [salt table], Food Code: 214, Similarity: 0.79
-
-
-Ingredient: sambal
-Matched Description: [candy caramel], Food Code: 4143, Similarity: 0.65
-
-
-Ingredient: sanding sugar
-Matched Description: [sweet sugar granulated], Food Code: 4318, Similarity: 0.78
-
-
-Ingredient: sausage
-Matched Description: [sausage kielbasa kolbassa], Food Code: 7158, Similarity: 0.81
-
-
-Ingredient: scallion
-Matched Description: [onion spring green or scallion includes top and bulb raw], Food Code: 2144, Similarity: 0.76
-
-
-Ingredient: scallions
-Matched Description: [onion spring green or scallion includes top and bulb raw], Food Code: 2144, Similarity: 0.76
-
-
-Ingredient: schnapps
-Matched Description: [alcohol cocktail scotch and soda], Food Code: 2951, Similarity: 0.73
-
-
-Ingredient: seasoning
-Matched Description: [crouton seasoned], Food Code: 3886, Similarity: 0.74
-
-
-Ingredient: sesame
-Matched Description: [vegetable oil sesame], Food Code: 424, Similarity: 0.78
-
-
-Ingredient: sesame oil
-Matched Description: [vegetable oil sesame], Food Code: 424, Similarity: 0.86
-
-
-Ingredient: sesame seeds
-Matched Description: [seed sesame seed kernel toasted shelled with salt], Food Code: 6538, Similarity: 0.81
-
-
-Ingredient: shallot
-Matched Description: [shallot raw], Food Code: 2326, Similarity: 0.87
-
-
-Ingredient: shallots
-Matched Description: [shallot raw], Food Code: 2326, Similarity: 0.87
-
-
-Ingredient: shrimp
-Matched Description: [crustacean shrimp mixed specie breaded and fried], Food Code: 3104, Similarity: 0.80
-
-
-Ingredient: skewers
-Matched Description: [veal shoulder shank lean braised], Food Code: 3545, Similarity: 0.66
-
-
-Ingredient: smoked salmon
-Matched Description: [fish salmon chinook spring smoked lox], Food Code: 3129, Similarity: 0.82
-
-
-Ingredient: sorbet
-Matched Description: [dessert frozen sherbet orange], Food Code: 4165, Similarity: 0.79
-
-
-Ingredient: sorrel
-Matched Description: [sourdock sorrel native young leaf], Food Code: 5900, Similarity: 0.78
-
-
-Ingredient: sour cream
-Matched Description: [icing frosting sour cream flavour ready to eat], Food Code: 4377, Similarity: 0.76
-
-
-Ingredient: soy
-Matched Description: [vegetable oil soybean], Food Code: 419, Similarity: 0.74
-
-
-Ingredient: soy sauce
-Matched Description: [soy sauce made from soy tamari], Food Code: 3329, Similarity: 0.86
-
-
-Ingredient: spices
-Matched Description: [spice paprika], Food Code: 196, Similarity: 0.86
-
-
-Ingredient: spinach
-Matched Description: [spinach raw], Food Code: 2213, Similarity: 0.86
-
-
-Ingredient: steak
-Matched Description: [game meat bison rib eye lean steak cooked broiled], Food Code: 5720, Similarity: 0.75
-
-
-Ingredient: steaks
-Matched Description: [game meat bison rib eye lean steak cooked broiled], Food Code: 5720, Similarity: 0.75
-
-
-Ingredient: stock
-Matched Description: [poi], Food Code: 2164, Similarity: 0.64
-
-
-Ingredient: strawberries
-Matched Description: [strawberry raw], Food Code: 1749, Similarity: 0.83
-
-
-Ingredient: sugar
-Matched Description: [sweet sugar brown], Food Code: 4317, Similarity: 0.79
-
-
-Ingredient: sweet potato
-Matched Description: [sweet potato raw], Food Code: 2240, Similarity: 0.88
-
-
-Ingredient: sweet potatoes
-Matched Description: [sweet potato raw], Food Code: 2240, Similarity: 0.88
-
-
-Ingredient: tarragon
-Matched Description: [spice tarragon dried], Food Code: 209, Similarity: 0.78
-
-
-Ingredient: thyme
-Matched Description: [spice thyme fresh], Food Code: 215, Similarity: 0.80
-
-
-Ingredient: tomato
-Matched Description: [tomato powder], Food Code: 2260, Similarity: 0.78
-
-
-Ingredient: tomato paste
-Matched Description: [tomato powder], Food Code: 2260, Similarity: 0.86
-
-
-Ingredient: tomatoes
-Matched Description: [tomato powder], Food Code: 2260, Similarity: 0.78
-
-
-Ingredient: tortilla
-Matched Description: [snack tortilla chip taco], Food Code: 4134, Similarity: 0.80
-
-
-Ingredient: tortilla chips
-Matched Description: [snack tortilla chip taco], Food Code: 4134, Similarity: 0.90
-
-
-Ingredient: tortillas
-Matched Description: [snack tortilla chip taco], Food Code: 4134, Similarity: 0.80
-
-
-Ingredient: trout
-Matched Description: [fish trout rainbow wild baked or broiled], Food Code: 3206, Similarity: 0.75
-
-
-Ingredient: tuna
-Matched Description: [tuna salad], Food Code: 3086, Similarity: 0.88
-
-
-Ingredient: turkey
-Matched Description: [animal fat turkey], Food Code: 448, Similarity: 0.79
-
-
-Ingredient: turkey breast
-Matched Description: [turkey tom breast meat roasted], Food Code: 5180, Similarity: 0.85
-
-
-Ingredient: vanilla
-Matched Description: [vanilla extract], Food Code: 216, Similarity: 0.81
+Ingredient: cornstarch
+Matched Description: [grain cornstarch], Food Code: 4419, Similarity: 0.88
 
 
 Ingredient: vanilla extract
 Matched Description: [vanilla extract], Food Code: 216, Similarity: 1.00
 
 
-Ingredient: vanilla ice cream
-Matched Description: [dessert frozen ice cream light vanilla], Food Code: 4156, Similarity: 0.84
+Ingredient: zucchini
+Matched Description: [zucchini battered and fried], Food Code: 6760, Similarity: 0.81
 
 
-Ingredient: veal bones
-Matched Description: [veal brain raw], Food Code: 3603, Similarity: 0.70
+Ingredient: five-spice powder
+Matched Description: [spice curry powder], Food Code: 183, Similarity: 0.83
 
 
-Ingredient: vegetable oil
-Matched Description: [vegetable oil canola], Food Code: 451, Similarity: 0.91
+Ingredient: salad dressing
+Matched Description: [salad dressing coleslaw], Food Code: 5516, Similarity: 0.85
 
 
-Ingredient: vegetable stock
-Matched Description: [vegetarian stew meatless], Food Code: 5545, Similarity: 0.76
+Ingredient: sweet piquante peppers
+Matched Description: [pepper sweet red sauteed], Food Code: 5417, Similarity: 0.83
+
+
+Ingredient: sweet potatoes
+Matched Description: [sweet potato raw], Food Code: 2240, Similarity: 0.88
+
+
+Ingredient: white pepper
+Matched Description: [spice pepper white], Food Code: 200, Similarity: 0.83
+
+
+Ingredient: avocado
+Matched Description: [vegetable oil avocado], Food Code: 450, Similarity: 0.79
+
+
+Ingredient: cooking spray
+Matched Description: [vegetable oil cooking spray], Food Code: 6465, Similarity: 0.85
+
+
+Ingredient: mandarin oranges
+Matched Description: [sweet marmalade orange], Food Code: 4298, Similarity: 0.82
 
 
 Ingredient: vinegar
 Matched Description: [vinegar cider], Food Code: 13, Similarity: 0.87
 
 
-Ingredient: vodka
-Matched Description: [vodka cooler fruit flavour], Food Code: 6705, Similarity: 0.75
+Ingredient: wine
+Matched Description: [vinegar red wine], Food Code: 6195, Similarity: 0.77
 
 
-Ingredient: waffle cones
-Matched Description: [ice cream cone cake or wafertype], Food Code: 3913, Similarity: 0.80
+Ingredient: nonstick spray
+Matched Description: [vegetable oil cooking spray], Food Code: 6465, Similarity: 0.79
 
 
-Ingredient: walnut oil
-Matched Description: [vegetable oil walnut], Food Code: 439, Similarity: 0.85
+Ingredient: white wine
+Matched Description: [nonalcoholic wine], Food Code: 5294, Similarity: 0.81
 
 
-Ingredient: walnuts
-Matched Description: [vegetable oil walnut], Food Code: 439, Similarity: 0.79
+Ingredient: Cheddar
+Matched Description: [cheese cheddar], Food Code: 119, Similarity: 0.88
+
+
+Ingredient: hot pepper sauce
+Matched Description: [sauce pepper or hot readytoserve], Food Code: 1029, Similarity: 0.82
+
+
+Ingredient: hoisin sauce
+Matched Description: [sauce hoisin readytoserve], Food Code: 4729, Similarity: 0.84
+
+
+Ingredient: mirin
+Matched Description: [sangria], Food Code: 6707, Similarity: 0.66
+
+
+Ingredient: all-purpose seasoning
+Matched Description: [spice poultry seasoning], Food Code: 202, Similarity: 0.78
+
+
+Ingredient: Dijon mustard
+Matched Description: [vegetable oil mustard], Food Code: 452, Similarity: 0.74
+
+
+Ingredient: chicken wings
+Matched Description: [chicken broiler wing meat fried], Food Code: 632, Similarity: 0.80
+
+
+Ingredient: buns
+Matched Description: [cinnamon bun with icing honey bun], Food Code: 7088, Similarity: 0.71
+
+
+Ingredient: mushroom
+Matched Description: [mushroom white raw], Food Code: 2399, Similarity: 0.79
+
+
+Ingredient: scallion
+Matched Description: [onion spring green or scallion includes top and bulb raw], Food Code: 2144, Similarity: 0.76
+
+
+Ingredient: orange juice
+Matched Description: [orange pineapple juice], Food Code: 7051, Similarity: 0.90
+
+
+Ingredient: mustard
+Matched Description: [vegetable oil mustard], Food Code: 452, Similarity: 0.79
+
+
+Ingredient: milk
+Matched Description: [cracker milk], Food Code: 3867, Similarity: 0.79
 
 
 Ingredient: water
 Matched Description: [water municipal], Food Code: 2933, Similarity: 0.77
 
 
-Ingredient: watercress
-Matched Description: [watercress raw], Food Code: 2276, Similarity: 0.87
+Ingredient: carrots
+Matched Description: [carrot raw], Food Code: 2380, Similarity: 0.83
 
 
-Ingredient: whipped cream
-Matched Description: [butter whipped], Food Code: 16, Similarity: 0.84
+Ingredient: cheddar cheese
+Matched Description: [cheese cheddar], Food Code: 119, Similarity: 0.91
 
 
-Ingredient: whipping cream
-Matched Description: [butter whipped], Food Code: 16, Similarity: 0.81
+Ingredient: cream
+Matched Description: [cheese cream], Food Code: 28, Similarity: 0.76
 
 
-Ingredient: white beans
-Matched Description: [refried bean], Food Code: 7449, Similarity: 0.77
+Ingredient: green onions
+Matched Description: [onion young green top only], Food Code: 5413, Similarity: 0.80
 
 
-Ingredient: white rum
-Matched Description: [alcohol cocktail daiquiri rum homemade], Food Code: 2837, Similarity: 0.73
+Ingredient: black pepper
+Matched Description: [spice pepper black], Food Code: 198, Similarity: 0.84
 
 
-Ingredient: white wine vinegar
-Matched Description: [vinegar red wine], Food Code: 6195, Similarity: 0.85
+Ingredient: hoagie roll
+Matched Description: [sweet roll cheese], Food Code: 4059, Similarity: 0.71
 
 
-Ingredient: whitefish
-Matched Description: [fish whitefish native smoked baked], Food Code: 5924, Similarity: 0.76
+Ingredient: brown rice
+Matched Description: [grain rice brown mediumgrain cooked], Food Code: 4423, Similarity: 0.81
 
 
-Ingredient: wine
-Matched Description: [vinegar red wine], Food Code: 6195, Similarity: 0.77
+Ingredient: Italian flat leaf parsley
+Matched Description: [parsley fresh], Food Code: 2405, Similarity: 0.76
 
 
-Ingredient: worcestershire sauce
-Matched Description: [sauce worcestershire readytoserve], Food Code: 1133, Similarity: 0.85
+Ingredient: cod
+Matched Description: [poi], Food Code: 2164, Similarity: 0.66
 
 
-Ingredient: yeast
-Matched Description: [leavening agent yeast baker compressed], Food Code: 4007, Similarity: 0.72
+Ingredient: basil leaves
+Matched Description: [basil fresh], Food Code: 212, Similarity: 0.87
 
 
-Ingredient: yellow bell peppers
-Matched Description: [pepper sweet yellow raw], Food Code: 2344, Similarity: 0.80
+Ingredient: jalapeno peppers
+Matched Description: [pepper jalapeno raw], Food Code: 4860, Similarity: 0.83
 
 
-Ingredient: yellow pepper
-Matched Description: [pepper sweet yellow raw], Food Code: 2344, Similarity: 0.82
+Ingredient: lemon juice
+Matched Description: [lemon juice raw], Food Code: 1589, Similarity: 0.86
 
 
-Ingredient: yogurt
-Matched Description: [yogourt tofu], Food Code: 5610, Similarity: 0.81
+Ingredient: plum tomatoes
+Matched Description: [plum raw], Food Code: 1740, Similarity: 0.79
 
 
-Ingredient: yolk
-Matched Description: [egg chicken yolk cooked], Food Code: 6718, Similarity: 0.69
+Ingredient: cherrystone clams
+Matched Description: [clam fritter], Food Code: 3240, Similarity: 0.73
 
 
-Ingredient: yuca
-Matched Description: [yam flour], Food Code: 6188, Similarity: 0.66
+Ingredient: shiitake mushrooms
+Matched Description: [mushroom shiitake cooked], Food Code: 2125, Similarity: 0.88
 
 
-Ingredient: zucchini
-Matched Description: [zucchini battered and fried], Food Code: 6760, Similarity: 0.81
+Ingredient: wood
+Matched Description: [jew ear cloud or wood ear pepeao raw], Food Code: 2101, Similarity: 0.60
+
+
+Ingredient: coriander seed
+Matched Description: [spice coriander seed cilantro], Food Code: 181, Similarity: 0.86
+
+
+Ingredient: cottage cheese
+Matched Description: [cheese cottage with vegetable], Food Code: 5562, Similarity: 0.80
+
+
+Ingredient: tuna
+Matched Description: [tuna salad], Food Code: 3086, Similarity: 0.88
+
+
+Ingredient: sunflower oil
+Matched Description: [seed sunflower seed butter], Food Code: 2529, Similarity: 0.81
+
+
+Ingredient: ham
+Matched Description: [delimeat black forest ham], Food Code: 7151, Similarity: 0.64
+
+
+Ingredient: turkey
+Matched Description: [animal fat turkey], Food Code: 448, Similarity: 0.79
+
+
+Ingredient: red onions
+Matched Description: [onion raw], Food Code: 2401, Similarity: 0.81
+
+
+Ingredient: bell pepper
+Matched Description: [pepper sweet red sauteed], Food Code: 5417, Similarity: 0.77
+
+
+Ingredient: broccolini
+Matched Description: [broccoli raw], Food Code: 2374, Similarity: 0.78
+
+
+Ingredient: sea bass
+Matched Description: [fish sea bass mixed specie baked or broiled], Food Code: 3057, Similarity: 0.77
+
+
+Ingredient: garlic powder
+Matched Description: [spice garlic powder], Food Code: 188, Similarity: 0.89
+
+
+Ingredient: celery seeds
+Matched Description: [spice celery seed], Food Code: 175, Similarity: 0.84
+
+
+Ingredient: all-purpose flour
+Matched Description: [grain wheat flour white all purpose unbleached], Food Code: 6642, Similarity: 0.83
+
+
+Ingredient: basil
+Matched Description: [basil fresh], Food Code: 212, Similarity: 0.87
+
+
+Ingredient: canola oil
+Matched Description: [vegetable oil canola], Food Code: 451, Similarity: 0.90
+
+
+Ingredient: celery salt
+Matched Description: [celery boiled drained with salt], Food Code: 2481, Similarity: 0.85
+
+
+Ingredient: lamb
+Matched Description: [lamb tongue raw], Food Code: 3635, Similarity: 0.78
+
+
+Ingredient: coconut milk
+Matched Description: [nut coconut milk liquid from grated meat and water canned], Food Code: 2565, Similarity: 0.81
+
+
+Ingredient: chicken stock
+Matched Description: [soup stock chicken homemade], Food Code: 5337, Similarity: 0.83
+
+
+Ingredient: chicken thighs
+Matched Description: [chicken broiler thigh meat fried], Food Code: 625, Similarity: 0.83
+
+
+Ingredient: Comte cheese
+Matched Description: [cheese camembert], Food Code: 21, Similarity: 0.78
+
+
+Ingredient: chicken broth
+Matched Description: [chicken canned no broth], Food Code: 5333, Similarity: 0.82
 
 

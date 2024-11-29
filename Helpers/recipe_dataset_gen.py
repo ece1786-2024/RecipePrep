@@ -245,5 +245,5 @@ def test_get_pure_testing_ingre_list():
     remaining_data.to_csv(tune_ingre_list, index=False)
 
 #test_filter_raw_recipe_on_ingredient_list()
-#test_get_testing_dataset(0.2)
-test_get_pure_testing_ingre_list()
+test_get_testing_dataset(0.2)
+#test_get_pure_testing_ingre_list()
