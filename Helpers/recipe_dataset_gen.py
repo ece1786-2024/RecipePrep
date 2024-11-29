@@ -196,7 +196,7 @@ def test_get_average_instruction_length():
     print(f"The average instruction length in the {recipe_filename} dataset is: {avg_len:.4f} characters.")
 
 def test_get_testing_dataset(long_recipe_percnt):
-    sample_size = 50
+    sample_size = 200
     recipe_filename = './recipes_raw/recipes_raw_processed.json'
     output_file_name = f'./datasets/recipe_dataset_init_{sample_size}.json'
     
