@@ -16,6 +16,9 @@
     - **processed_recipes_init_{number of corresponding recipes before process}_ batch_**: Initially **processed** recipe datasets. Batch size 50, batch files are indexed in asc order. 
     - CNF_API_food_code.json: Ingredient food code dataset from CNF
     - emb folder: the processed embedding and faiss index for descriptions in the CNF_API_food_code.json
+    - **testing** folder: 
+        - tuning_ingre_list.csv: 80% of the Good ingredient list
+        - test_ingre_list.csv: 20% of Good ingredient list
 5. **ingre_nutrition_map**: Where the map and the unit map is stored
 
 ### Main Code Walkthrough
