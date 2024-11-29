@@ -196,7 +196,7 @@ def test_get_average_instruction_length():
     print(f"The average instruction length in the {recipe_filename} dataset is: {avg_len:.4f} characters.")
 
 def test_get_testing_dataset(long_recipe_percnt):
-    sample_size = 200
+    sample_size = 50
     recipe_filename = './recipes_raw/recipes_raw_processed.json'
     output_file_name = f'./datasets/recipe_dataset_init_{sample_size}.json'
     
@@ -245,5 +245,5 @@ def test_get_pure_testing_ingre_list():
     remaining_data.to_csv(tune_ingre_list, index=False)
 
 #test_filter_raw_recipe_on_ingredient_list()
-#test_get_testing_dataset(0.2)
-test_get_pure_testing_ingre_list()
+test_get_testing_dataset(0.2)
+#test_get_pure_testing_ingre_list()
