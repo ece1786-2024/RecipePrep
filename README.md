@@ -13,7 +13,7 @@
     - **recipes_raw_processed.json**: Processed recipe that only contains ingredients in the Good ingredient list
 4. datasets folder: 
     - **recipe_dataset_init_{}.json**: Randomly selected small testing dataset from the raw recipe dataset. The number means number of items. 
-    - **processed_recipes_init_{}**: Initially **processed** recipe datasets. The number means number of items. 
+    - **processed_recipes_init_{number of corresponding recipes before process}_ batch_**: Initially **processed** recipe datasets. Batch size 50, batch files are indexed in asc order. 
     - CNF_API_food_code.json: Ingredient food code dataset from CNF
     - emb folder: the processed embedding and faiss index for descriptions in the CNF_API_food_code.json
 5. **ingre_nutrition_map**: Where the map and the unit map is stored
