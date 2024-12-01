@@ -1,183 +1,41 @@
-Category,Food
-Bread & Bakery Products,Bread
-Bread & Bakery Products,Brioche
-Bread & Bakery Products,Buns
-Bread & Bakery Products,Pancakes
-Bread & Bakery Products,Pretzels
+Category,Ingredients
+Mixed,Dairy
+Mixed,Milk
+Drinks,Cocktail
 Bread & Bakery Products,Rolls
-Bread & Bakery Products,Scones
-Bread & Bakery Products,Tortillas 
-Bread & Bakery Products,Waffles
-Dairy & Eggs,Butter
-Dairy & Eggs,Buttermilk
-Dairy & Eggs,Cheese
-Dairy & Eggs,Cream
-Dairy & Eggs,Greek Yogurt
-Dairy & Eggs,Margarine
-Dairy & Eggs,Yogurt
-Drinks,Almond Beverage
-Drinks,Beer
-Drinks,Champagne
-Drinks,Cider
-Drinks,Coffee
-Drinks,Cola
-Drinks,Ginger Ale
-Drinks,Juice
-Drinks,Tea
-Drinks,Vodka
-Drinks,Water
-Drinks,Whiskey
-Drinks,Wine
-Fruits,Apple
-Fruits,Avocado
-Fruits,Bananas
-Fruits,Blackberries
-Fruits,Blueberries
-Fruits,Cherry
-Fruits,Fig
-Fruits,grapefruit
-Fruits,Grapes
-Fruits,Kiwi
-Fruits,lemon
-Fruits,Lime
-Fruits,Orange
-Fruits,Papaya
-Fruits,Passion Fruit
-Fruits,Peach
-Fruits,Pears
-Fruits,Pineapple
-Fruits,Plantains
-Fruits,Raspberries
-Fruits,Strawberry
-Meat,Bacon
-Meat,Beef
-Meat,Chicken
-Meat,Duck
-Meat,Lamb
-Meat,Meat
-Meat,Pork
-Meat,Poultry
-Meat,Sausage
-Meat,Steak
-Pantry,Brown Rice
-Pantry,Cereal
-Pantry,Chickpeas
-Pantry,Chili Sauce
-Pantry,Flour
-Pantry,Mayonnaise
-Pantry,Molasses
-Pantry,Oat
-Pantry,Pasta
-Pantry,Peanut Butter
-Pantry,Pistachios
-Pantry,rice
-Pantry,Salsa
-Pantry,Soup
-Pantry,Tomato Ketchup
-Pantry,Tomato Sauce
-Pantry,Vinegar
-Seafood,Basa 
-Seafood,Calamari
-Seafood,Clams
-Seafood,Cocktail Sauce
-Seafood,Fish
-Seafood,Haddock
-Seafood,Lobster
-Seafood,Mussels
-Seafood,Octopus
-Seafood,Oysters
-Seafood,Pollock
-Seafood,Rainbow Trout 
-Seafood,Sea Bass
-Seafood,Shrimp
-Seafood,Tilapia
-Seafood,Tuna
-Vegetables,Arugula
-seasonings,Barbecue
-Vegetables,Basil
-seasonings,bay leaf
-Vegetables,Beets
-Vegetables,Bell Peppers
-seasonings,Black Pepper
-Vegetables,Brussels Sprouts
-Vegetables,Cabbage
-Vegetables,Carrots
-seasonings,Cayenne Pepper
-seasonings,Chia Seeds
-Vegetables,Cilantro
-seasonings,cinnamon
-Vegetables,Coriander
-Vegetables,Corn
-Vegetables,Cucumber
-Vegetables,Dates
-seasonings,Dressing
-Vegetables,Eggplant
-Snacks,Cashews
-Snacks,Chips
-Snacks,chocolate
-Snacks,Cookies
-Snacks,Nut
-Snacks,Pecans
-Snacks,Pumpkin Seeds
-Snacks,Seed
-Snacks,Sunflower Seeds
-Snacks,Walnuts
-Vegan & Vegetarian Food,Apple Sauce
-Vegan & Vegetarian Food,Baking Soda
-Vegan & Vegetarian Food,Beans
-Vegan & Vegetarian Food,Corn Starch
-Vegan & Vegetarian Food,Fruit and Veggie Snacks
-Vegan & Vegetarian Food,Hummus
-Vegan & Vegetarian Food,Macaroni and Cheese
-Vegan & Vegetarian Food,Pizza
-Vegan & Vegetarian Food,Plant-Based
-Vegan & Vegetarian Food,Quinoa
-Vegan & Vegetarian Food,Raisins
-Vegan & Vegetarian Food,Salad Dressing
-Vegan & Vegetarian Food,Soft Drink
-Vegan & Vegetarian Food,Sparkling Water
-Vegan & Vegetarian Food,Tofu
-Vegetables,Endive
-Vegetables,Garlic
-seasonings,Garlic Powder
-Vegetables,Green Beans
-seasonings,Ground Ginger
-seasonings,Honey
-seasonings,Hot
-Vegetables,Leek
-Vegetables,Lettuce
-seasonings,Maple
-seasonings,Mustard
-seasonings,Nutmeg
-seasonings,oil
-seasonings,Olive Oil
-Vegetables,onion
-seasonings,Onion Powder
-seasonings,Oregano
-seasonings,Paprika
-Vegetables,Parsley
-Vegetables,Peas
-Vegetables,pepper
-Vegetables,Potato
-Vegetables,Pumpkin
-Vegetables,Radicchio
-Vegetables,Radishes
-seasonings,rosemary
-Vegetables,Rutabagas
-Vegetables,Sage
-seasonings,Salt
-seasonings,sauce
-Vegetables,Shallot
-Vegetables,Spinach
-Vegetables,Squash
-seasonings,sugar
-Vegetables,Swiss Chard
-Vegetables,zucchini
-Dairy & Eggs,Mozzarella
-Dairy & Eggs,Ricotta
-Dairy & Eggs,Cream
-Drinks,Beverage
-Dairy & Eggs,Dairy
-Dairy & Eggs,Cheddar
-Meat,Turkey
-Vegetables,artichoke
+Drinks,"Rum, Tea"
+Mixed,"Buttermilk, Molasses"
+Mixed,"Cherry, Squash, Barbecue"
+Mixed,"Water, Papaya, Pollock"
+Mixed,"Pancakes, Pineapple, Beef"
+Meat,"Sausage, Lamb, Rib"
+Dairy & Eggs,"Cheese, Ricotta, Butter"
+Mixed,"Mozzarella, Blackberries, Poultry"
+Mixed,"Steak, Chives, Chili Powder"
+Mixed,"Ham, Chickpeas, pepper, sugar"
+Mixed,"Lime, Lamb, Cocktail Sauce, Lettuce"
+Mixed,"Pears, Beef, Beets, rosemary"
+Dairy & Eggs,"Buttermilk, Butter, Ricotta, Margarine"
+Dairy & Eggs,"Milk, Cheese, Yogurt, Greek Yogurt"
+Vegetables,"Swiss Chard, artichoke, Arugula, Cabbage"
+Mixed,"Cheese, Tea, Sausage, Cider Vinegar"
+Mixed,"Cream, Peach, Cookies, Corn Starch"
+Mixed,"Whiskey, Pineapple, Peanut Butter, Crab, Endive"
+Mixed,"Tortillas , Greek Yogurt, Vodka, grapefruit, Pork"
+Mixed,"Pretzels, Cider, lemon, Chicken, Lobster"
+Mixed,"Beverage, Lamb, Broccoli, Black Pepper, Salad Dressing"
+Snacks,"Cookies, Crackers, Nut, Almonds, Pumpkin Seeds"
+Pantry,"Cereal, Hazelnut, Pistachios, Mayonnaise, rice"
+Mixed,"Bagels, Parmesan, Cod, Hot, Seed"
+Mixed,"Greek Yogurt, Cider, Apple, Lobster, Lettuce, Tofu"
+Meat,"Ham, Poultry, Pork, Sausage, Meat, Rib"
+Fruits,"Bananas, Pomegranate, Pears, Cherry, Peach, Fig"
+Fruits,"Avocado, Fig, Pineapple, lemon, Plum, Pears"
+Mixed,"Pancakes, Greek Yogurt, Cranberry, Tomato Paste, Broccoli, cinnamon"
+Seafood,"Pollock, Tuna, Tilapia, Salmon, Shrimp, Calamari, Lobster"
+Vegetables,"Shallot, Broccoli, Potato, Rutabagas, Green Beans, Celery, Radishes"
+Seafood,"Oysters, Sea Bass, Basa , Mussels, Tilapia, Sole, Cocktail Sauce, Shrimp"
+Snacks,"Almonds, Cookies, Seed, Pumpkin Seeds, Chips, Pecans, Cashews, chocolate, Nut"
+Snacks,"Almonds, Chips, Pumpkin Seeds, Cookies, Seed, Walnuts, chocolate, Sunflower Seeds, Crackers"
+Fruits,"Blackberries, Cranberry, Apple, Bananas, grapefruit, Avocado, Strawberry, Pineapple, Cherry, Cantaloupe"
+Bread & Bakery Products,"Scones, Buns, Waffles, Brioche, cake, Bread, Bagels, Rolls, Tortillas , Pretzels, Pancakes"
