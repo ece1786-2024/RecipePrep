@@ -151,7 +151,7 @@ def save_to_csv(data, file_path):
 def test_generate_datasets():
     file_path='./datasets/testing/testing_ingredient_List.csv';
     mid_percnt=0.5
-    total_size = 200
+    total_size = 400
     tune_size=0.2
     tuning_dataset_sorted,testing_dataset_sorted = generate_datasets(file_path,mid_percnt,total_size,tune_size)
     tuning_dataset_filename = './datasets/testing/tuning_ingre_list.csv'
