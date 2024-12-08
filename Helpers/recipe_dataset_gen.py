@@ -4,6 +4,8 @@ import random
 from collections import Counter
 import pandas as pd
 from nltk.stem import WordNetLemmatizer
+import re
+
 lemmatizer = WordNetLemmatizer()
 
 MIN_LONG_RECIPE_LEN = 900 #call the get_average_instruction_length() to get a sense
@@ -172,7 +174,20 @@ def get_ingre_list_from_dataset(file_path):
 
     all_ingredients_list = sorted(all_ingredients)
     
+    all_ingredients_list = [preprocess_text(ingredient) for ingredient in all_ingredients_list]
+
+  
     return all_ingredients_list
+
+def preprocess_text(text):
+    # Lowercase and remove punctuation
+    text = text.strip().lower()
+    text = re.sub(r'[^\w\s]', '', text)  # Remove punctuation
+
+    text = " ".join([lemmatizer.lemmatize(word) for word in text.split()])
+    
+    return text
+
 
 def normalize_word(word):
     word = word.lower().strip()  # Convert to lowercase and remove extra spaces
