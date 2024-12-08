@@ -1,4 +1,5 @@
 import json
+import os
 import random
 from collections import Counter
 import pandas as pd
@@ -7,18 +8,30 @@ lemmatizer = WordNetLemmatizer()
 
 MIN_LONG_RECIPE_LEN = 900 #call the get_average_instruction_length() to get a sense
 
+
+TEMP_EXCLD_FILES = [os.path.join('./datasets/Processed_Recipes/', file) for file in os.listdir('./datasets/Processed_Recipes') if file.endswith(".json")]
+
+
 #Get recipe dataset
 #long_percnt !=0: Return a long reicpe dataset with samp_size*long_percnt number of recipes, and a short recipe dataset with {1-long_percnt}*samp_size of recipes
 #long_percnt ==0: Return a testing dataset with recipes randomly selected between long and short recipes 
 
 def get_testing_dataset(in_filename,samp_size,long_percnt=0):
 
+    existing_ids = set()
+    
+    # Extract recipe IDs from existing files
+    for file in TEMP_EXCLD_FILES:
+        with open(file, 'r') as f:
+            data = json.load(f)
+            existing_ids.update(recipe["recipe_id"] for recipe in data)
+            
     with open(in_filename, "r") as f:
         recipe_data = json.load(f)
     
     #Basic filter: instruction!=None
     recipe_data = {recipe_ID: recipe_value for recipe_ID, recipe_value in recipe_data.items() 
-                    if recipe_value.get("instructions") and isinstance(recipe_value["instructions"], str) and recipe_value["instructions"].strip()}
+                    if (recipe_ID not in existing_ids) and recipe_value.get("instructions") and isinstance(recipe_value["instructions"], str) and recipe_value["instructions"].strip()}
  
     if long_percnt!=0:   
         long_recipes={}
@@ -196,7 +209,7 @@ def test_get_average_instruction_length():
     print(f"The average instruction length in the {recipe_filename} dataset is: {avg_len:.4f} characters.")
 
 def test_get_testing_dataset(long_recipe_percnt):
-    sample_size = 200
+    sample_size = 250
     recipe_filename = './recipes_raw/recipes_raw_processed.json'
     output_file_name = f'./datasets/recipe_dataset_init_{sample_size}.json'
     
@@ -245,5 +258,5 @@ def test_get_pure_testing_ingre_list():
     remaining_data.to_csv(tune_ingre_list, index=False)
 
 #test_filter_raw_recipe_on_ingredient_list()
-test_get_testing_dataset(0.2)
+#test_get_testing_dataset(0.2)
 #test_get_pure_testing_ingre_list()
