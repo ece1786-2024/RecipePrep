@@ -21,7 +21,7 @@
         - test_ingre_list.csv: 20% of Good ingredient list
 5. **ingre_nutrition_map**: Where the map and the unit map is stored
 
-## Main Code Walkthrough
+### Main Code Walkthrough
 
 Please read the DataPrcoessing_1.ipynb about how to use them. Following are some helper functions if you just want to run the process end to end.
 
