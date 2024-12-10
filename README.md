@@ -38,8 +38,6 @@ See main notebook **Ingredient-Nutrient Mapping** section. The major functions a
 2. get_all_ingredient_mapping()
 3. food_nutrient_mapping_helpder.save_nut_map
 
----
-
 ## Dataset Filtering
 
 ### Data source
@@ -81,9 +79,9 @@ Use `filter()` in the `recipe_filter.ipynb` notebook.
 
 ---
 
-## Evaluation
+# Evaluation
 
-### Criteria
+## Criteria
 
 1. **Health Score**: Measures the nutrient balance of a recipe based on the WHO Nutrient Intake Goals. Seven macronutrients are considered:  
    - **Proteins**  
@@ -104,23 +102,23 @@ Use `filter()` in the `recipe_filter.ipynb` notebook.
    - **Measurement Consistency**  
    - **Logical Step Sequencing**
 
-### Code
+## Code
 
 1. **`RAG_health_score.py`**: The Python function for health score calculation algorithm.
 2. **`recipe_relevance_ver3.py`**: The Python function for relevance evaluation algorithm.
 
-### Main Code walkthrough
+## Main Code walkthrough
 
-#### To calculate recipes' health score
+### To calculate recipes' health score
 
 Use the major function `get_health_score_with_rag()` in `RAG_health_score.py`.
 
-#### To evaluate recipes' relevance
+### To evaluate recipes' relevance
 
 Use the major function `relevance_evaluation()` in `recipe_relevance_ver3.py`.
 Refer to the example in the file for guidance on function usage.
 
-### Evaluation Function Output
+## Evaluation Function Output
 
 1. **`get_health_score_with_rag()`**:
 Returns the health score and a summary of points for the input recipe.
