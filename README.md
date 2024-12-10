@@ -129,15 +129,16 @@ Returns the health score and a summary of points for the input recipe.
 
     ```json
     {
-        'total_health_score': 3,
-        'summary_of_points': {
-            'Proteins': 0, 
-            'Carbohydrates': 0, 
-            'Sugars': 1, 
-            'Sodium': 0, 
-            'Fats': 0, 
-            'Saturated Fats': 1, 
-            'Fibers': 1}
+        "total_health_score": 3,
+        "summary_of_points": {
+            "Proteins": 0, 
+            "Carbohydrates": 0, 
+            "Sugars": 1, 
+            "Sodium": 0, 
+            "Fats": 0, 
+            "Saturated Fats": 1, 
+            "Fibers": 1
+        }
     }
     ```
 
@@ -148,9 +149,9 @@ Returns the relevance evaluation results for the input recipe.
 
     ```json
     {
-        'cooking_tools': True, 
-        'cooking_time': 0, 
-        'ingredient_overlap_rate': 66.66666666666666
+        "cooking_tools": True, 
+        "cooking_time": 0, 
+        "ingredient_overlap_rate": 66.66666666666666
     }
     ```
 
