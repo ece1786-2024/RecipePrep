@@ -149,7 +149,7 @@ Returns the relevance evaluation results for the input recipe.
 
     ```json
     {
-        "cooking_tools": True, 
+        "cooking_tools": "True", 
         "cooking_time": 0, 
         "ingredient_overlap_rate": 66.66666666666666
     }
