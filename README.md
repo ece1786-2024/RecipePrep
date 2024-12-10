@@ -55,7 +55,7 @@ See main notebook **Ingredient-Nutrient Mapping** section. The major functions a
 2. **`RAG_health_score.py`**: The Python functions inplementing the health score algorithm.
 3. **`recipe_filter.ipynb`**: The notebook for filtering recipes and merging balanced recipes in a JSON file.
 
-### Main Code walkthrough
+### Main Code Walkthrough
 
 #### To calculate recipes' health score
 
@@ -72,7 +72,7 @@ For a detailed algorithm flow and output examples, refer to `RAG_health_score_ve
 
 Use `filter()` in the `recipe_filter.ipynb` notebook.
 
-### Filtered dataset
+### Filtered Dataset
 
 - **Filtered Recipes**: `./datasets/filtered_recipes_419.json`  
   Contains 419 balanced recipes with a health score of 3 or higher.
@@ -107,7 +107,7 @@ Use `filter()` in the `recipe_filter.ipynb` notebook.
 1. **`RAG_health_score.py`**: The Python function for health score calculation algorithm.
 2. **`recipe_relevance_ver3.py`**: The Python function for relevance evaluation algorithm.
 
-## Main Code walkthrough
+## Main Code Walkthrough
 
 ### To calculate recipes' health score
 
