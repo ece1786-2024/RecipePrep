@@ -1,10 +1,13 @@
-# Data Processing
-## Data Processing Agent + Ingredient Nutrient map
-### Data sources
+# RecipePrep
+A GPT-4o-powered personalized recipe generator designed to make balanced cooking more accessible for users who may find healthy recipes complex or time-consuming to search for online. By taking user-provided ingredients and cooking requirements as input, it generates tailored recipes with clear step-by-step instructions, helping users create practical, balanced meals from what they already have.
+
+## Data Processing
+### Data Processing Agent + Ingredient Nutrient map
+#### Data sources
 1. Recipe dataset: https://eightportions.com/datasets/Recipes/#fn:1
 2. Ingredient CNF API: https://produits-sante.canada.ca/api/documentation/cnf-documentation-en.html#a6
 
-### Code Folders
+#### Code Folders
 1. **DataPrcoessing_1.ipynb**: The main notebook for Recipe data cleaning + Ingredient Map + Data Processign Agent 
 2. Helpers folder: All helper functions
 3. recipes_raw folder: 
@@ -21,43 +24,43 @@
         - test_ingre_list.csv: 20% of Good ingredient list
 5. **ingre_nutrition_map**: Where the map and the unit map is stored
 
-### Main Code Walkthrough
+#### Main Code Walkthrough
 
 Please read the DataPrcoessing_1.ipynb about how to use them. Following are some helper functions if you just want to run the process end to end.
 
-#### To have a smaller dataset for testing
+##### To have a smaller dataset for testing
 See this example test function `recipe_dataset_gen.test_get_testing_dataset`, and use the functions called inside 
 
-#### To process the paragraph style recipes into structured labels
+##### To process the paragraph style recipes into structured labels
 See main notebook `get_processed_recipe_dataset()`
 
-#### To get nutrient mapping for the processed recipes:
+##### To get nutrient mapping for the processed recipes:
 
 See main notebook **Ingredient-Nutrient Mapping** section. The major functions are:
 1. get_food_code_for_ingredients()
 2. get_all_ingredient_mapping()
 3. food_nutrient_mapping_helpder.save_nut_map
 
-## Dataset Filtering
+### Dataset Filtering
 
-### Data source
+#### Data source
 
 1. **Processed recipe dataset**: `./datasets/Processed_Recipes`
 2. **Ingredient-nutrient map**: `./ingre_nutrition_map`
 
-### Filtering criteria
+#### Filtering criteria
 
 - **Health Score**: Quantifies the nutrient balance of each recipe, (detailed in the **Evaluation** Section). Recipes with a health score below 3 are filtered out.
 
-### Code
+#### Code
 
 1. **`RAG_health_score_ver5.ipynb`**: The notebook for calculating the health score and adding it as an attribution in the recipe JSON file.
 2. **`RAG_health_score.py`**: The Python functions inplementing the health score algorithm.
 3. **`recipe_filter.ipynb`**: The notebook for filtering recipes and merging balanced recipes in a JSON file.
 
-### Main Code Walkthrough
+#### Main Code Walkthrough
 
-#### To calculate recipes' health score
+##### To calculate recipes' health score
 
 Use the major function `get_health_score_with_rag()` in `RAG_health_score.py`.
 
@@ -68,20 +71,20 @@ Examples Usages in the same file:
 
 For a detailed algorithm flow and output examples, refer to `RAG_health_score_ver5.ipynb`.
 
-#### To filter recipes
+##### To filter recipes
 
 Use `filter()` in the `recipe_filter.ipynb` notebook.
 
-### Filtered Dataset
+#### Filtered Dataset
 
 - **Filtered Recipes**: `./datasets/filtered_recipes_419.json`  
   Contains 419 balanced recipes with a health score of 3 or higher.
 
 ---
 
-# Evaluation
+## Evaluation
 
-## Criteria
+### Criteria
 
 1. **Health Score**: Measures the nutrient balance of a recipe based on the WHO Nutrient Intake Goals. Seven macronutrients are considered:  
    - **Proteins**  
@@ -102,23 +105,23 @@ Use `filter()` in the `recipe_filter.ipynb` notebook.
    - **Measurement Consistency**  
    - **Logical Step Sequencing**
 
-## Code
+### Code
 
 1. **`RAG_health_score.py`**: The Python function for health score calculation algorithm.
 2. **`recipe_relevance_ver3.py`**: The Python function for relevance evaluation algorithm.
 
-## Main Code Walkthrough
+### Main Code Walkthrough
 
-### To calculate recipes' health score
+#### To calculate recipes' health score
 
 Use the major function `get_health_score_with_rag()` in `RAG_health_score.py`.
 
-### To evaluate recipes' relevance
+#### To evaluate recipes' relevance
 
 Use the major function `relevance_evaluation()` in `recipe_relevance_ver3.py`.
 Refer to the example in the file for guidance on function usage.
 
-## Evaluation Function Output
+### Evaluation Function Output
 
 1. **`get_health_score_with_rag()`**:
 Returns the health score and a summary of points for the input recipe.
